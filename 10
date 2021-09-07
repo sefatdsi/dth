@@ -1,1 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2yRT9jbgfrxNF77e9GlGvhQNbPepBgJHqPQ&usqp=CAU", Peace Tv - Bangla
+https://linkerstv-hls.telelivebd.com/live932021/starjalsha/playlist.m3u8
 https://linkerstv-hls.telelivebd.com/live932021/starjalsha/chunks.m3u8?nimblesessionid=13751
