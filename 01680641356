@@ -84,10 +84,10 @@ http://iptvbd.jagobd.com:1931/boishakhi/btvnational-ctg.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg",Gazi tv
-http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8?nimblesessionid=2182464   
+http://acdn.bdixsports.live:1935/live/event/chunklist_w953510230.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNa32QP7FzvFbI70CrF8slchGl8S-U0zmOeA&usqp=CAU",Nagorik 
-https://cdn.ihub.live/NagorikTV/tracks-v1a1/mono.m3u8 
+http://stream.dhakaflix.com:8081/hls/nagorik.m3u8/chunks.m3u8  
 
 
 
@@ -96,7 +96,7 @@ https://cdn.ihub.live/NagorikTV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla HD
-http://103.81.104.118/hls/stream30.m3u8
+http://10.16.100.204:8082/hls/z_bangla_local.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg",Sony Aath
 http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
@@ -108,7 +108,7 @@ http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
 http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" ,Colors Bangla 
-http://103.81.104.118/hls/stream28.m3u8
+http://10.16.100.204:8082/hls/coLors_bangla_local.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4VzHdCVm3GyOqyEzxrhmvyPiITVTddmZpw&usqp=CAU" ,Enter10 Bangla
 http://103.81.104.118/hls/stream26.m3u8
@@ -175,7 +175,7 @@ https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus
-http://103.81.104.118/hls/stream38.m3u8
+http://10.16.100.200:8082/hls/star_Plus_local.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Utsav" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Utsav
 https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8
@@ -190,7 +190,7 @@ http://pn.tvott.info:80/307200113544/307200113544/83700
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://i.imgur.com/2JaTJ0M.png",Zee TV HD
-https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Ganga" tvg-logo="https://is.gd/M5Phaz",Big Ganga
 https://y5w8j4a9.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
@@ -523,7 +523,7 @@ https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Music" tvg-logo="https://i.ibb.co/Px04s8Y/Screenshot-1-removebg-preview.png",B4U Music
-https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+http://10.16.100.200:8082/hls/bforu_music_local.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M2O Tv" tvg-logo="https://www.radio.de/images/broadcasts/85/35/2550/2/c300.png",M2O Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on 
@@ -560,3 +560,4 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/7320
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bindaas Music" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/01/30/bindass-logo.jpg?itok=NM0ffXQC",Bindaas Music
 http://103.157.237.18:8000/play/313
+
