@@ -54,13 +54,13 @@ http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto Tv-1
-http://stream.amrbd.com:8082/Deepto-TV/index.m3u8?token=039d5e8bb822a3a904c4b6e5e80c86112ed39a4d-c204d3c054b565fc523f68a5486361cb-1630257641-1630246841
+http://iptvbd.jagobd.com:1931/boishakhi/deeptotv.stream/chunks.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9dRd6R8fCR9EWzxFAmmpe1WyZocBPvRdRNLLMdS47Cdzcm-aeyqM3Bo&s=10",NTV
-https://cdn.ihub.live/NTV/tracks-v1a1/mono.m3u8 
+http://173.199.120.51/hls/ntv.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG",Rtv
-http://stream.dhakaflix.com:8081/hls/rtv.m3u8/chunks.m3u8?nimblesessionid=1156999
+http://173.199.120.51/hls/rtv.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG ",Mohona tv
 http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -111,7 +111,7 @@ http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
 http://10.16.100.204:8082/hls/coLors_bangla_local.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4VzHdCVm3GyOqyEzxrhmvyPiITVTddmZpw&usqp=CAU" ,Enter10 Bangla
-http://103.81.104.118/hls/stream26.m3u8
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" ,Jalsha Movies
 http://103.106.243.163:8989/jalsha-movies/index.m3u8
@@ -143,7 +143,7 @@ http://103.81.104.118/hls/stream19.m3u8
 http://103.81.104.118/hls/stream25.m3u8
  
 #EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJzgjm5OR53zaOo1Gcsnf1LJ3IrdmqEaAQQ&usqp=CAU" , Sony Max HD
-https://cutt.ly/tQRxdtV
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/ManoranjanTVLogo.jpg/220px-ManoranjanTVLogo.jpg",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_360p/index.m3u8
@@ -166,7 +166,7 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB 
-http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Q india" tvg-logo="https://i.imgur.com/u9FbIYV.png",The Q india
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
@@ -316,10 +316,10 @@ http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 http://103.81.104.118/hls/stream23.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network-English" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network-English
-http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network-Hindi" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network-Hindi
-http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KidsFlix" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61YeRI-gH-L.png",KidsFlix
 http://mygoodstream.pw/proxy.php/https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop 
@@ -328,7 +328,7 @@ http://mygoodstream.pw/proxy.php/https://stream-us-east-1.getpublica.com/playlis
 http://103.153.39.34:8000/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay (Bangla)
-https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marvel HQ" tvg-logo="https://i.imgur.com/wzHl5iW.png",Marvel HQ 
 http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8 
@@ -425,7 +425,7 @@ http://stream.dhakaflix.com:8081/live/ptvsports.m3u8/chunks.m3u8?nimblesessionid
 https://sony247channels.akamaized.net/hls/live/2020591-b/TEN3HD/hdntl=exp=1628219972~acl=%2f*~id=b9d81d12-354b-4594-96ba-88ae2f16271c~data=hdntl~hmac=fdbc0f142dee457c17c8f8cf52da6b4663454904f62d2e8dc823f9d3776bac28/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports" tvg-logo="https://i.imgur.com/k7b6tig.jpg",DD Sports
-https://idvd.multitvsolution.com:443/idvo/ddsports_540p/index.m3u8 
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="https://sportsjournalism.myblog.arts.ac.uk/files/2015/01/JpMroqIH-300x300.png",Sky Sports Cricket
 http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
@@ -437,7 +437,7 @@ http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
 http://103.153.39.34:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg",Sony Six 
-https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
+http://206.0.16.5:8081/c1O7u0cF8lOzId/espn/chunks.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg",Sony Ten 2 
 http://103.81.104.118/hls/stream39.m3u8
