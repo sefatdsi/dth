@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2yRT9jbgfrxNF77e9GlGvhQNbPepBgJHqPQ&usqp=CAU", Peace Tv - Bangla
-http://103.205.133.48/hls/peacetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-HxaiQA3vMjL6WNrbwWY7xcaToJnWfh06Q&usqp=CAU", madani - Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla
+http://199.223.252.162:8032/bangla_adaptive/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
@@ -102,7 +105,7 @@ http://10.16.100.204:8082/hls/z_bangla_local.m3u8
 http://103.81.104.118/hls/Sony_Aath.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6koU7rQYpwVnNEekLKjHBVrfNeJLYVb6kYg&usqp=CAU" ,Star Jalsha SD 
-http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8  
+http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8   
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9f12yDPDFDCeWiHLpML9d4rsTCCbB-e_1w&usqp=CAU" ,Star Jalsha HD
 http://103.81.104.118/hls/starjalsha.m3u8 
@@ -123,7 +126,7 @@ http://stream.dhakaflix.com:8081/hls/ruposhibangla.m3u8/chunks.m3u8?nimblesessio
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg",Sun Bangla
-http://103.109.56.116/live/skyfeed1009/index.m3u8
+http://103.159.4.38:5868/IN-BANGLA-6/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aakash Aath"
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZCIl_MbUMOlJ3IEpO3ebSHqi5hSdX8sM3w&usqp=CAU",Aakash Aath
@@ -316,9 +319,6 @@ http://31.220.41.88:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.imgur.com/Ay4EtVz.png",Nat Geo Wild HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/1968
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="https://www.outdoorsg.com/wp-content/uploads/2015/08/OC_Logo-2017_Primary_REV.png",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
@@ -326,7 +326,11 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO (Bangla)" tvg-logo="https://i.imgur.com/plKUWKl.png",NAT GEO (Bangla)
-http://103.81.104.118/hls/stream13.m3u8
+http://103.81.104.118/hls/ngohd.m3u8 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/plKUWKl.png",NAT GEO HD 
+http://103.81.104.118/hls/ngohd.m3u8 
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Redbull tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxQFGGctE1PLDmdOGK6PVeJLa5pQoEra0aw&usqp=CAU",Redbull tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -608,7 +612,3 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-
-
-
-
