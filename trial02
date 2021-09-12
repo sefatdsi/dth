@@ -3,7 +3,7 @@
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla
-http://199.223.252.162:8032/bangla_adaptive/index.m3u8 
+http://103.205.133.48/hls/peacetv.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
@@ -18,7 +18,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor Tv
-http://10.16.100.205:8082/bangla/ekattor_tv_local_bD.m3u8 
+http://103.205.133.48/hls/ekatoortv.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
 http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/chunks.m3u8
@@ -27,7 +27,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/chunks.m
 http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
-http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
+http://103.81.104.118/hls/channel9.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
@@ -99,7 +99,7 @@ http://stream.dhakaflix.com:8081/hls/nagorik.m3u8/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla HD
-http://10.16.100.204:8082/hls/z_bangla_local.m3u8 
+http://103.81.104.118/hls/zeebanglahd.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg",Sony Aath
 http://103.81.104.118/hls/Sony_Aath.m3u8 
@@ -143,10 +143,10 @@ tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZCIl_MbUMOlJ3I
 http://103.81.104.118/hls/stargold.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezHEdxK0XjVt7ZStgajEDXlzKMApWOAMPwg&usqp=CAU",Zee Cinema HD
-http://103.81.104.118/hls/stream25.m3u8
+http://103.81.104.118/hls/zeecinemahd.m3u8 
  
 #EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJzgjm5OR53zaOo1Gcsnf1LJ3IrdmqEaAQQ&usqp=CAU" , Sony Max HD
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8 
+http://103.81.104.118/hls/sonymax.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/ManoranjanTVLogo.jpg/220px-ManoranjanTVLogo.jpg",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_360p/index.m3u8
@@ -389,7 +389,7 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gaan_Bangla_Logo_2021.jpg/220px-Gaan_Bangla_Logo_2021.jpg",Gaan Bangla
-http://tv2.ebox.live:8080/live/ex-gan.m3u8
+http://103.81.104.118/hls/Gan.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9x Jhakaas" tvg-logo="https://i.ibb.co/M16djBW/9xjhakaas-purple.png",9x Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
