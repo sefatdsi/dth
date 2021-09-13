@@ -66,7 +66,7 @@ http://173.199.120.51/hls/ntv.m3u8
 http://173.199.120.51/hls/rtv.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG ",Mohona tv
-http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
+http://103.205.133.48/hls/mohonatv.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanshad tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Sanshad tv
 http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/chunks.m3u8
@@ -273,11 +273,8 @@ http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network-Hindi" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network-Hindi
 http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KidsFlix" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61YeRI-gH-L.png",KidsFlix
-http://mygoodstream.pw/proxy.php/https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop 
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",Hungama Tv
-http://103.153.39.34:8000/play/a04l/index.m3u8
+http://89.187.182.181:9090/KH_HIN_HUNGAMA/tracks-v1a1/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay (Bangla)   
 http://103.81.104.118/hls/sonyyay.m3u8  
@@ -491,6 +488,9 @@ http://mygoodstream.pw/proxy.php/https://mn-nl.mncdn.com/blutv_star/smil:star_sd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marvel HQ" tvg-logo="https://i.imgur.com/wzHl5iW.png",Marvel HQ 
 http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KidsFlix" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61YeRI-gH-L.png",KidsFlix
+http://mygoodstream.pw/proxy.php/https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/Ud22pOY.png",Boomerang 
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
