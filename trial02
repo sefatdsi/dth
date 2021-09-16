@@ -9,7 +9,7 @@ http://103.205.133.48/hls/peacetv.m3u8
 http://103.205.133.48/hls/dbcnews.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
-http://103.81.104.118/hls/news24.m3u8 
+http://103.205.133.48/hls/news24.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
 http://103.81.104.118/hls/indepen.m3u8 
@@ -21,7 +21,7 @@ http://103.81.104.118/hls/jamuna.m3u8
 http://103.205.133.48/hls/ekatoortv.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
-http://103.81.104.118/hls/somoy.m3u8 
+http://103.205.133.48/hls/somoy.m3u8   
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",channel 24
 http://103.205.133.48/hls/channel24.m3u8 
@@ -39,10 +39,10 @@ http://103.205.133.48/hls/ichannel.m3u8
 http://103.205.133.18/hls/atnnews.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png",Banglavision
-http://103.81.104.118/hls/banglavision.m3u8 
+http://103.205.133.48/hls/banglavision.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="asian TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm-BwJZ3Pk9cqkf0y9QVfYpBYHeOu15MDhFQ&usqp=CAU", asian TV 
-http://103.81.104.118/hls/Asian_TV.m3u8 
+http://103.205.133.48/hls/asiantv.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN bangla
 https://cdn.nowhdtime.com.bd/ATNBangla/index.m3u8 
@@ -83,6 +83,12 @@ http://103.81.104.118/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNa32QP7FzvFbI70CrF8slchGl8S-U0zmOeA&usqp=CAU",Nagorik 
 http://stream.dhakaflix.com:8081/hls/nagorik.m3u8/chunks.m3u8  
 
+#EXTINF:0 tvg-country="BD" tvg-logo="https://i.imgur.com/TjVJT22.png" group-title="Undefined",Channel-S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8 
+
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="News",Ekusey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8 
+
 
 
                        INDIAN BANGLA
@@ -90,10 +96,10 @@ http://stream.dhakaflix.com:8081/hls/nagorik.m3u8/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla HD
-http://103.81.104.118/hls/zeebanglahd.m3u8  
+http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8   
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg",Sony Aath
-http://103.81.104.118/hls/Sony_Aath.m3u8 
+http://103.205.133.48/hls/sony8.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6koU7rQYpwVnNEekLKjHBVrfNeJLYVb6kYg&usqp=CAU" ,Star Jalsha SD 
 http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8   
@@ -122,6 +128,9 @@ http://103.159.4.38:5868/IN-BANGLA-6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aakash Aath"
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZCIl_MbUMOlJ3IEpO3ebSHqi5hSdX8sM3w&usqp=CAU",Aakash Aath
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18 Bengali"
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWczc1-EZUurrDu1gdpKCrRYzQ3yo0dD5QA&usqp=CAU",News 18 Bangla,News 18 Bengali
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg",Colors Bangla Cinema
 
@@ -614,5 +623,7 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
+
+
 
 
