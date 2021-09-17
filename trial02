@@ -15,7 +15,7 @@ http://103.205.133.48/hls/news24.m3u8
 http://103.81.104.118/hls/indepen.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg",Jamuna Tv
-http://103.81.104.118/hls/jamuna.m3u8 
+http://103.205.133.48/hls/jamunatv.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor Tv
 http://103.205.133.48/hls/ekatoortv.m3u8  
@@ -143,10 +143,10 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 http://103.81.104.118/hls/stargold.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezHEdxK0XjVt7ZStgajEDXlzKMApWOAMPwg&usqp=CAU",Zee Cinema HD
-http://103.81.104.118/hls/zeecinemahd.m3u8 
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8  
  
 #EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJzgjm5OR53zaOo1Gcsnf1LJ3IrdmqEaAQQ&usqp=CAU" , Sony Max HD
-http://103.81.104.118/hls/enterr10.m3u8 
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/ManoranjanTVLogo.jpg/220px-ManoranjanTVLogo.jpg",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_360p/index.m3u8
@@ -623,7 +623,4 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-
-
-
 
