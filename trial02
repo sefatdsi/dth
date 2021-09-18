@@ -12,7 +12,8 @@ http://103.205.133.48/hls/dbcnews.m3u8
 http://103.205.133.48/hls/news24.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
-http://103.81.104.118/hls/indepen.m3u8 
+http://bdiptv.net:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=08081602b616677026dff4cd817af17677b2c7ba-fbb8619051acd53b09b06f87f033ebbe-1631980362-1631969562
+ 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg",Jamuna Tv
 http://103.205.133.48/hls/jamunatv.m3u8 
@@ -108,7 +109,8 @@ http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 http://103.81.104.118/hls/starjalsha.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" ,Colors Bangla 
-http://10.16.100.204:8082/hls/coLors_bangla_local.m3u8 
+http://bdiptv.net:8080/ColorsBanglaHD/index.m3u8?token=29881716801630b0384039188bb6331ec54c82b1-91bcd076db7afb5df9598de7a72650d6-1631980850-1631970050
+ 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4VzHdCVm3GyOqyEzxrhmvyPiITVTddmZpw&usqp=CAU" ,Enter10 Bangla
 http://103.81.104.118/hls/sonymax.m3u8
@@ -117,10 +119,11 @@ http://103.81.104.118/hls/sonymax.m3u8
 http://103.106.243.163:8989/jalsha-movies/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla" tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg",Ruposhi Bangla
-http://stream.dhakaflix.com:8081/hls/ruposhibangla.m3u8/chunks.m3u8?nimblesessionid=1157005
+http://bdiptv.net:8080/RuposhiBangla/index.m3u8?token=583d18dd0448109a6796e449edc7e5156d7c3db6-69aedf3a2c744cbee597df7d9d0bbbe4-1631980740-1631969940
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee_Bangla_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" ,Zee_Bangla_Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
+http://bdiptv.net:8080/ZeeBanglaCinema/index.m3u8?token=52f05cb329a161d37a2e4f405b50518b8907ca36-bfdaa45d98331e40892ee55c8d4e7da8-1631981077-1631970277
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg",Sun Bangla
 http://103.159.4.38:5868/IN-BANGLA-6/tracks-v1a1/mono.m3u8 
@@ -264,7 +267,7 @@ http://103.153.39.34:8000/play/a04m/index.m3u8
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick-Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick-Hindi
-http://103.81.104.118/hls/stream23.m3u8
+http://bdiptv.net:8080/Nick/index.m3u8?token=bb10633f679e1f028a0c637160dfbefd302c0948-e88649050070ef9261fb7c3641d96537-1631980951-1631970151
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network-English" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network-English
 http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8 
@@ -353,10 +356,14 @@ http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 
-http://103.153.39.34:8000/play/a042/index.m3u8
+https://cdn.nowhdtime.com.bd/SonyTen1/index.m3u8 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg",Sony Ten 2 
+https://cdn.nowhdtime.com.bd/SonyTen2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg",Sony Six 
-http://206.0.16.5:8081/c1O7u0cF8lOzId/espn/chunks.m3u8 
+https://cdn.nowhdtime.com.bd/SonySix/index.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/g7TdD4n.png",TSN 1
 http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
@@ -605,9 +612,6 @@ http://103.157.237.18:8000/play/313
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Live" tvg-logo="https://images.news18.com/ibnlive/uploads/2020/05/1590663909_sonyliv2-1.jpg",Sony Live
 https://sony247channels.akamaized.net/hls/live/2020591-b/TEN3HD/hdntl=exp=1628219972~acl=%2f*~id=b9d81d12-354b-4594-96ba-88ae2f16271c~data=hdntl~hmac=fdbc0f142dee457c17c8f8cf52da6b4663454904f62d2e8dc823f9d3776bac28/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg",Sony Ten 2 
-http://103.81.104.118/hls/stream39.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Sports" tvg-logo="https://i.imgur.com/BhlXnMe.jpg",Ten Sports
 http://221.120.204.4/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 
@@ -622,4 +626,6 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
+
+
 
