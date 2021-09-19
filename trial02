@@ -619,7 +619,7 @@ http://221.120.204.4/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.81.104.118/hls/stream34.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 (Bangla)" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png",Star Sports 1 (Bangla)
-https://drive.google.com/file/d/13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj/view?usp=drivesdk 
+content://com.google.android.apps.docs.storage.legacy/enc%3Dc1CaRsURzd1zdmzDhKAFSUoEdQlW-NH1AbK9tDXzAE2T4dKK9YJKLGineGDHXSBmdpTC6wreAdVZ%0AxAvOU9ihOKAZ6mgOqr7J-2E9X-MWc9JKgLyE%0A
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="https://i.imgur.com/XndtCW3.png",ESPN
 http://134.19.182.131:8080/edg8_2.m3u8
