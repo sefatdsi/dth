@@ -12,8 +12,7 @@ http://103.205.133.48/hls/dbcnews.m3u8
 http://103.205.133.48/hls/news24.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
-http://bdiptv.net:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=08081602b616677026dff4cd817af17677b2c7ba-fbb8619051acd53b09b06f87f033ebbe-1631980362-1631969562
- 
+http://tv.aliflailabd.com:8989/independent-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg",Jamuna Tv
 http://103.205.133.48/hls/jamunatv.m3u8 
@@ -28,19 +27,19 @@ http://103.205.133.48/hls/somoy.m3u8
 http://103.205.133.48/hls/channel24.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
-http://103.81.104.118/hls/channel9.m3u8 
+http://tv.aliflailabd.com:8989/channel9/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
 http://103.205.133.48/hls/satv.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel i
-http://103.205.133.48/hls/ichannel.m3u8 
+http://tv.aliflailabd.com:8989/channel-i/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
 http://103.205.133.18/hls/atnnews.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png",Banglavision
-http://103.205.133.48/hls/banglavision.m3u8  
+http://tv.aliflailabd.com:8989/bangla-vision/index.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="asian TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm-BwJZ3Pk9cqkf0y9QVfYpBYHeOu15MDhFQ&usqp=CAU", asian TV 
 http://103.205.133.48/hls/asiantv.m3u8  
@@ -55,10 +54,10 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 http://103.205.133.48/hls/mytv.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
-http://103.81.104.118/hls/masranga.m3u8 
+http://tv.aliflailabd.com:8989/maasranga/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto Tv-1
-http://103.81.104.118/hls/dipto.m3u8  
+http://tv.aliflailabd.com:8989/depto-bangla/index.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9dRd6R8fCR9EWzxFAmmpe1WyZocBPvRdRNLLMdS47Cdzcm-aeyqM3Bo&s=10",NTV
 http://173.199.120.51/hls/ntv.m3u8  
@@ -70,7 +69,7 @@ http://173.199.120.51/hls/rtv.m3u8
 http://103.205.133.48/hls/mohonatv.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",Bijoy tv
-https://cdn.nowhdtime.com.bd/j-BijoyTV/index.m3u8 
+http://10.16.100.201:8082/bangla/biJoy_TV_Local.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg ",Bangla tv
 http://103.205.133.48/hls/banglatv.m3u8 
@@ -106,7 +105,7 @@ http://103.205.133.48/hls/sony8.m3u8
 http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8   
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9f12yDPDFDCeWiHLpML9d4rsTCCbB-e_1w&usqp=CAU" ,Star Jalsha HD
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb4d3542cbf30d724fa6561bd0947080961b6fa69e3a83eb23f8ffafd052d1b3c4a5f057b38f58f813dfef64dcc1badbab96cb990fae3873c3950a164a6
+http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" ,Colors Bangla 
 http://bdiptv.net:8080/ColorsBanglaHD/index.m3u8?token=29881716801630b0384039188bb6331ec54c82b1-91bcd076db7afb5df9598de7a72650d6-1631980850-1631970050
@@ -177,7 +176,7 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mtv" tvg-logo="https://i.imgur.com/bu01fzb.png",Mtv
-http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+http://tv.aliflailabd.com:8989/mtv/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus
 http://10.16.100.200:8082/hls/star_Plus_local.m3u8 
@@ -267,7 +266,7 @@ http://103.153.39.34:8000/play/a04m/index.m3u8
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick-Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick-Hindi
-http://bdiptv.net:8080/Nick/index.m3u8?token=bb10633f679e1f028a0c637160dfbefd302c0948-e88649050070ef9261fb7c3641d96537-1631980951-1631970151
+http://tv.aliflailabd.com:8989/nick/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network-English" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network-English
 http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8 
@@ -392,7 +391,7 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gaan_Bangla_Logo_2021.jpg/220px-Gaan_Bangla_Logo_2021.jpg",Gaan Bangla
-http://103.81.104.118/hls/Gan.m3u8 
+http://tv.aliflailabd.com:8989/gaanbangla/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9x Jhakaas" tvg-logo="https://i.ibb.co/M16djBW/9xjhakaas-purple.png",9x Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
@@ -401,7 +400,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="https://i.imgur.com/KflKsoI.png",Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+http://tv.aliflailabd.com:8989/zing/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="https://i.imgur.com/m7RjnNH.png",MTV Beats HD
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18798
