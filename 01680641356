@@ -75,7 +75,7 @@ http://10.16.100.201:8082/bangla/biJoy_TV_Local.m3u8
 http://103.205.133.48/hls/banglatv.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Pct5ySCLK6IdRlspzuQuw3LL5uJ5A1Saig&usqp=CAU",Btv 
-http://103.205.133.21/hls/btvworld.m3u8 
+http://stream.dhakaflix.com:8081/hls/btvworld.m3u8/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg",Gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8   
@@ -108,8 +108,7 @@ http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" ,Colors Bangla 
-http://bdiptv.net:8080/ColorsBanglaHD/index.m3u8?token=29881716801630b0384039188bb6331ec54c82b1-91bcd076db7afb5df9598de7a72650d6-1631980850-1631970050
- 
+https://cdn.nowhdtime.com.bd/ColorsBanglaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4VzHdCVm3GyOqyEzxrhmvyPiITVTddmZpw&usqp=CAU" ,Enter10 Bangla
 http://103.81.104.118/hls/sonymax.m3u8
@@ -625,7 +624,4 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-
-
-
 
