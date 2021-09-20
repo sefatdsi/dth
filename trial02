@@ -121,7 +121,7 @@ http://bdiptv.net:8080/RuposhiBangla/index.m3u8?token=583d18dd0448109a6796e449ed
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee_Bangla_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" ,Zee_Bangla_Cinema
-http://bdiptv.net:8080/ZeeBanglaCinema/index.m3u8?token=52f05cb329a161d37a2e4f405b50518b8907ca36-bfdaa45d98331e40892ee55c8d4e7da8-1631981077-1631970277
+https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg",Sun Bangla
 http://103.159.4.38:5868/IN-BANGLA-6/tracks-v1a1/mono.m3u8 
@@ -624,4 +624,5 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
+
 
