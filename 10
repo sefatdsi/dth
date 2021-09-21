@@ -1,6 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/nagoriktvhd.jpg" group-title="Bangla",Nagorik 2
-content://com.google.android.apps.docs.storage.legacy/enc%3Dc1CaRsURzd1zdmzDhKAFSUoEdQlW-NH1AbK9tDXzAE2T4dKK9YJKLGineGDHXSBmdpTC6wreAdVZ%0AxAvOU9ihOKAZ6mgOqr7J-2E9X-MWc9JKgLyE%0A
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/nagoriktvhd.jpg" group-title="Bangla",Nagorik 2
-https://drive.google.com/file/d/13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj/view?usp=drivesdk
+https://www.bioscopelive.com/en/channel/zee-cinema https://edge4.bioscopelive.com/hls/anonymous/tVUIom0R6RdlkH9sKbmWbA/1632251352/zee_cinema.m3u8 zee_cinema.m3u8
