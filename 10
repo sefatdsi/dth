@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/nagoriktvhd.jpg" group-title="Bangla",Nagorik 2
-https://www.bioscopelive.com/en/channel/zee-cinema https://edge4.bioscopelive.com/hls/anonymous/tVUIom0R6RdlkH9sKbmWbA/1632251352/zee_cinema.m3u8 zee_cinema.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/nagoriktvhd.jpg" group-title="Bangla",Nagorik 2 
+https://edge4.bioscopelive.com/hls/anonymous/tVUIom0R6RdlkH9sKbmWbA/1632251352/zee_cinema.m3u8 zee_cinema.m3u8
+https://www.bioscopelive.com/en/channel/zee-cinema
