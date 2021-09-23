@@ -96,7 +96,10 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla HD
-http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8   
+https://live.bongobd.com/hls/u65EyPXHdYnJu6pGp1CXIQ/1632418094/zee_bangla.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla
+https://live.bongobd.com/hls/u65EyPXHdYnJu6pGp1CXIQ/1632418094/zee_bangla_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg",Sony Aath
 http://tv.aliflailabd.com:8989/sony-aath/index.m3u8 
@@ -116,8 +119,11 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_360p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" ,Jalsha Movies
 http://103.106.243.163:8989/jalsha-movies/index.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla hd" tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg",Ruposhi Bangla hd
+https://live.bongobd.com/hls/6p_T5bqms5P0ouf7mKym-Q/1632418668/ruposhi_bangla.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla" tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg",Ruposhi Bangla
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
+https://live.bongobd.com/hls/6p_T5bqms5P0ouf7mKym-Q/1632418668/ruposhi_bangla_low/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee_Bangla_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" ,Zee_Bangla_Cinema
 http://edge.thunderbd.com:8081/roarzone/29/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIxIDEyOjU1OjA1IFBNJmhhc2hfdmFsdWU9c3hJREh4eVJqMEhsYlZpUHB3UjlKdz09JnZhbGlkbWludXRlcz02MCZpZD01
