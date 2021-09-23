@@ -96,7 +96,10 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla HD
-http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8   
+https://live.bongobd.com/hls/u65EyPXHdYnJu6pGp1CXIQ/1632418094/zee_bangla.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla
+https://live.bongobd.com/hls/u65EyPXHdYnJu6pGp1CXIQ/1632418094/zee_bangla_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg",Sony Aath
 http://tv.aliflailabd.com:8989/sony-aath/index.m3u8 
