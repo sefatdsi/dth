@@ -108,10 +108,10 @@ http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" ,Colors Bangla 
-http://edge.thunderbd.com:8081/roarzone/66/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIxIDEyOjQ3OjA4IFBNJmhhc2hfdmFsdWU9SHFLNERqM0tIWTNjSjkwMVR3alA3UT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://173.199.120.51/hls/colorsbangla.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4VzHdCVm3GyOqyEzxrhmvyPiITVTddmZpw&usqp=CAU" ,Enter10 Bangla
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
+http://idvd.multitvsolution.com/idvo/enter10bangla_360p/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" ,Jalsha Movies
 http://103.106.243.163:8989/jalsha-movies/index.m3u8
@@ -120,10 +120,10 @@ http://103.106.243.163:8989/jalsha-movies/index.m3u8
 https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee_Bangla_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" ,Zee_Bangla_Cinema
-edge.thunderbd.com:8081/roarzone/29/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIxIDEyOjU1OjA1IFBNJmhhc2hfdmFsdWU9c3hJREh4eVJqMEhsYlZpUHB3UjlKdz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://edge.thunderbd.com:8081/roarzone/29/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIxIDEyOjU1OjA1IFBNJmhhc2hfdmFsdWU9c3hJREh4eVJqMEhsYlZpUHB3UjlKdz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg",Sun Bangla
-http://103.159.4.38:5868/IN-BANGLA-6/tracks-v1a1/mono.m3u8 
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aakash Aath"
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZCIl_MbUMOlJ3IEpO3ebSHqi5hSdX8sM3w&usqp=CAU",Aakash Aath
@@ -623,7 +623,5 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-
-
 
 
