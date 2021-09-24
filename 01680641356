@@ -117,7 +117,7 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_360p/index.m3u8
 http://103.106.243.163:8989/jalsha-movies/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla" tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg",Ruposhi Bangla
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download 
+http://173.199.120.51/hls/ruposhibangla.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee_Bangla_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" ,Zee_Bangla_Cinema
 https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
@@ -165,7 +165,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Tv (Global)" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony Tv (Global)
-http://edge.thunderbd.com:8081/roarzone/38/chunks.m3u8?nimblesessionid=3839223&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIxIDEyOjI2OjQzIFBNJmhhc2hfdmFsdWU9SDFYcllsSExMQnV0SERQQVlvcWpjZz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://bdiptv.net:8080/SonyTVHD/index.m3u8?token=738bb6ed7659a19925a90a016e63bf9b293ff299-ef8888b55e075c587bc1666f6b52145d-1632464203-1632453403
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB 
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8 
@@ -177,7 +177,7 @@ https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 http://tv.aliflailabd.com:8989/mtv/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download 
+http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/9Iv6ZFR.png",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
