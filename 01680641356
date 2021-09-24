@@ -120,7 +120,7 @@ http://103.106.243.163:8989/jalsha-movies/index.m3u8
 https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee_Bangla_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" ,Zee_Bangla_Cinema
-http://edge.thunderbd.com:8081/roarzone/29/chunks.m3u8?nimblesessionid=&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIxIDEyOjIyOjEwIEFNJmhhc2hfdmFsdWU9SWJabVR3UjZPSlRjeG54MXB0WWdMQT09JnZhbGlkbWludXRlcz02MCZpZD01
+https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg",Sun Bangla
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8 
@@ -139,7 +139,7 @@ https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThpf7-8yJgU54RRWeyK3Mi4JpnkpXmjyQE9g&usqp=CAU",Star Gold HD
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download 
+http://jupiter.bdcabletv.com/ENC-10/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezHEdxK0XjVt7ZStgajEDXlzKMApWOAMPwg&usqp=CAU",Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8  
@@ -273,13 +273,13 @@ http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8
 http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",Hungama Tv
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download 
+http://89.187.182.181:9090/KH_HIN_HUNGAMA/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay (Bangla)   
 http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo 
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
+http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
 http://103.153.39.34:8000/play/a04o/index.m3u8
