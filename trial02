@@ -120,7 +120,7 @@ http://103.106.243.163:8989/jalsha-movies/index.m3u8
 https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee_Bangla_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" ,Zee_Bangla_Cinema
-http://edge.thunderbd.com:8081/roarzone/29/playlist.m3u8
+http://edge.thunderbd.com:8081/roarzone/29/chunks.m3u8?nimblesessionid=&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIxIDEyOjIyOjEwIEFNJmhhc2hfdmFsdWU9SWJabVR3UjZPSlRjeG54MXB0WWdMQT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg",Sun Bangla
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8 
@@ -623,4 +623,3 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-
