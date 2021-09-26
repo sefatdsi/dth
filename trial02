@@ -5,7 +5,7 @@ http://103.205.133.48/hls/madanitv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla
 http://199.223.252.162:8032/bangla_adaptive/index.m3u8  
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://atnislamic.tv/images/logo.png", ATN Islamic 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic 
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
@@ -30,7 +30,7 @@ http://103.205.133.48/hls/somoy.m3u8
 https://rhridoy136.shortcm.li/channel24.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
-http://tv.aliflailabd.com:8989/channel9/index.m3u8 
+http://globaltechnologybd.tk/11/test.php?http://bn.tsportsbd.live:8080/bdiptv47/channel9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
 http://103.205.133.48/hls/satv.m3u8  
@@ -81,7 +81,7 @@ http://103.205.133.48/hls/banglatv.m3u8
 http://stream.dhakaflix.com:8081/hls/btvworld.m3u8/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg",Gazi tv
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8   
+http://103.78.255.178:8080/gtv/index.m3u8   
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNa32QP7FzvFbI70CrF8slchGl8S-U0zmOeA&usqp=CAU",Nagorik 
 http://stream.dhakaflix.com:8081/hls/nagorik.m3u8/chunks.m3u8  
@@ -626,4 +626,5 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
+
 
