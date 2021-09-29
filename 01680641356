@@ -12,13 +12,13 @@ http://173.199.116.220/hls/peacetv.m3u8
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
-http://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream_480p/chunks.m3u8 
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream_480p/chunks.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
-http://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8  
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
-http://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg",Jamuna Tv
 http://103.159.4.38:8080/BD-BANGLA-4/tracks-v1a1/mono.m3u8 
@@ -27,7 +27,7 @@ http://103.159.4.38:8080/BD-BANGLA-4/tracks-v1a1/mono.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1632941616&ei=0GFUYenGB82Mz7sPyPCP-AU&ip=103.122.251.200&id=Ax-tbtnxfpE.1&source=yt_live_broadcast&requiressl=yes&hfr=1&playlist_duration=30&manifest_duration=30&vprv=1&go=1&nvgoi=1&keepalive=yes&fexp=24001373%2C24007246&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type&sig=AOq0QJ8wRAIgSml1PULiD1xYtb_mIC6A_FXgmoEuA_Yy1lQWbk7wdNoCIF0-fxKhPwYdOWgtvY9pPq6MidSZ99eY13vvMIYSJ7cg&cpn=7BItDHteakRKmYkU&ibw=2340000&c=MWEB&cver=2.20210928.01.00&ptk=youtube_none&pltype=contentugclive
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
-http://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8   
+https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8   
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",channel 24
 https://rhridoy136.shortcm.li/channel24.m3u8
@@ -638,5 +638,6 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
+
 
 
