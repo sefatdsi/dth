@@ -24,9 +24,7 @@ http://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 http://103.159.4.38:8080/BD-BANGLA-4/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor Tv
-http://bdiptv.net:8080/EkattorTV/tracks-v1a1/mono.m3u8?token=a8a903a98aa68aab52e8e4d1fd5ae342d17d484c-d6cb2b89151ac2e3236867a0cc07364d-1632837713-1632826913
-
-http://bdiptv.net:8080/EkattorTV/index.m3u8?token=69cba676bc5495791b362dfd80d9d28518a0b452-fe6e32b369416e97fa2dee4522adb382-1632838458-1632827658
+https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1632941616&ei=0GFUYenGB82Mz7sPyPCP-AU&ip=103.122.251.200&id=Ax-tbtnxfpE.1&source=yt_live_broadcast&requiressl=yes&hfr=1&playlist_duration=30&manifest_duration=30&vprv=1&go=1&nvgoi=1&keepalive=yes&fexp=24001373%2C24007246&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type&sig=AOq0QJ8wRAIgSml1PULiD1xYtb_mIC6A_FXgmoEuA_Yy1lQWbk7wdNoCIF0-fxKhPwYdOWgtvY9pPq6MidSZ99eY13vvMIYSJ7cg&cpn=7BItDHteakRKmYkU&ibw=2340000&c=MWEB&cver=2.20210928.01.00&ptk=youtube_none&pltype=contentugclive
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
 http://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8   
@@ -35,7 +33,7 @@ http://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgi
 https://rhridoy136.shortcm.li/channel24.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9 
-http://bn.tsportsbd.live:8080/bdiptv47/channel9/playlist.m3u8
+https://bn.tsportsbd.live:8080/bdiptv47/channel9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8  
@@ -137,7 +135,7 @@ http://103.106.243.163:8989/jalsha-movies/index.m3u8
 http://173.199.120.51/hls/ruposhibangla.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee_Bangla_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" ,Zee_Bangla_Cinema
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
+https://m3u-editor.com/serve/75004f40-2078-11ec-8a77-3d108807d874/392257069
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg",Sun Bangla
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8 
@@ -371,11 +369,10 @@ http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download 
+http://tvstream.space/jtv/mhdliveexXx.php?c=Ten_HD&q=800&e=junk.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg",Sony Ten 2 
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
-
+http://tvstream.space/jtv/mhdliveexXx.php?c=Ten2_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg",Sony Six 
 http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
@@ -641,6 +638,5 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-
 
 
