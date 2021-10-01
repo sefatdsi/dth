@@ -6,8 +6,7 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 https://199.223.252.162:8032/bangla_adaptive/index.m3u8  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla  
-https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
-
+http://173.199.116.220/hls/peacetv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic 
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
@@ -101,6 +100,9 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekusey TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHRt6w_SMp_s_k85M_4auXg8XDqFoTUAWxQ&usqp=CAU", Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
+http://babutv.aliflailabd.com:8989/duronto-tv/index.m3u8
 
 
 
@@ -640,4 +642,5 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
+
 
