@@ -48,7 +48,9 @@ http://rhridoy136.shortcm.li/atnnews.m3u8
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="asian TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm-BwJZ3Pk9cqkf0y9QVfYpBYHeOu15MDhFQ&usqp=CAU", asian TV 
-http://indo51.gcdn.co/BANGLA-BD-ASIANTV/tracks-v1a1/mono.m3u8  
+http://globaltechnologybd.tk/11/test.php?http://bn.tsportsbd.live:8080/bdiptv47/asian/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN bangla
 http://173.199.120.51/hls/atnbangla.m3u8
@@ -63,10 +65,7 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto Tv-1
-https://tv.bdiptv.stream:2096/token/deepto/chunks.m3u8?nimblesessionid=204504&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDM6MTI6NDYgQU0maGFzaF92YWx1ZT1nZm5CRWNvR0E1dDRvalhOS25xR0J3PT0mdmFsaWRtaW51dGVzPTU=
-
-#EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto Tv-1
-https://tv.bdiptv.stream:2096/token/deepto/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDM6MTI6NDYgQU0maGFzaF92YWx1ZT1nZm5CRWNvR0E1dDRvalhOS25xR0J3PT0mdmFsaWRtaW51dGVzPTU=
+https://tv.bdiptv.stream:2096/token/deepto/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9dRd6R8fCR9EWzxFAmmpe1WyZocBPvRdRNLLMdS47Cdzcm-aeyqM3Bo&s=10",NTV
 http://173.199.120.51/hls/ntv.m3u8  
@@ -641,4 +640,5 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
+
 
