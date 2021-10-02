@@ -123,7 +123,7 @@ https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=
 http://tv.aliflailabd.com:8989/sony-aath/index.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6koU7rQYpwVnNEekLKjHBVrfNeJLYVb6kYg&usqp=CAU" ,Star Jalsha SD 
-http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8   
+http://173.199.120.51/hls/chsj.m3u8   
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9f12yDPDFDCeWiHLpML9d4rsTCCbB-e_1w&usqp=CAU" ,Star Jalsha HD
 http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
@@ -642,5 +642,4 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-
 
