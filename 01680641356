@@ -133,19 +133,19 @@ http://173.199.120.51/hls/colorsbangla.m3u8
 http://idvd.multitvsolution.com/idvo/enter10bangla_360p/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" ,Jalsha Movies
-http://103.106.243.163:8989/jalsha-movies/index.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla" tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg",Ruposhi Bangla
 http://173.199.120.51/hls/ruposhibangla.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee_Bangla_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" ,Zee_Bangla_Cinema
-https://m3u-editor.com/serve/75004f40-2078-11ec-8a77-3d108807d874/392257069
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg",Sun Bangla
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aakash Aath"
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZCIl_MbUMOlJ3IEpO3ebSHqi5hSdX8sM3w&usqp=CAU",Aakash Aath
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18Bengali" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWczc1-EZUurrDu1gdpKCrRYzQ3yo0dD5QA&usqp=CAU",News 18 Bengali
 https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
@@ -157,7 +157,9 @@ https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThpf7-8yJgU54RRWeyK3Mi4JpnkpXmjyQE9g&usqp=CAU",Star Gold HD
-http://jupiter.bdcabletv.com/ENC-10/mono.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezHEdxK0XjVt7ZStgajEDXlzKMApWOAMPwg&usqp=CAU",Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8  
@@ -182,8 +184,10 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dabaang Tv" tvg-logo="https://i.ibb.co/r4mGwW1/Dabangg-logo-removebg-preview.png",Dabaang Tv
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Tv (Global)" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony Tv (Global)
-http://bdiptv.net:8080/SonyTVHD/index.m3u8?token=738bb6ed7659a19925a90a016e63bf9b293ff299-ef8888b55e075c587bc1666f6b52145d-1632464203-1632453403
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Tv" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony Tv 
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB 
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8 
@@ -192,7 +196,9 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mtv" tvg-logo="https://i.imgur.com/bu01fzb.png",Mtv
-http://tv.aliflailabd.com:8989/mtv/index.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus
 http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
@@ -201,7 +207,8 @@ http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://i.imgur.com/2JaTJ0M.png",Zee TV HD
-https://github.com/sefatdsi/dth/blob/sefatdsi-patch-1/No%20Signal.mp4?raw=true
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 
 
@@ -214,16 +221,22 @@ https://github.com/sefatdsi/dth/blob/sefatdsi-patch-1/No%20Signal.mp4?raw=true
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png",Fox Life
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN HD
-http://103.106.243.163:8989/axn-hd/index.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/MBCAction.png",MBC Action HD
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Entertainment" tvg-logo="https://is.gd/q5ZXOY",Blue Ant Entertainment
-http://45.126.83.51/dr9445/h/h16/02.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://is.gd/Phwgup",Comedy Central
 http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
@@ -245,25 +258,31 @@ http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thrill Tv" tvg-logo="https://i.imgur.com/Hxk0VkI.png",Thrill Tv
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",Cinemax
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png", Movies Now
 http://103.153.39.34:8000/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download 
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SyFy" tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png",SyFy
 http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Max" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Max 
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="https://tinyurl.com/2zphjmt7",Star Movies
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
  
 
 
@@ -278,29 +297,37 @@ http://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://i.imgur.com/cChZ0ai.png",Disney Channel- Hindi 
 http://103.153.39.34:8000/play/a04m/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonic 2" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 2
-http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick-Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick-Hindi
-http://tv.aliflailabd.com:8989/nick/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick 
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network-English" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network-English
-http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8 
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+ 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network-Hindi" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network-Hindi
-http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8 
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+ 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",Hungama Tv
-http://89.187.182.181:9090/KH_HIN_HUNGAMA/tracks-v1a1/index.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay (Bangla)   
-http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8  
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+  
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo 
-http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
-http://103.153.39.34:8000/play/a04o/index.m3u8
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 
 
@@ -316,7 +343,8 @@ http://idvd.multitvsolution.com/idvo/animalplanethindi_540p/index.m3u8
 http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD [Bangla]" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD [Bangla] 
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="https://is.gd/Lt6xLc",Investigation Discovery
 http://31.220.41.88:8081/live/us-investigation-discovery.stream/playlist.m3u8
@@ -325,7 +353,8 @@ http://31.220.41.88:8081/live/us-investigation-discovery.stream/playlist.m3u8
 http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC [Hindi]" tvg-logo="https://i.imgur.com/P7JRmze.png",TLC [Hindi]
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://i.imgur.com/Stf5xif.png",History Channel 
 http://31.220.41.88:8081/live/us-history.stream/playlist.m3u8
@@ -340,10 +369,11 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO (Bangla)" tvg-logo="https://i.imgur.com/plKUWKl.png",NAT GEO (Bangla)
-https://drive.google.com/uc?id=13eHRF-hmOKAiklYO6NCsJPBxmEN5oXBj&export=download 
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/plKUWKl.png",NAT GEO HD 
-http://103.81.104.118/hls/ngohd.m3u8 
+https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true 
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Redbull tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxQFGGctE1PLDmdOGK6PVeJLa5pQoEra0aw&usqp=CAU",Redbull tv
@@ -640,6 +670,5 @@ http://134.19.182.131:8080/edg8_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-
 
 
