@@ -5,7 +5,7 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla 4k
 https://199.223.252.162:8032/bangla_adaptive/index.m3u8  
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla  
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla 
 http://173.199.116.220/hls/peacetv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic 
@@ -434,6 +434,8 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Love You" tvg-logo="https://thumbs.dreamstime.com/b/i-love-u-simple-illustration-fun-logo-white-background-good-valentine-just-say-you-loved-one-77939229.jpg",I Love You
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoom Music" tvg-logo="https://i.imgur.com/7NiS2Cd.png",Dhoom Music (Global)
+https://catchup.yuppcdn.net/amazonv2/20/preview/dhoommusic/master/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9xM" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9xm-black.png",9xM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
@@ -650,10 +652,6 @@ http://mygoodstream.pw/proxy.php/https://news.cgtn.com/resource/live/document/cg
 
 
                              Music 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoom Music" tvg-logo="https://i.imgur.com/7NiS2Cd.png",Dhoom Music (Global)
-https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
-
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Music [BD]" tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png",RTV Music [BD]
 https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
