@@ -66,7 +66,7 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto Tv-1
-http://173.199.120.51/hls/deeptotv.m3u8
+ http://173.199.120.51/hls/deeptotv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9dRd6R8fCR9EWzxFAmmpe1WyZocBPvRdRNLLMdS47Cdzcm-aeyqM3Bo&s=10",NTV
 http://173.199.120.51/hls/ntv.m3u8  
@@ -111,17 +111,17 @@ http://babutv.aliflailabd.com:8989/duronto-tv/index.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla
-http://173.199.120.51/hls/zeebanglahd.m3u8?iptv 
+ http://173.199.120.51/hls/zeebanglahd.m3u8?iptv 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla HD 
 https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg",Sony Aath
-http://173.199.120.51/hls/sony8.m3u8?iptv 
+ http://173.199.120.51/hls/sony8.m3u8?iptv 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6koU7rQYpwVnNEekLKjHBVrfNeJLYVb6kYg&usqp=CAU" ,Star Jalsha SD 
-http://173.199.120.51/hls/chsj.m3u8?iptv 
+ http://173.199.120.51/hls/chsj.m3u8?iptv 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9f12yDPDFDCeWiHLpML9d4rsTCCbB-e_1w&usqp=CAU" ,Star Jalsha HD
 http://173.199.120.51/hls/chsj.m3u8?iptv 
@@ -722,6 +722,7 @@ https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 
 
