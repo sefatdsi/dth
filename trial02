@@ -121,7 +121,7 @@ https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=
 http://173.199.120.51/hls/sony8.m3u8?iptv 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6koU7rQYpwVnNEekLKjHBVrfNeJLYVb6kYg&usqp=CAU" ,Star Jalsha SD 
-http://173.199.120.51/hls/chsj.m3u8?iptv 
+http://173.199.120.51/hls/chsj.m3u8?wmsAuthSign=<?php echo $base64urlsignature;?>"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9f12yDPDFDCeWiHLpML9d4rsTCCbB-e_1w&usqp=CAU" ,Star Jalsha HD 
 http://173.199.120.51/hls/chsj.m3u8? 
@@ -722,6 +722,7 @@ https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Sports" tvg-logo="https://i.imgur.com/q7TeCoM.png",Euro Sports
 https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
+
 
 
 
