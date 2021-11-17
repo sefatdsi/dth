@@ -79,7 +79,7 @@ https://tvstream.space/jtv/tv.php?c=Nick_Bangla&e=.m3u8
 https://tvstream.space/jtv/livx.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay (Bangla)   
-https://tvstream.space/jtv/tv.php?c=Sony_Yay_Hindi&q=800&e=junk.m3u8
+https://durbinlive.com/live/jio/?c=Sony_Yay_Hindi
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo 
 https://tvstream.space/jtv/livx.php?c=Pogo_Hindi&q=800&e=junk.m3u8
@@ -99,7 +99,7 @@ http://idvd.multitvsolution.com/idvo/animalplanethindi_540p/index.m3u8
 http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD [Bangla]" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD [Bangla] 
-https://tvstream.space/jtv/livx.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
+https://last.gcdn.co/IND415/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://i.imgur.com/Stf5xif.png",History Channel 
 http://31.220.41.88:8081/live/us-history.stream/playlist.m3u8
@@ -109,5 +109,4 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO (Bangla)" tvg-logo="https://i.imgur.com/plKUWKl.png",NAT GEO (Bangla)
 https://github.com/sefatdsi/dth/blob/main/Video.Guru_20211001_123254426.mp4?raw=true
-
 
