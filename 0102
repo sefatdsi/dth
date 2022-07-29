@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla 
-http://199.223.252.162:8032/bangla_adaptive/index.m3u8
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic 
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
@@ -24,7 +24,7 @@ http://15.1.1.10:8082/EKTTOR-TV/index.m3u8
 http://bdiptv.net:8082/Somoy-TV/index.m3u8   
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",channel 24
-https://rhridoy136.shortcm.li/channel24.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
 http://bdiptv.net:8082/SATV/index.m3u8
@@ -37,7 +37,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8 
 
 #EXTINF:-1 tvg-id="(notvg-id)" tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto Tv-1  
-http://208.86.19.21/609.stream/index.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg",Gazi tv
 http://103.55.144.46/hls/Gazi-TV.m3u8
@@ -65,7 +65,7 @@ https://tvstream.space/jtv/livx.php?c=Sonic_Bangla&q=800&e=junk.m3u8
 http://103.166.253.222/hls/nick.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick Bangla
-http://103.166.253.222/hls/nick.m3u8
+http://103.55.144.46/hls/nick.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network-English" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network-English
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
@@ -85,14 +85,15 @@ http://103.166.253.222/hls/pogo.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET [Hindi]" tvg-logo="https://i.ibb.co/k4QjB5D/Daco-5201146.png",ANIMAL PLANET [Hindi]
-http://103.166.253.222/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET [Hindi]" tvg-logo="https://i.ibb.co/k4QjB5D/Daco-5201146.png",ANIMAL PLANET 
+http://103.55.144.46/hls/animalplanent.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD [Hindi]
 http://103.166.253.222/hls/discovery.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD [Bangla]" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD [Bangla] 
-https://last.gcdn.co/IND415/index.m3u8
+http://103.55.144.46/hls/discovery.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://i.imgur.com/Stf5xif.png",History Channel 
 http://31.220.41.88:8081/live/us-history.stream/playlist.m3u8
@@ -101,10 +102,8 @@ http://31.220.41.88:8081/live/us-history.stream/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO (Bangla)" tvg-logo="https://i.imgur.com/plKUWKl.png",NAT GEO (Bangla)
-http://103.166.253.222/hls/ngohd.m3u8
+http://103.55.144.46/hls/ngohd.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO Wild " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO (Bangla)
 http://103.166.253.222/hls/wild.m3u8
-
-
 
