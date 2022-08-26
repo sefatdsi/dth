@@ -1,8 +1,514 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=435600,RESOLUTION=640x360
-zee_bangla_low/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=985600,RESOLUTION=854x480
-zee_bangla_mid/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1645600,RESOLUTION=1280x720
-zee_bangla_hi/index.m3u8
+<html lang="en-US">
+ <head></head>
+ <body data-rsssl="1" class="post-template-default single single-post postid-343 single-format-standard wp-custom-logo theme-body group-blog wpb-js-composer js-comp-ver-5.7 vc_responsive">
+  <div class="fit-vids-style" id="fit-vids-style" style="display: none;">
+   ­
+   <style>.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style>
+  </div> 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="profile" href="https://gmpg.org/xfn/11">
+  <title>মাছরাঙা লাইভ – Maasranga Television</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="dns-prefetch" href="//use.fontawesome.com">
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//s.w.org">
+  <link rel="alternate" type="application/rss+xml" title="Maasranga Television » Feed" href="https://maasranga.tv/feed/">
+  <link rel="alternate" type="application/rss+xml" title="Maasranga Television » Comments Feed" href="https://maasranga.tv/comments/feed/">
+  <link rel="alternate" type="application/rss+xml" title="Maasranga Television » মাছরাঙা লাইভ Comments Feed" href="https://maasranga.tv/%e0%a6%ae%e0%a6%be%e0%a6%9b%e0%a6%b0%e0%a6%be%e0%a6%99%e0%a6%be-%e0%a6%9f%e0%a6%bf%e0%a6%ad%e0%a6%bf-%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%ad/feed/"> 
+  <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/maasranga.tv\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.4"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);</script> 
+  <style type="text/css">img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0 .07em !important;vertical-align:-.1em !important;background:0 0 !important;padding:0 !important}</style>
+  <link data-optimized="1" rel="stylesheet" id="pt-cv-public-style-css" href="https://maasranga.tv/wp-content/litespeed/css/1e679558ccd3c9ba804dffc300da0960.css?ver=f611d" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="wp-block-library-css" href="https://maasranga.tv/wp-content/litespeed/css/0d696bbf9aa33d4a818f847be440bd60.css?ver=7c65b" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="bangla-fonts-css-css" href="https://maasranga.tv/wp-content/litespeed/css/214940dec4e345c0f8449aa93ac7d503.css?ver=b88f4" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="bangla-fonts-custom-css-css" href="https://maasranga.tv/wp-content/litespeed/css/bea50ae1957e426eff08006de06ff477.css?ver=abf4e" type="text/css" media="all">
+  <style id="bangla-fonts-custom-css-inline-css" type="text/css">body{font-family:SolaimanLipi,arial,sans-serif !important}</style>
+  <link data-optimized="1" rel="stylesheet" id="contact-form-7-css" href="https://maasranga.tv/wp-content/litespeed/css/41c8da88c33f36740fa5deaafc532d23.css?ver=f6d3b" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="ditty-news-ticker-font-css" href="https://maasranga.tv/wp-content/litespeed/css/c6271aed966e5e9ee47b470d5d55deb1.css?ver=3a770" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="ditty-news-ticker-css" href="https://maasranga.tv/wp-content/litespeed/css/6712f5e2e28064aa4cf123e971f9cebc.css?ver=d1ca4" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="ditty-css" href="https://maasranga.tv/wp-content/litespeed/css/597c1009691cd2ec41d356400c28d069.css?ver=80d30" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="fontawesome-css" href="https://maasranga.tv/wp-content/litespeed/css/772959dbe1515d9a8642e330c9e7cb98.css?ver=7cb98" type="text/css" media="">
+  <link data-optimized="1" rel="stylesheet" id="ssb-ui-style-css" href="https://maasranga.tv/wp-content/litespeed/css/360be7c108e65e92a6bab5ec70d86bd3.css?ver=2264b" type="text/css" media="all">
+  <style id="ssb-ui-style-inline-css" type="text/css">#ssb-btn-2{background:#d32d27}#ssb-btn-2:hover{background:rgba(211,45,39,.9)}#ssb-btn-2 a{color:#fff}.ssb-share-btn,.ssb-share-btn .ssb-social-popup{background:#d32d27;color:#fff}.ssb-share-btn:hover{background:rgba(211,45,39,.9)}.ssb-share-btn a{color:#fff !important}#ssb-btn-0{background:#1e73be}#ssb-btn-0:hover{background:rgba(30,115,190,.9)}#ssb-btn-0 a{color:#fff}#ssb-btn-1{background:#d32d27}#ssb-btn-1:hover{background:rgba(211,45,39,.9)}#ssb-btn-1 a{color:#fff}</style>
+  <link data-optimized="1" rel="stylesheet" id="ssb-fontawesome-css" href="https://maasranga.tv/wp-content/litespeed/css/24940877e0233f697fd8e94a3656cfd6.css?ver=36adc" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="bootstrap-style-css" href="https://maasranga.tv/wp-content/litespeed/css/ec6688a7be82eb53cebc6c9f016e625f.css?ver=0bad4" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="font-awesome-style-css" href="https://maasranga.tv/wp-content/litespeed/css/b4c31a7c883edf895fb1e00b19e28b08.css?ver=c20d2" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="newscard-google-fonts-css" href="https://maasranga.tv/wp-content/litespeed/css/03777c979d45b840e3ccd8ccd4e7f37a.css?ver=7f37a" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="owl-carousel-css" href="https://maasranga.tv/wp-content/litespeed/css/bf7762533e82f2117b68ca0b0bcde57c.css?ver=b22e3" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="newscard-style-css" href="https://maasranga.tv/wp-content/litespeed/css/8124602c698eeeea9d4dac120630744e.css?ver=1cfc7" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="tablepress-default-css" href="https://maasranga.tv/wp-content/litespeed/css/edf18537b3ffa7d3e793c0619aa2ff79.css?ver=df1cf" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="popup-maker-site-css" href="https://maasranga.tv/wp-content/litespeed/css/b9569c40560766101dc15797ebcd7ff4.css?ver=a90e8" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="__EPYT__style-css" href="https://maasranga.tv/wp-content/litespeed/css/3cfd60dbe2abd1c9b9eb744602240199.css?ver=50830" type="text/css" media="all">
+  <style id="__EPYT__style-inline-css" type="text/css">.epyt-gallery-thumb{width:33.333%}</style>
+  <link data-optimized="1" rel="stylesheet" id="parent-style-css" href="https://maasranga.tv/wp-content/litespeed/css/b85605ad37379568b1c581745443be7e.css?ver=8df7b" type="text/css" media="all">
+  <link data-optimized="1" rel="stylesheet" id="child-style-css" href="https://maasranga.tv/wp-content/litespeed/css/8124602c698eeeea9d4dac120630744e.css?ver=1cfc7" type="text/css" media="all"> 
+  <script type="text/javascript" id="ssb-ui-js-js-extra">/*  */
+var ssb_ui_data = {"z_index":"1000"};
+/*  */</script> 
+  <!--[if lt IE 9]>   <![endif]--> 
+  <script type="text/javascript" id="__ytprefs__-js-extra">/*  */
+var _EPYT_ = {"ajaxurl":"https:\/\/maasranga.tv\/wp-admin\/admin-ajax.php","security":"81e88843cf","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/maasranga.tv\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/maasranga.tv\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"14.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+/*  */</script> 
+  <link rel="https://api.w.org/" href="https://maasranga.tv/wp-json/">
+  <link rel="alternate" type="application/json" href="https://maasranga.tv/wp-json/wp/v2/posts/343">
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://maasranga.tv/xmlrpc.php?rsd">
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://maasranga.tv/wp-includes/wlwmanifest.xml">
+  <meta name="generator" content="WordPress 5.8.4">
+  <link rel="canonical" href="https://maasranga.tv/%e0%a6%ae%e0%a6%be%e0%a6%9b%e0%a6%b0%e0%a6%be%e0%a6%99%e0%a6%be-%e0%a6%9f%e0%a6%bf%e0%a6%ad%e0%a6%bf-%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%ad/">
+  <link rel="shortlink" href="https://maasranga.tv/?p=343">
+  <link rel="alternate" type="application/json+oembed" href="https://maasranga.tv/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmaasranga.tv%2F%25e0%25a6%25ae%25e0%25a6%25be%25e0%25a6%259b%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%2599%25e0%25a6%25be-%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%25ad%25e0%25a6%25bf-%25e0%25a6%25b2%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25ad%2F">
+  <link rel="alternate" type="text/xml+oembed" href="https://maasranga.tv/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmaasranga.tv%2F%25e0%25a6%25ae%25e0%25a6%25be%25e0%25a6%259b%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%2599%25e0%25a6%25be-%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%25ad%25e0%25a6%25bf-%25e0%25a6%25b2%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25ad%2F&amp;format=xml">
+  <link rel="pingback" href="https://maasranga.tv/xmlrpc.php">
+  <style type="text/css">::selection{background-color:#f39928;color:#fff}::-moz-selection{background-color:#f39928;color:#fff}a,a:hover,a:focus,a:active,.site-title a:hover,.site-title a:focus,.site-title a:active,.top-stories-bar .top-stories-lists .marquee a:hover,.entry-title a:hover,.entry-title a:focus,.entry-title a:active,.post-boxed .entry-title a:hover,.site-footer .widget-area .post-boxed .entry-title a:hover,.entry-meta a:hover,.entry-meta a:focus,.post-boxed .entry-meta a:hover,.site-footer .widget-area .post-boxed .entry-meta a:hover,.entry-meta .tag-links a,.nav-links a:hover,.widget ul li a:hover,.comment-metadata a.comment-edit-link,.widget_tag_cloud a:hover,.woocommerce .star-rating,.woocommerce .star-rating:before,.wp-block-calendar tfoot a,.widget_categories .current-cat a,.widget_nav_menu ul li.current_page_item>a,.widget_nav_menu ul li.current_page_ancestor>a,.widget_nav_menu ul li.current-menu-item>a,.widget_nav_menu ul li.current-menu-ancestor>a,.widget_pages ul li.current_page_item>a,.widget_pages ul li.current_page_ancestor>a{color:#f39928}.navigation-bar,.navigation-bar-top{background-color:#f39928}.main-navigation .dropdown-menu a:hover,.main-navigation .dropdown-menu a.current-menu-item,.main-navigation li ul li:hover>a,.main-navigation li ul li.current-menu-item>a,.main-navigation li ul li.current-menu-ancestor>a,.main-navigation ul li li.current_page_item>a,.main-navigation li ul li.current_page_ancestor>a{color:#f39928}@media (max-width:991px){.main-navigation ul li.current_page_item>a,.main-navigation ul li.current_page_ancestor>a,.main-navigation ul li.current-menu-item>a,.main-navigation ul li.current-menu-ancestor>a,.main-navigation ul li a:hover,.main-navigation ul li a:focus,.main-navigation ul li.show>a,.main-navigation ul li:hover>a,.main-navigation .dropdown-menu a:hover,.main-navigation .dropdown-menu a.current-menu-item,.main-navigation li ul li:hover>a,.main-navigation li ul li.current-menu-item>a,.main-navigation li ul li.current-menu-ancestor>a,.main-navigation ul li li.current_page_item>a,.main-navigation li ul li.current_page_ancestor>a{color:#f39928}}.btn-theme,.btn-outline-theme:hover,.btn-outline-info:not(:disabled):not(.disabled).active,.btn-outline-info:not(:disabled):not(.disabled):active,.show>.btn-outline-info.dropdown-toggle,input[type=reset],input[type=button],input[type=submit],button[type=submit],.back-to-top a,#bbpress-forums button,div.bbp-submit-wrapper button,.navigation.pagination .current,.navigation.pagination a:hover,.page-links span,.page-links a:hover span,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce.widget_product_search button,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce input.button:disabled:hover,.woocommerce input.button:disabled[disabled]:hover,.woocommerce button.button:disabled,.woocommerce button.button:disabled[disabled],.woocommerce button.button.alt.disabled,.woocommerce button.button.alt.disabled:hover,.woocommerce span.onsale,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle{background-color:#f39928}.btn-outline-theme{border-color:#f39928}.btn-outline-theme,.navigation.post-navigation .nav-links a:hover{color:#f39928}.theme-color,.format-quote blockquote:before{color:#f39928}.theme-bg-color,.post.sticky .entry-header:before{background-color:#f39928}.stories-title,.widget-title{border-color:#f39928}.top-stories-bar:before,.top-stories-bar .top-stories-label,.top-stories-bar .top-stories-label:after{background-color:#153f79}.top-stories-bar .top-stories-label .flash-icon{background-color:#ffe400}.top-stories-bar .top-stories-label .flash-icon:before,.top-stories-bar .top-stories-label .flash-icon:after{border-color:#ffe400}.entry-meta .cat-links a.cat-links-2,.entry-meta .cat-links a.cat-links-2:hover,.post-boxed .entry-meta .cat-links a.cat-links-2,.post-boxed .entry-meta .cat-links a.cat-links-2:hover,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-2,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-2:hover{color:#1bafba}.post-img-wrap .entry-meta .cat-links a.cat-links-2,.post-img-wrap .entry-meta .cat-links a.cat-links-2:hover,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-2,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-2:hover,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-2,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-2:hover,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-2,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-2:hover,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-2,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-2:hover{background-color:#1bafba;color:#fff}.entry-meta .cat-links a.cat-links-3,.entry-meta .cat-links a.cat-links-3:hover,.post-boxed .entry-meta .cat-links a.cat-links-3,.post-boxed .entry-meta .cat-links a.cat-links-3:hover,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-3,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-3:hover{color:#029e00}.post-img-wrap .entry-meta .cat-links a.cat-links-3,.post-img-wrap .entry-meta .cat-links a.cat-links-3:hover,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-3,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-3:hover,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-3,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-3:hover,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-3,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-3:hover,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-3,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-3:hover{background-color:#029e00;color:#fff}.entry-meta .cat-links a.cat-links-6,.entry-meta .cat-links a.cat-links-6:hover,.post-boxed .entry-meta .cat-links a.cat-links-6,.post-boxed .entry-meta .cat-links a.cat-links-6:hover,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-6,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-6:hover{color:#ced11b}.post-img-wrap .entry-meta .cat-links a.cat-links-6,.post-img-wrap .entry-meta .cat-links a.cat-links-6:hover,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-6,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-6:hover,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-6,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-6:hover,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-6,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-6:hover,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-6,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-6:hover{background-color:#ced11b;color:#fff}.entry-meta .cat-links a.cat-links-1,.entry-meta .cat-links a.cat-links-1:hover,.post-boxed .entry-meta .cat-links a.cat-links-1,.post-boxed .entry-meta .cat-links a.cat-links-1:hover,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-1,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-1:hover{color:#d68e31}.post-img-wrap .entry-meta .cat-links a.cat-links-1,.post-img-wrap .entry-meta .cat-links a.cat-links-1:hover,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-1,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-1:hover,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-1,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-1:hover,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-1,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-1:hover,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-1,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-1:hover{background-color:#d68e31;color:#fff}.entry-meta .cat-links a.cat-links-26,.entry-meta .cat-links a.cat-links-26:hover,.post-boxed .entry-meta .cat-links a.cat-links-26,.post-boxed .entry-meta .cat-links a.cat-links-26:hover,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-26,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-26:hover{color:#00d303}.post-img-wrap .entry-meta .cat-links a.cat-links-26,.post-img-wrap .entry-meta .cat-links a.cat-links-26:hover,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-26,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-26:hover,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-26,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-26:hover,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-26,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-26:hover,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-26,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-26:hover{background-color:#00d303;color:#fff}.entry-meta .cat-links a.cat-links-25,.entry-meta .cat-links a.cat-links-25:hover,.post-boxed .entry-meta .cat-links a.cat-links-25,.post-boxed .entry-meta .cat-links a.cat-links-25:hover,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-25,.site-footer .widget-area .post-boxed .entry-meta .cat-links a.cat-links-25:hover{color:#c95e00}.post-img-wrap .entry-meta .cat-links a.cat-links-25,.post-img-wrap .entry-meta .cat-links a.cat-links-25:hover,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-25,.post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-25:hover,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-25,.post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-25:hover,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-25,.site-footer .widget-area .post-boxed .post-img-wrap .entry-meta .cat-links a.cat-links-25:hover,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-25,.site-footer .widget-area .post-block .post-img-wrap+.entry-header .entry-meta .cat-links a.cat-links-25:hover{background-color:#c95e00;color:#fff}.navbar-toggler,.search-toggle,.search-toggle.active,.search-toggle:hover,.search-toggle:focus{color:#000}@media (min-width:992px){.navigation-bar,.main-navigation a,.main-navigation ul li.current_page_item>a,.main-navigation ul li.current_page_ancestor>a,.main-navigation ul li.current-menu-item>a,.main-navigation ul li.current-menu-ancestor>a,.main-navigation ul li a:hover,.main-navigation ul li a:focus,.main-navigation ul li.show>a,.main-navigation ul li:hover>a,.main-navigation ul li.menu-item-has-children>a:after,.main-navigation ul li.page_item_has_children>a:after{color:#000}}.main-navigation .dropdown-menu a,.main-navigation li ul a,.main-navigation li ul li.menu-item-has-children>a:after,.main-navigation li ul li.page_item_has_children>a:after{color:#000}@media (max-width:991px){.main-navigation ul li a,.main-navigation ul li.menu-item-has-children>a:after,.main-navigation li ul li.menu-item-has-children>a:after,.main-navigation ul li.page_item_has_children>a:after,.main-navigation li ul li.page_item_has_children>a:after,.main-navigation .dropdown-parent .dropdown-toggle{color:#000}}.top-stories-bar .top-stories-label{color:#e0e033}blockquote,.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6,.entry-title,.entry-title a,.post-boxed .entry-title,.post-boxed .entry-title a,.site-footer .widget-area .post-boxed .entry-title,.site-footer .widget-area .post-boxed .entry-title a,.page-title,.site-content .newscard-widget-recent-posts .nav-link:hover,.site-content .newscard-widget-recent-posts .nav-link.active{color:#000}.page-title,.stories-title,.site-content .newscard-widget-horizontal-vertical-posts .widget-title,.site-content .newscard-widget-double-column-posts .widget-title,.site-content .newscard-widget-card-block-posts .widget-title,.site-content .newscard-widget-recent-posts .widget-title{color:#000}.navigation.post-navigation .nav-links a,.navigation.pagination .page-numbers,.page-links a span{color:#000}</style>
+  <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important}</style>
+  <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."> 
+  <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://maasranga.tv/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+  <style type="text/css">.site-title,.site-description{position:absolute;clip:rect(1px,1px,1px,1px)}</style>
+  <link rel="icon" href="https://maasranga.tv/wp-content/uploads/2019/12/massranga-logo.gif" sizes="32x32">
+  <link rel="icon" href="https://maasranga.tv/wp-content/uploads/2019/12/massranga-logo.gif" sizes="192x192">
+  <link rel="apple-touch-icon" href="https://maasranga.tv/wp-content/uploads/2019/12/massranga-logo.gif">
+  <meta name="msapplication-TileImage" content="https://maasranga.tv/wp-content/uploads/2019/12/massranga-logo.gif">
+  <style type="text/css" id="wp-custom-css">.page-id-8076 #sticky-navigation-bar-sticky-wrapper,.page-id-8076 #ssb-container,.page-id-8076 .top-stories-bar,.page-id-8747 #sticky-navigation-bar-sticky-wrapper,.page-id-8747 #ssb-container,.page-id-8747 .top-stories-bar{display:none}.widget_rrm_similar_posts ul li{border-bottom:1px solid rgba(0,0,0,.1);padding:8px 0}.mtphr-dnt-scroll-left .mtphr-dnt-tick,.mtphr-dnt-scroll-right .mtphr-dnt-tick{top:17px}@media only screen and (max-width:600px){.wpforms-form .wpforms-two-thirds,.wpforms-form .wpforms-one-third{width:100% !important}.wpforms-form .wpforms-one-third{margin-left:0 !important}.vc_row-has-fill>.vc_column_container>.vc_column-inner{padding-top:0}}</style>
+  <noscript>
+   <style type="text/css">.wpb_animate_when_almost_visible { opacity: 1; }</style>
+  </noscript> 
+  <!--script type="text/javascript">// <![CDATA[
+jQuery(document).ready(function($){
+$('a').each(function(){
+if( $(this).attr('href') && 0 != $(this).attr('href').indexOf('#') ) {
+$(this).attr('target', '_blank');
+}
+});
+});
+// ]]></script-->
+  <div id="page" class="site"> 
+   <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+   <header id="masthead" class="site-header">
+    <nav class="navbar navbar-expand-lg d-block">
+     <div class="navbar-head header-overlay-dark">
+      <div class="container">
+       <div class="row align-items-center">
+        <div class="col-lg-4 mtv-logo">
+         <div class="site-branding navbar-brand"> 
+          <a href="https://maasranga.tv/" class="custom-logo-link" rel="home"><img width="85" height="100" src="https://maasranga.tv/wp-content/uploads/2020/03/M-TV-Logo100-PX.gif" class="custom-logo" alt="Maasranga Television"></a>
+          <h2 class="site-title"><a href="https://maasranga.tv/" rel="home">Maasranga Television</a></h2>
+          <p class="site-description">Rangate Elo Maasranga</p>
+         </div>
+        </div>
+        <div class="col-lg-4 custom-logo"> 
+         <a href="https://maasranga.tv/" rel="home"><img src="https://maasranga.tv/wp-content/themes/maasranga-tv-pro/img/logo_text_new.png"></a>
+        </div>
+        <div class="col-lg-4 navbar-ad-section"> 
+         <a href="https://maasranga.tv/our-sister-concerns/" class="newscard-ad-728-90" target="_blank"> <img class="img-fluid" src="https://maasranga.tv/wp-content/uploads/2019/12/square-group.png" alt="Banner Add"> </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div id="sticky-navigation-bar-sticky-wrapper" class="sticky-wrapper" style="height: 46px;">
+      <div class="navigation-bar" id="sticky-navigation-bar">
+       <div class="navigation-bar-top">
+        <div class="container"> 
+         <button class="navbar-toggler menu-toggle" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"></button> 
+         <span class="search-toggle"></span>
+        </div>
+        <div class="search-bar">
+         <div class="container">
+          <div class="search-block off">
+           <form action="https://maasranga.tv/" method="get" class="search-form"> 
+            <label class="assistive-text"> Search </label>
+            <div class="input-group"> 
+             <input type="search" value="" placeholder="Search" class="form-control s" name="s">
+             <div class="input-group-prepend"> 
+              <button class="btn btn-theme">Search</button>
+             </div>
+            </div>
+           </form>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="navbar-main">
+        <div class="container">
+         <div class="collapse navbar-collapse" id="navbarCollapse">
+          <div id="site-navigation" class="main-navigation nav-uppercase" role="navigation">
+           <ul class="nav-menu navbar-nav d-lg-block">
+            <li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-22"><a href="https://maasranga.tv/">home</a></li>
+            <li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-162 dropdown-parent"><a href="https://maasranga.tv/%e0%a6%85%e0%a6%a8%e0%a7%81%e0%a6%b7%e0%a7%8d%e0%a6%a0%e0%a6%be%e0%a6%a8/">Program</a><span class="dropdown-toggle"><span class="dropdown-icon"></span></span>
+             <ul class="sub-menu">
+              <li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="https://maasranga.tv/%e0%a6%85%e0%a6%a8%e0%a7%81%e0%a6%b7%e0%a7%8d%e0%a6%a0%e0%a6%be%e0%a6%a8%e0%a6%b8%e0%a7%82%e0%a6%9a%e0%a7%80/">Program Schedule</a></li>
+              <li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="https://maasranga.tv/%e0%a6%b0%e0%a6%be%e0%a6%99%e0%a6%be-%e0%a6%b8%e0%a6%95%e0%a6%be%e0%a6%b2/">Ranga Shokal</a></li>
+             </ul></li>
+            <li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="https://maasranga.tv/%e0%a6%b8%e0%a6%82%e0%a6%ac%e0%a6%be%e0%a6%a6/">News</a></li>
+            <li id="menu-item-5297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5297"><a href="https://maasranga.tv/corona/">Corona Time</a></li>
+            <li id="menu-item-163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-163 dropdown-parent"><a href="#">About Us</a><span class="dropdown-toggle"><span class="dropdown-icon"></span></span>
+             <ul class="sub-menu">
+              <li id="menu-item-1593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1593"><a href="https://www.samsonchowdhury.com">Founder Chairman’s Profile</a></li>
+              <li id="menu-item-1604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1604"><a href="https://maasranga.tv/message-from-chairman/">Message from Chairman</a></li>
+              <li id="menu-item-1605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1605"><a href="https://maasranga.tv/message-from-managing-director/">Message from Managing Director</a></li>
+              <li id="menu-item-1603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1603"><a href="https://maasranga.tv/company-profile/">Company Profile</a></li>
+              <li id="menu-item-1606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1606"><a href="https://maasranga.tv/our-sister-concerns/">Sister Concerns</a></li>
+              <li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="https://maasranga.tv/career/">Career</a></li>
+              <li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://maasranga.tv/%e0%a6%a1%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a6%b2%e0%a6%bf%e0%a6%82%e0%a6%95-%e0%a6%aa%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%bf%e0%a6%9f%e0%a6%be%e0%a6%b0/">Down Link Parameter</a></li>
+             </ul></li>
+           </ul>
+          </div>
+         </div>
+         <div class="nav-search"> 
+          <span class="search-toggle"></span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </nav>
+    <div class="top-stories-bar top-stories-bar-with-thumbnail">
+     <div class="container">
+      <div class="row top-stories-box clearfix">
+       <div class="col-sm-auto">
+        <div class="top-stories-label">
+         <div class="top-stories-label-wrap"> 
+          <span class="flash-icon"></span> 
+          <span class="label-txt"> শিরোনাম </span>
+         </div>
+        </div>
+       </div>
+       <div class="col-12 col-sm top-stories-lists">
+        <div class="row align-items-center">
+         <div class="col">
+          <div id="mtphr-dnt-143" class="mtphr-dnt mtphr-dnt-143 mtphr-dnt-default mtphr-dnt-scroll mtphr-dnt-scroll-left">
+           <div class="mtphr-dnt-wrapper mtphr-dnt-clearfix">
+            <div class="mtphr-dnt-tick-container">
+             <div class="mtphr-dnt-tick-contents" style="height: 25px;">
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               কুশিয়ারা নদীর পানিবণ্টনে বাংলাদেশ ও ভারতের মধ্যে সমঝোতা স্মারকের রূপরেখা চূড়ান্ত করেছে যৌথ নদী কমিশন: পানি সম্পদ প্রতিমন্ত্রী; তিস্তার পানিবণ্টন চুক্তি সইয়ে ফের আশ্বাস দিল্লির
+              </div>
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               সরকারের বিরুদ্ধে দেশে ও বিদেশে চক্রান্ত করছে বিএনপি: ওবায়দুল কাদের
+              </div>
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               বর্তমান সরকারের পতনই একমাত্র লক্ষ্য: মির্জা ফখরুল
+              </div>
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               ডেঙ্গুতে আক্রান্ত হয়ে একদিনে ১৮০ জন হাসপাতালে ভর্তি, এ বছর একদিনে সর্বাধিক ডেঙ্গু রোগী ভর্তির রেকর্ড
+              </div>
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               জাপোরিজিয়া পরমাণু বিদ্যুৎ কেন্দ্রের সঙ্গে ইউক্রেইনের পাওয়ার গ্রিডের সংযোগ বিচ্ছিন্ন; তেজস্ক্রিয় বিপর্যয়ের ঝুঁকি উপেক্ষা করে আসছে রুশ বাহিনী: প্রেসিডেন্ট ভলোদিমির জেলেনস্কি
+              </div>
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               চীনের অব্যাহত আপত্তির মধ্যেই তাইওয়ান সফরে যুক্তরাষ্ট্রের আইনপ্রণেতাদের আরেকটি দল
+              </div>
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               পাকিস্তানে বন্যা ও ভূমিধসে প্রাণহানির সংখ্যা বেড়ে ৯৩৭, জাতীয় জরুরি অবস্থা ঘোষণা
+              </div>
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               শনিবার থেকে আরব আমিরাতে শুরু হচ্ছে ছয় জাতির এশিয়া কাপ
+              </div>
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               বাংলাদেশ টি টোয়েন্টি দলের লিডার হিসেবে নয়, দলকে সহযোগিতা করতে এসেছি: কনসালট্যান্ট শ্রীরাম
+              </div>
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               আবুধাবিতে টি টেন লিগে বাংলা টাইগার্সের নতুন আইকন সাকিব আল হাসান
+              </div>
+              <div class="mtphr-dnt-tick mtphr-dnt-default-tick mtphr-dnt-clearfix " style="transform: translateX(380px);">
+               উয়েফা বর্ষসেরা ফুটবলারের পুরস্কার জিতেছেন রিয়াল মাদ্রিদের ফরাসি তারকা করিম বেনজেমা
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div id="content" class="site-content ">
+    <div class="container">
+     <div class="row justify-content-center site-content-row">
+      <div id="primary" class="col-lg-8 content-area">
+       <main id="main" class="site-main">
+        <div class="post-343 post type-post status-publish format-standard has-post-thumbnail hentry category-25">
+         <div class="entry-meta category-meta">
+          <div class="cat-links"> 
+           <a class="cat-links-25" href="https://maasranga.tv/category/home-page/%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%ad-%e0%a6%93-%e0%a6%ad%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%93/">লাইভ ও ভিডিও</a>
+          </div>
+         </div>
+         <header class="entry-header">
+          <h1 class="entry-title">মাছরাঙা লাইভ</h1>
+          <div class="entry-meta">
+           <div class="date">
+            <a href="https://maasranga.tv/%e0%a6%ae%e0%a6%be%e0%a6%9b%e0%a6%b0%e0%a6%be%e0%a6%99%e0%a6%be-%e0%a6%9f%e0%a6%bf%e0%a6%ad%e0%a6%bf-%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%ad/" title="মাছরাঙা লাইভ">January 16, 2020</a>
+           </div>
+           <div class="by-author vcard author">
+            <a href="https://maasranga.tv/author/webdev/">WebDev</a>
+           </div>
+           <div class="comments"> 
+            <a href="https://maasranga.tv/%e0%a6%ae%e0%a6%be%e0%a6%9b%e0%a6%b0%e0%a6%be%e0%a6%99%e0%a6%be-%e0%a6%9f%e0%a6%bf%e0%a6%ad%e0%a6%bf-%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%ad/#respond">No Comments</a>
+           </div>
+          </div>
+         </header>
+         <div class="entry-content">
+          <p><a class="popmake-maasranga-live-tv pum-trigger" style="cursor: pointer;"><img loading="lazy" class="size-full wp-image-709 aligncenter" src="https://maasranga.tv/wp-content/uploads/2020/01/Live.jpg" alt="" width="1920" height="1160" srcset="https://maasranga.tv/wp-content/uploads/2020/01/Live.jpg 1920w, https://maasranga.tv/wp-content/uploads/2020/01/Live-300x181.jpg 300w, https://maasranga.tv/wp-content/uploads/2020/01/Live-1024x619.jpg 1024w, https://maasranga.tv/wp-content/uploads/2020/01/Live-768x464.jpg 768w, https://maasranga.tv/wp-content/uploads/2020/01/Live-1536x928.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px"></a></p>
+         </div>
+        </div>
+        <nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+         <h2 class="screen-reader-text">Post navigation</h2>
+         <div class="nav-links">
+          <div class="nav-previous">
+           <a href="https://maasranga.tv/%e0%a6%ae%e0%a6%be%e0%a6%9b%e0%a6%b0%e0%a6%be%e0%a6%99%e0%a6%be-%e0%a6%9f%e0%a6%bf%e0%a6%ad%e0%a6%bf-%e0%a6%ad%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%93/" rel="prev">ভিডিও</a>
+          </div>
+          <div class="nav-next">
+           <a href="https://maasranga.tv/%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9f%e0%a7%81%e0%a6%a8-%e0%a6%b8%e0%a6%bf%e0%a6%b0%e0%a6%bf%e0%a6%9c/" rel="next">কার্টুন সিরিজ</a>
+          </div>
+         </div>
+        </nav>
+        <div id="comments" class="comments-area">
+         <div id="respond" class="comment-respond">
+          <h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A6%BE-%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AD/#respond" style="display:none;">Cancel reply</a></small></h3>
+          <form action="https://maasranga.tv/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+           <p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+           <p class="comment-form-comment"><label for="comment">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p>
+           <p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required></p>
+           <p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required></p>
+           <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200"></p>
+           <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+           <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="343" id="comment_post_ID"> <input type="hidden" name="comment_parent" id="comment_parent" value="0"></p>
+           <p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="aecf9c815b"></p>
+           <p style="display: none !important;"><label>Δ<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="1661549352676"> </p>
+          </form>
+         </div>
+        </div>
+       </main>
+      </div>
+      <aside id="secondary" class="col-lg-4 widget-area" role="complementary">
+       <div class="sticky-sidebar">
+        <section id="search-2" class="widget widget_search">
+         <form action="https://maasranga.tv/" method="get" class="search-form"> 
+          <label class="assistive-text"> Search </label>
+          <div class="input-group"> 
+           <input type="search" value="" placeholder="Search" class="form-control s" name="s">
+           <div class="input-group-prepend"> 
+            <button class="btn btn-theme">Search</button>
+           </div>
+          </div>
+         </form>
+        </section>
+        <section id="similar_posts_widget" class="widget widget_rrm_similar_posts">
+         <h3 class="widget-title">Similar Posts</h3>
+         <ul>
+          None Found
+         </ul>
+        </section>
+        <section id="recent-posts-2" class="widget widget_recent_entries">
+         <h3 class="widget-title">সাম্প্রতিক</h3>
+         <ul>
+          <li> <a href="https://maasranga.tv/unser-standardtarife-gultigkeit-besitzen-je-die/">Unser Standardtarife gultigkeit besitzen je die meisten Mitglieder, die bei der Ort sind, unser entsprechenden Angemessen sein abzuglich erhebliche Spannung hinter bezahlen</a></li>
+          <li> <a href="https://maasranga.tv/register-now-into-greatest-bisexual-talk/">Register Now into Greatest Bisexual Talk</a></li>
+          <li> <a href="https://maasranga.tv/people-was-ladies-who-has-been-around-since-moms/">People was ladies who has been around since moms and dads, but they are nevertheless really horny and sensuous</a></li>
+          <li> <a href="https://maasranga.tv/las-cinco-mi-s-grandes-apps-de-gays-desplazandolo/">Las cinco mi?s grandes apps de gays desplazandolo hacia el pelo lesbianas</a></li>
+          <li> <a href="https://maasranga.tv/interesting-information-regarding-klay-thompson-s-5/">Interesting Information regarding Klay Thompson’s Field, Like Relationship And you will Nearest and dearest</a></li>
+         </ul>
+        </section>
+        <section id="recent-comments-2" class="widget widget_recent_comments">
+         <h3 class="widget-title">Recent Comments</h3>
+         <ul id="recentcomments"></ul>
+        </section>
+       </div>
+      </aside>
+     </div>
+    </div>
+   </div>
+   <footer id="colophon" class="site-footer" role="contentinfo">
+    <div class="widget-area">
+     <div class="container">
+      <div class="row">
+       <div class="col-sm-6 col-lg-4">
+        <section id="custom_html-5" class="widget_text widget widget_custom_html">
+         <h3 class="widget-title">Social Networks</h3>
+         <div class="textwidget custom-html-widget">
+          <a href="https://www.facebook.com/MaasrangaTelevision/" target="_blank" rel="noopener"><img src="https://maasranga.tv/wp-content/uploads/2019/12/Facebook.png" alt="Facebook" width="70"></a> 
+          <a href="https://www.twitter.com/" target="_blank" rel="noopener"><img src="https://maasranga.tv/wp-content/uploads/2019/12/Twitter.png" alt="Twitter" width="70"></a> 
+          <a href="https://www.youtube.com/channel/UCJGnNvYgPpUhd7ImU9diBSQ" target="_blank" rel="noopener"><img src="https://maasranga.tv/wp-content/uploads/2019/12/YouTube.png" alt="YouTube" width="70"></a> 
+          <a href="https://www.LinkedIn.com/" target="_blank" rel="noopener"><img src="https://maasranga.tv/wp-content/uploads/2019/12/LinkedIn.png" alt="LinkedIn" width="70"></a> 
+          <a href="https://www.Instagram.com/" target="_blank" rel="noopener"><img src="https://maasranga.tv/wp-content/uploads/2019/12/Instagram.png" alt="Instagram" width="70"></a>
+         </div>
+        </section>
+       </div>
+       <div class="col-sm-6 col-lg-4">
+        <section id="custom_html-3" class="widget_text widget widget_custom_html">
+         <h3 class="widget-title">Apps &amp; Feeds</h3>
+         <div class="textwidget custom-html-widget">
+          <a href="https://play.google.com/store/apps/details?id=com.beyondtech.machranga.tvapp&amp;hl=en" target="_blank" rel="noopener"><img src="https://maasranga.tv/wp-content/uploads/2019/12/google-play.png" width="175"></a> 
+          <a href="https://itunes.apple.com/au/app/maasranga-television/id1207575255?mt=8" target="_blank" rel="noopener"><img src="https://maasranga.tv/wp-content/uploads/2019/12/apple-app-store-icon.png" width="175"></a>
+         </div>
+        </section>
+       </div>
+       <div class="col-sm-6 col-lg-4">
+        <section id="custom_html-1" class="widget_text widget widget_custom_html">
+         <h3 class="widget-title">Our Location</h3>
+         <div class="textwidget custom-html-widget">
+          <p> Maasranga Television Center<br> 2 Bir Uttam Ziaur Rahman Road (New Airport Road).<br> Banani Dhaka-1213, Bangladesh<br> Phone: +88 02 8715877<br> E-mail: <a href="goto:info@maasranga.tv">info@maasranga.tv</a><br> URL: <a href="maasranaga.tv" title="Maasranga Television">maasranga.tv</a></p>
+         </div>
+        </section>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="site-info">
+     <div class="container">
+      <div class="row">
+       <div class="copyright col-12">
+        <div class="privacy-link">
+         <a class="privacy-policy-link" href="https://maasranga.tv/privacy-policy/">Privacy Policy</a>
+        </div>
+        <div class="custom-content">
+          All rights are reserved. Copyright © 2017-2021, Maasranga Television
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+   <div class="back-to-top" style="display: none;">
+    <a title="Go to Top" href="#masthead"></a>
+   </div>
+  </div>
+  <div id="ssb-container" class="ssb-btns-right ssb-disable-on-mobile ssb-anim-slide" style="z-index: 1000; right: -85.008px;">
+   <ul class="ssb-dark-hover">
+    <li id="ssb-btn-2"><p> <a href="#tvschedule"><span class="fas fa-calendar-alt"></span> অনুষ্ঠানসূচী</a></p></li>
+    <li id="ssb-btn-0"><p> <a href="https://www.facebook.com/MaasrangaTelevision/" target="_blank"><span class="fab fa-facebook"></span> Facebook</a></p></li>
+    <li id="ssb-btn-1"><p> <a href="https://www.youtube.com/channel/UCJGnNvYgPpUhd7ImU9diBSQ" target="_blank"><span class="fab fa-youtube"></span> YouTube</a></p></li>
+   </ul>
+  </div>
+  <div id="pum-940" class="pum pum-overlay pum-theme-666 pum-theme-enterprise-blue popmake-overlay auto_open click_open" data-popmake="{&quot;id&quot;:940,&quot;slug&quot;:&quot;maasranga-live-tv&quot;,&quot;theme_id&quot;:666,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;delay&quot;:&quot;500&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;large&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+   <div id="popmake-940" class="pum-container popmake theme-666 pum-responsive pum-responsive-large responsive size-large">
+    <div class="pum-content popmake-content" tabindex="0">
+     <div id="wpfp_5da9d63515581ba47cf63f158ed42b03" data-item="{&quot;sources&quot;:[{&quot;src&quot;:&quot;https:\/\/niptv.kitv.live\/MAASRANGA-TV\/index.m3u8&quot;,&quot;type&quot;:&quot;application\/x-mpegurl&quot;}],&quot;live&quot;:&quot;true&quot;,&quot;id&quot;:&quot;1&quot;,&quot;splash&quot;:&quot;\/\/maasranga.tv\/wp-content\/uploads\/2020\/02\/Live-16-9.jpg&quot;}" class="flowplayer no-brand is-splash no-svg is-paused skin-slim fp-slim fp-edgy" data-fvautoplay="0" style="max-width: 100%; max-height: 57%; "> 
+      <img class="fp-splash" alt="video" src="//maasranga.tv/wp-content/uploads/2020/02/Live-16-9.jpg">
+      <div class="fp-ui">
+       <noscript>
+        Please enable JavaScript
+       </noscript>
+       <div class="fp-preload">
+        <b></b>
+        <b></b>
+        <b></b>
+        <b></b>
+       </div>
+      </div>
+     </div>
+    </div>
+    <button type="button" class="pum-close popmake-close" aria-label="Close"> × </button>
+   </div>
+  </div>
+  <link data-optimized="1" rel="stylesheet" id="fv_flowplayer-css" href="https://maasranga.tv/wp-content/litespeed/css/3e327afe5540feeb78e7f7182295f6fd.css?ver=6267f" type="text/css" media="all"> 
+  <script type="text/javascript" id="contact-form-7-js-extra">/*  */
+var wpcf7 = {"api":{"root":"https:\/\/maasranga.tv\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/*  */</script> 
+  <script type="text/javascript" id="pt-cv-content-views-script-js-extra">/*  */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"e34c61a89a","is_admin":"","is_mobile":"1","ajaxurl":"https:\/\/maasranga.tv\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/*  */</script> 
+  <script type="text/javascript" id="ditty-news-ticker-js-extra">/*  */
+var mtphr_dnt_vars = {"is_rtl":""};
+/*  */</script> 
+  <script type="text/javascript" id="popup-maker-site-js-extra">/*  */
+var pum_vars = {"version":"1.16.7","pm_dir_url":"https:\/\/maasranga.tv\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/maasranga.tv\/wp-admin\/admin-ajax.php","restapi":"https:\/\/maasranga.tv\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"664","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"analytics_route":"analytics","analytics_api":"https:\/\/maasranga.tv\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/maasranga.tv\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-940":{"triggers":[{"type":"auto_open","settings":{"cookie_name":"","delay":"500"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"666","size":"large","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"enterprise-blue","id":940,"slug":"maasranga-live-tv"}};
+/*  */</script> 
+  <script type="text/javascript" id="flowplayer-js-extra">/*  */
+var fv_flowplayer_conf = {"fv_fullscreen":"1","swf":"\/\/maasranga.tv\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/flowplayer.swf?ver=7.5.21.727","swfHls":"\/\/maasranga.tv\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/flowplayerhls.swf?ver=7.5.21.727","speeds":[0.25,0.5,0.75,1,1.25,1.5,1.75,2],"video_hash_links":"","safety_resize":"1","volume":"0.7","default_volume":"0.7","sticky_video":"","sticky_place":"right-bottom","sticky_width":"380","sticky_min_width":"1020","script_hls_js":"https:\/\/maasranga.tv\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/hls.min.js?ver=1.1.3","script_dash_js":"https:\/\/maasranga.tv\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/flowplayer.dashjs.min.js?ver=7.5.21.727","script_dash_js_version":"2.7","chromecast":"","fv_chromecast":"1","hd_streaming":"1","hlsjs":{"startLevel":-1,"fragLoadingMaxRetry":3,"levelLoadingMaxRetry":3,"capLevelToPlayerSize":true}};
+var fv_player = {"ajaxurl":"https:\/\/maasranga.tv\/wp-admin\/admin-ajax.php"};
+var fv_flowplayer_translations = {"0":"","1":"Video loading aborted","2":"Network error","3":"Video not properly encoded","4":"Video file not found","5":"Unsupported video","6":"Skin not found","7":"SWF file not found","8":"Subtitles not found","9":"Invalid RTMP URL","10":"Unsupported video format. Try installing Adobe Flash.","11":"Click to watch the video","12":"[This post contains video, click to play]","video_expired":"<h2>Video file expired.<br \/>Please reload the page and play it again.<\/h2>","unsupported_format":"<h2>Unsupported video format.<br \/>Please use a Flash compatible device.<\/h2>","mobile_browser_detected_1":"Mobile browser detected, serving low bandwidth video.","mobile_browser_detected_2":"Click here for full quality","live_stream_failed":"<h2>Live stream load failed.<\/h2><h3>Please try again later, perhaps the stream is currently offline.<\/h3>","live_stream_failed_2":"<h2>Live stream load failed.<\/h2><h3>Please try again later, perhaps the stream is currently offline.<\/h3>","what_is_wrong":"Please tell us what is wrong :","full_sentence":"Please give us more information (a full sentence) so we can help you better","error_JSON":"Admin: Error parsing JSON","no_support_IE9":"Admin: Video checker doesn't support IE 9.","check_failed":"Admin: Check failed.","playlist_current":"Now Playing","playlist_item_no":"Item %d.","playlist_play_all":"Play All","playlist_play_all_button":"All","playlist_replay_all":"Replay Playlist","playlist_replay_video":"Repeat Track","playlist_shuffle":"Shuffle Playlist","video_issues":"Video Issues","video_reload":"Video loading has stalled, click to reload","link_copied":"Video Link Copied to Clipboard","live_stream_starting":"<h2>Live stream scheduled<\/h2><p>Starting in <span>%d<\/span>.<\/p>","live_stream_retry":"<h2>We are sorry, currently no live stream available.<\/h2><p>Retrying in <span>%d<\/span> ...<\/p>","live_stream_continue":"<h2>It appears the stream went down.<\/h2><p>Retrying in <span>%d<\/span> ...<\/p>","embed_copied":"Embed Code Copied to Clipboard","subtitles_disabled":"Subtitles disabled","subtitles_switched":"Subtitles switched to ","warning_iphone_subs":"This video has subtitles, that are not supported on your device.","warning_unstable_android":"You are using an old Android device. If you experience issues with the video please use <a href=\"https:\/\/play.google.com\/store\/apps\/details?id=org.mozilla.firefox\">Firefox<\/a>. <a target=\"_blank\" href=\"https:\/\/foliovision.com\/2017\/05\/issues-with-vimeo-on-android\">Why?<\/a>","warning_samsungbrowser":"You are using the Samsung Browser which is an older and buggy version of Google Chrome. If you experience issues with the video please use <a href=\"https:\/\/www.mozilla.org\/en-US\/firefox\/new\/\">Firefox<\/a> or other modern browser. <a target=\"_blank\" href=\"https:\/\/foliovision.com\/2017\/05\/issues-with-vimeo-on-android\">Why?<\/a>","warning_old_safari":"You are using an old Safari browser. If you experience issues with the video please use <a href=\"https:\/\/www.mozilla.org\/en-US\/firefox\/new\/\">Firefox<\/a> or other modern browser.","warning_old_chrome":"You are using an old Chrome browser. Please make sure you use the latest version.","warning_old_firefox":"You are using an old Firefox browser. Please make sure you use the latest version.","warning_old_ie":"You are using a deprecated browser. If you experience issues with the video please use <a href=\"https:\/\/www.mozilla.org\/en-US\/firefox\/new\/\">Firefox<\/a> or other modern browser.","quality":"Quality","closed_captions":"Closed Captions","no_subtitles":"No subtitles","speed":"Speed","duration_1_day":"%s day","duration_n_days":"%s days","duration_1_hour":"%s hour","duration_n_hours":"%s hours","duration_1_minute":"%s min","duration_n_minutes":"%s mins","duration_1_second":"%s second","duration_n_seconds":"%s seconds","and":" and ","chrome_extension_disable_html5_autoplay":"It appears you are using the Disable HTML5 Autoplay Chrome extension, disable it to play videos","click_to_unmute":"Click to unmute","audio_button":"AUD","audio_menu":"Audio"};
+var fv_flowplayer_playlists = [];
+/*  */</script> 
+  <script>jQuery( function( $ ) {
+							$( '#mtphr-dnt-143' ).ditty_news_ticker({
+					id : '143',
+					type : 'scroll',
+					scroll_direction : 'left',
+					scroll_speed : 8,
+					scroll_pause : 0,
+					scroll_spacing : 40,
+					scroll_init : 0,
+					scroll_init_delay : 2,
+					rotate_type : 'fade',
+					auto_rotate : 1,
+					rotate_delay : 7,
+					rotate_pause : 0,
+					rotate_speed : 10,
+					rotate_ease : 'easeInOutQuint',
+					nav_reverse : 0,
+					disable_touchswipe : 0,
+					offset : 20,
+					after_load : function( $ticker ) {
+											},
+					before_change : function( $ticker ) {
+											},
+					after_change : function( $ticker ) {
+											}
+				});
+			 			});</script> 
+  <style>.letak{position:absolute;left:-8888168px;z-index:-1000;opacity:0}</style>
+  <div class="letak">
+    Permainan yang ada dalam 
+   <a href="https://trofeocentroitalia.it/">situs slot online terpercaya</a> yang populer di kalangan masyarakat Indonesia. Tampilan 
+   <a href="https://www.aupravesh2020.com/">rtp slot gacor</a> yang ada telah berkembang seiring waktu. Permainan yang tersedia di 
+   <a href="https://www.disabilityartscymru.co.uk/">situs judi slot online</a> untuk anda tidak lepas dari kerjasama. Link alternatif 
+   <a href="https://www.ucobserver.org/">https://www.ucobserver.org/</a> slot online. Kumpulan 
+   <a href="https://globalpartners.iaps.stonybrook.edu/images/panen138.html">daftar panen138</a> situs judi slot online terbaik. Link judi 
+   <a href="https://globalpartners.iaps.stonybrook.edu/images/panen77.html">https://globalpartners.iaps.stonybrook.edu/images/panen77.html</a> slot online Indoneisa. Buruan 
+   <a href="https://globalpartners.iaps.stonybrook.edu/images/slot138.html">login slot138</a> raih kesempatan jackpot slot online. Game 
+   <a href="https://www.actx.edu/testing/">daftar slot88</a> paling gacor di Indonesia. Bingung cari 
+   <a href="https://scalar.usc.edu/works/jk/slot77.html">situs slot77</a> ? Gabung sekarang di sini dengan cara 
+   <a href="https://rocaplab.ocean.washington.edu/files/slot88.html">login slot88</a> agen judi slot88 terbaik. Ingin menang slot? Main di 
+   <a href="https://rocaplab.ocean.washington.edu/files/joker123.html">situs joker123</a> terpercaya banyak untungnya. Daftar situs 
+   <a href="https://rocaplab.ocean.washington.edu/files/sbobet.html">login sbobet</a> terpercaya dengan taruhan olaragah terbaik. Main slot pakai pulsa? Gabung di 
+   <a href="https://scalar.usc.edu/works/jk/slot-pulsa.html">slot deposit pulsa tanpa potongan</a> paling terpercaya. Klik link berikut &gt; 
+   <a href="http://och.cc.stonybrook.edu/">http://och.cc.stonybrook.edu/</a> untuk dapatkan bonus slot online. Rekomendasi 
+   <a href="https://fundfor.pratt.edu/">daftar situs slot oline</a> terbaik dan terpercaya. Link alternatif 
+   <a href="https://prattshows2019.pratt.edu/">https://prattshows2019.pratt.edu/</a> judi slot online.daftar judi 
+   <a href="https://apply.namal.edu.pk/assets/1c78f543/idn-poker.html">Idn Poker</a> terpercaya di Indonesia.Situs Judi 
+   <a href="https://apply.namal.edu.pk/assets/1c78f543/qqslot.html">Joker123</a> paling gacor.Link alternatif 
+   <a href="https://apply.namal.edu.pk/assets/1c78f543/sbobet.html">Sbobet</a> online paling aman.Game judi 
+   <a href="https://apply.namal.edu.pk/assets/1c78f543/slot-online.html">slot online</a> paling asik tuk dimainkan.Provider slot online 
+   <a href="https://apply.namal.edu.pk/assets/1c78f543/slot88.html">Slot88</a> yang gampang jackpot.Situs Judi online 
+   <a title="sbobet wap" href="http://isaac.lsu.edu/icpc2005/albums/sbobet.html">sbobet wap</a> terpercaya.situs judi 
+   <a title="daftar joker123" href="http://isaac.lsu.edu/icpc2005/albums/joker123.html">daftar joker123</a> terpercaya indonesia.Agen situs judi 
+   <a title="slot88" href="http://isaac.lsu.edu/icpc2005/albums/slot88.html">slot88</a> tergacor di indonesia.Bandar judi situs 
+   <a title="daftar idn poker" href="http://isaac.lsu.edu/icpc2005/albums/idn-poker.html">daftar idn poker</a> terpercaya.situs judi slot online 
+   <a class="waffle-rich-text-link" href="https://dsp.domains.trincoll.edu/fake-news/news-1/panen77.html">https://dsp.domains.trincoll.edu/fake-news/news-1/panen77.html</a> panen77.agen judi 
+   <a title="slot138" href="http://informatics.mercer.edu/~krystleg/slot138/">slot138</a> memberikan jackpot terbesar.Link alternatif panen138 
+   <a href="https://substancejournal.sites.lmu.edu/blogs-1/panen138.html">https://substancejournal.sites.lmu.edu/blogs-1/panen138.html</a> anti nawala.Agen slot online terpercaya 
+   <a href="https://substancejournal.sites.lmu.edu/blogs-1/slot138.html">https://substancejournal.sites.lmu.edu/blogs-1/slot138.html</a> terpercaya indonesia.Agen 
+   <a title="poker online terpercaya" href="https://isobank.tacc.utexas.edu/media/uploads/situs-poker-online-terpercaya.html">poker online terpercaya</a> indonesia idn poker online terpercaya.Agen judi online terpercaya dan terbaik 
+   <a href="http://isaac.lsu.edu/nmon/consolidator/duniacash/">http://isaac.lsu.edu/nmon/consolidator/duniacash/</a> meyediakan permainan terlengkap.Agen pker online terpercaya meyediakan link alternatif 
+   <a class="in-cell-link" href="http://isaac.lsu.edu/nmon/consolidator/panenpoker/">http://isaac.lsu.edu/nmon/consolidator/panenpoker/</a> situs judi 
+   <a href="http://jurnal.umla.ac.id/pages/index.php">slot deposit pulsa</a> terpercaya indonesia dengan permainan terlengkap. 
+   <a href="https://rocaplab.ocean.washington.edu/files/slot-deposit-pulsa.html">judi slot deposit pulsa</a> 
+   <a href="https://isobank.tacc.utexas.edu/media/uploads/slot-gacor-2022.html">https://isobank.tacc.utexas.edu/media/uploads/slot-gacor-2022.html</a> 
+   <a href="http://isaac.lsu.edu/icpc2005/albums/sbobet.html">http://isaac.lsu.edu/icpc2005/albums/sbobet.html</a> 
+   <a href="https://substancejournal.sites.lmu.edu/blogs-1/slot138.html">situs slot138</a> 
+   <a href="https://dis.lib.usf.edu/scalar/slot88-2/slot-deposit-pulsa.html">slot deposit pulsa tanpa potongan</a> 
+   <a href="https://scalar.usc.edu/works/jk/slot77.html">situs slot77 terpercaya</a> berikut berumakan link alternatif slot gacor 
+   <a href="https://kadira.io/">https://kadira.io/</a> situs judi 
+   <a href="http://jurnal.umla.ac.id/pages/index.php">slot deposit pulsa</a> terpercaya indonesia dengan permainan terlengkap di situs 
+   <a href="https://pandoradata.earth/uploads/user/2022-06-04-100446.438548panenpoker.html">panenpoker</a> sebagai situs judi poker online terbaik, 
+   <a href="https://rocaplab.ocean.washington.edu/files/panenpoker.html">paenenpoker</a> juga menyediakan live casino online, selain itu situs 
+   <a href="https://rocaplab.ocean.washington.edu/files/panen138.html">panen138</a> menyediakan game slot online terlengkap di indonesia, 
+   <a href="https://dadosabertos.ufgd.edu.br/uploads/user/2022-06-02-150414.114981duniacash.html">duniacash</a>, agen judi bola terpercaya indonesia, selain situs judi 
+   <a href="https://dsp.domains.trincoll.edu/fake-news/news-1/panen77.html">panen77</a>
+   <p><a href="https://blog.aupravesh2020.com/">slot online terpercaya</a></p>
+   <p><a href="https://blog.minto.id/">slot gacor</a></p>
+   <p><a href="https://supergrouplondon.co.uk/">slot online</a></p>
+   <p><a href="https://icsiiip.com/">rtp slot gacor</a></p>
+   <p><a href="https://syracusethenandnow.org/">slot gacor hari ini</a></p>
+   <p><a href="https://www.areacasabrescia.it/">https://www.areacasabrescia.it/</a>sebagai situs slot online resmi <a href="https://monpetitstudio.com/">https://monpetitstudio.com/</a>, link alternatif <a href="https://northhighlandradio.co.uk/">https://northhighlandradio.co.uk/</a></p>
+  </div> 
+  <!-- Page optimized by LiteSpeed Cache @2022-08-27 03:29:12 --> 
+  <!-- Page supported by LiteSpeed Cache 5.2 on 2022-08-27 03:29:11 -->
+ </body>
+</html>
