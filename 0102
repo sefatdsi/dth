@@ -25,7 +25,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://cdn.bioscopelive.com/upload/channels/landscape/1Y2Slm56uJ8.png",Ekattor Tv
 https://tv.kotha.im/Ekattor_TV_HD/index.m3u8
 
 
@@ -134,8 +134,6 @@ http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-ten.png",Sony Ten
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)"
-tvg-name="Ten Sports"
-tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports (BDIX8)
+#EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Ten Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports (BDIX8)
 http://172.16.50.2:8082/Ten-Sports/index.m3u8
 
