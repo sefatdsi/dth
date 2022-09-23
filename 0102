@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="assets.peacetv.tv/images/section-lang/bangla/ba-logo.png", Peace Tv - Bangla 
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
@@ -27,7 +27,7 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://cdn.bioscopelive.com/upload/channels/landscape/1Y2Slm56uJ8.png",Ekattor Tv
-https://tv.kotha.im/Ekattor_TV_HD/index.m3u8
+http://iptv.mcnbd.com:8080/EkattorTV/index.m3u8?token=3369b345acdea700f3579641c77336330c4891a1-34b8155365f3062564d6fd3ffcfad118-1663941295-1663930495
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
@@ -49,17 +49,19 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
-https://tv.kotha.im/ATN_News_SD/index.m3u8
+http://iptv.mcnbd.com:8080/ATNNews/index.m3u8?token=63ae8d49ebcc4ce288051f0fcd22a141964321f8-fa2f0a2c5833df9ce92ff492547fccb2-1663941453-1663930653
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
-https://niptv.kitv.live/MAASRANGA-TV/index.m3u8 
+https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+https://niptv.kitv.live/MAASRANGA-TV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="(notvg-id)" tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto Tv-1  
-http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg",Gazi tv
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
