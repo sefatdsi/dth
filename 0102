@@ -83,10 +83,10 @@ http://stream.amrbd.com:8082/Star-Jalsha/index.m3u8?
 http://15.1.5.10:8082/jalsha/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU",Zee Bangla HD 
-http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8
 http://103.16.24.54:8080/channel4/index.m3u8
 http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8?      
 http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8?
+http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6W5CteSxlY1BnPyLmKWkZKwSpmBICR8tg&usqp=CAU",Sony Aath 
 http://stream.amrbd.com:8082/Sonyaath/index.m3u8
@@ -116,7 +116,6 @@ http://103.162.136.235:4500/play/a01f/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
-http://stream.amrbd.com:8082/Cartoon-Network/index.m3u8?
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
 https://live.tv247.club/tv247/cn.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
@@ -138,14 +137,13 @@ http://103.162.136.235:4500/play/a01i/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET [Hindi]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
-http://stream.amrbd.com:8082/Animal_Planet/index.m3u8 
 http://15.1.5.14:8082/animalplanent/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Animal_Planet/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Animal_Planet/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD [Bangla] 
-http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
 http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
-
+http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science English
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
@@ -158,9 +156,9 @@ http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO Wild " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO (Bangla)
-http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO Wild " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO Wild
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-ten.png",Sony Ten
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
@@ -179,6 +177,7 @@ http://103.16.24.54:8080/channel7/index.m3u8
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
+http://vdn.jgo.tv:1932/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 http://stream.amrbd.com:8082/Local-Sports/index.m3u8?
 http://stream.amrbd.com:8082/T-Sports/index.m3u8?
