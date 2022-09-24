@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://103.55.144.46/img/quraantv.jpg" group-title="Islamic", Makkah Live (BDIX11)
-http://10.252.253.254/hls/qurqntv.m3u8
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/8zmLbfi.png", Peace Tv - Bangla 
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
@@ -83,13 +78,12 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8?nimblesessionid
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX3)
-http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD 
 http://103.16.24.54:8080/channel5/index.m3u8
 http://stream.amrbd.com:8082/Star-Jalsha/index.m3u8?
 http://15.1.5.10:8082/jalsha/index.m3u8?
 
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX8)
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png",Zee Bangla HD 
 http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8
 http://103.16.24.54:8080/channel4/index.m3u8
 http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8?      
@@ -115,6 +109,7 @@ http://103.179.246.243:8000/play/a01y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Hungama_TV.svg" , Hungama
 http://103.162.136.235:4500/play/a01h/index.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick 
 http://103.179.246.243:8000/play/a01c
@@ -171,7 +166,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-ten.png",Sony Ten
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten1.png"  group-title="Sports",Sony Ten 1 HD (BDIX16)
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten1.png",Sony Ten 1 HD (BDIX16)
 http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Ten1/index.m3u8?
 
@@ -184,7 +179,7 @@ http://15.1.5.14:8082/sony-six-hd/index.m3u8
 http://103.16.24.54:8080/channel7/index.m3u8
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX16)
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 http://stream.amrbd.com:8082/Local-Sports/index.m3u8?
 http://stream.amrbd.com:8082/T-Sports/index.m3u8?
