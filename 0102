@@ -147,12 +147,12 @@ http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science English
-http://list.iptvcat.com/my_list/s///f22543e29ee93844bd49edc8928462a8.m3u8
+list.iptvcat.com/my_list/s///f22543e29ee93844bd49edc8928462a8.m3u8
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://i.imgur.com/Stf5xif.png",History Channel 
-http://list.iptvcat.com/my_list/s/2199533b92cbd221352e329af1259435.m3u8
+list.iptvcat.com/my_list/s///2199533b92cbd221352e329af1259435.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
