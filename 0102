@@ -78,12 +78,12 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8?nimblesessionid
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD 
-http://103.16.24.54:8080/channel5/index.m3u8
+103.16.24.54:8080///channel5/index.m3u8
 http://stream.amrbd.com:8082/Star-Jalsha/index.m3u8?
 http://15.1.5.10:8082/jalsha/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU",Zee Bangla HD 
-http://103.16.24.54:8080/channel4///index.m3u8
+103.16.24.54:8080/channel4///index.m3u8
 http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8?      
 http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8?
 http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8
@@ -150,8 +150,7 @@ http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
 list.iptvcat.com/my_list/s///f22543e29ee93844bd49edc8928462a8.m3u8
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5GwR2mZEu9pZTft6r0leNnsuIY4kv92GAa6NRpuV8m5CBP9ti0huTU8k&s=10",History Channel 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5GwR2mZEu9pZTft6r0leNnsuIY4kv92GAa6NRpuV8m5CBP9ti0huTU8k&s=10",History Channel  
 list.iptvcat.com/my_list/s///2199533b92cbd221352e329af1259435.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
