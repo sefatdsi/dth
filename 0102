@@ -3,12 +3,12 @@
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI//atnislamictv.stream/chunks.m3u8
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+tempskyview.jagobd.com:441//c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 
 
@@ -107,16 +107,16 @@ http://103.179.246.243:8000/play/a01y
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6EaVbnwfa9LMxGcdC8dI-3_qQ3l-Je-l-A&usqp=CAU" , Hungama
-http://103.162.136.235:4500/play/a01h/index.m3u8
+103.162.136.235:4500/play//a01h/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick 
-http://103.179.246.243:8000/play/a01c
+103.179.246.243:8000//play/a01c
 http://103.162.136.235:4500/play/a01f/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
-http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
+iptvmasterlink.dyndns.org:8080/CartoonNetwork/tracks-v1a1//mono.m3u8
 https://live.tv247.club/tv247/cn.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 http://103.179.246.243:8000/play/a01w
@@ -150,7 +150,7 @@ http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
 list.iptvcat.com/my_list/s///f22543e29ee93844bd49edc8928462a8.m3u8
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5GwR2mZEu9pZTft6r0leNnsuIY4kv92GAa6NRpuV8m5CBP9ti0huTU8k&s=10",History Channel  
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThp-XJUkVxt2H9R7Z1EPWQLcwxCASfCwG_gw&usqp=CAU",History Channel  
 list.iptvcat.com/my_list/s///2199533b92cbd221352e329af1259435.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
@@ -158,11 +158,11 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO Wild " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO Wild
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+admdn2.cdn.mangomolo.com/nagtv//smil:nagtv.stream.smil/playlist.m3u8
 http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-ten.png",Sony Ten
-http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+103.102.27.172:6464/Channel-3//tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten1.png",Sony Ten 1 HD (BDIX16)
 http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
