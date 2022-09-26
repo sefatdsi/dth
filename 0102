@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
-https://list.iptvcat.com/my_list/s///c2e596d7edb27a7d7e9bb7a7f3424821.m3u8
+list.iptvcat.com/my_list/s///c2e596d7edb27a7d7e9bb7a7f3424821.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
 tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI//atnislamictv.stream/chunks.m3u8
@@ -106,7 +106,7 @@ http://familyplus.me:8080/live/younes123/123456/216747.ts
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
-http://list.iptvcat.com/my_list/s///c949359c2c84f076c17e77ab849664f7.m3u8
+list.iptvcat.com/my_list/s///c949359c2c84f076c17e77ab849664f7.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://i.imgur.com/cChZ0ai.png",Disney Channel- Hindi 
 http://103.179.246.243:8000/play/a01y
@@ -127,7 +127,7 @@ http://103.162.136.235:4500/play///a01f/index.m3u8
 list.iptvcat.com/my_list/s///eaf1c8ae1affc0a4190a65614b38760f.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
-list.iptvcat.com/my_list/s///32988d63fd9278326b4ec510569d8a3e.m3u8?
+list.iptvcat.com/my_list/s//32988d63fd9278326b4ec510569d8a3e.m3u8?
 https://live.tv247.club/tv247/cn.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 http://103.179.246.243:8000/play/a01w
@@ -198,3 +198,4 @@ http://vdn.jgo.tv:1932/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWx
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 http://stream.amrbd.com:8082/Local-Sports/index.m3u8?
 http://stream.amrbd.com:8082/T-Sports/index.m3u8?
+
