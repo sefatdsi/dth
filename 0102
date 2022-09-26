@@ -89,11 +89,13 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8?nimblesessionid
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD 
 http://103.16.24.54:8080///channel5/index.m3u8
+
 http://stream.amrbd.com:8082/Star-Jalsha/index.m3u8?
 http://15.1.5.10:8082/jalsha/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU",Zee Bangla HD 
 http://103.16.24.54:8080/channel4///index.m3u8
+
 http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8?      
 http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8?
 http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8
@@ -108,7 +110,6 @@ http://familyplus.me:8080/live/younes123/123456/216747.ts
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
-list.iptvcat.com/my_list/s///c949359c2c84f076c17e77ab849664f7.m3u8
 https://list.iptvcat.com/my_list/s/c949359c2c84f076c17e77ab849664f7.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://i.imgur.com/cChZ0ai.png",Disney Channel- Hindi 
