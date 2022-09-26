@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4vRrtBi5E2XAatjTU2Xl_s8Bu-bg_yJnjyQ&usqp=CAU", Peace Tv - Bangla 
-http://list.iptvcat.com/my_list/s//c2e596d7edb27a7d7e9bb7a7f3424821.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4vRrtBi5E2XAatjTU2Xl_s8Bu-bg_yJnjyQ&usqp=CAU", Peace Tv - Bangla
+list.iptvcat.com/my_list/s///c2e596d7edb27a7d7e9bb7a7f3424821.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
 tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI//atnislamictv.stream/chunks.m3u8
@@ -65,7 +65,6 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akd CN News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFggoX7QmRC7nMuP79QrbCxuiRA0aJpYtOQ&usqp=CAU",Akd CN News
 https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
@@ -108,7 +107,7 @@ http://familyplus.me:8080/live/younes123/123456/216747.ts
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
-http://list.iptvcat.com/my_list/s//c949359c2c84f076c17e77ab849664f7.m3u8
+list.iptvcat.com/my_list/s///c949359c2c84f076c17e77ab849664f7.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://i.imgur.com/cChZ0ai.png",Disney Channel- Hindi 
 http://103.179.246.243:8000/play/a01y
@@ -120,13 +119,13 @@ http://103.179.246.243:8000/play/a01y
 http://103.162.136.235:4500/play//a01h/index.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick 
-103.179.246.243:8000/play/a01c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
+http://103.179.246.243:8000/play/a01c 
 http://103.162.136.235:4500/play///a01f/index.m3u8
 list.iptvcat.com/my_list/s///eaf1c8ae1affc0a4190a65614b38760f.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
-http://list.iptvcat.com/my_list/s///32988d63fd9278326b4ec510569d8a3e.m3u8
+list.iptvcat.com/my_list/s///32988d63fd9278326b4ec510569d8a3e.m3u8 
 https://live.tv247.club/tv247/cn.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 http://103.179.246.243:8000/play/a01w
@@ -134,7 +133,7 @@ http://103.179.246.243:8000/play/a01w
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay (Bangla)   
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
 http://103.162.136.235:4500/play/a01i/index.m3u8
 
 
@@ -159,14 +158,14 @@ http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Tarbu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
-http://list.iptvcat.com/my_list/s//166cb858e54b2ade05d8953737af76d4.m3u8
+list.iptvcat.com/my_list/s//166cb858e54b2ade05d8953737af76d4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science English
 list.iptvcat.com/my_list/s///f22543e29ee93844bd49edc8928462a8.m3u8
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThp-XJUkVxt2H9R7Z1EPWQLcwxCASfCwG_gw&usqp=CAU",History Channel  
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThp-XJUkVxt2H9R7Z1EPWQLcwxCASfCwG_gw&usqp=CAU",History Channel
 list.iptvcat.com/my_list/s///64646d009b46eebc420f307b7731bff4.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
