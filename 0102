@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
-list.iptvcat.com/my_list/s///c2e596d7edb27a7d7e9bb7a7f3424821.m3u8
+http://list.iptvcat.com/my_list/s///c2e596d7edb27a7d7e9bb7a7f3424821.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
 tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI//atnislamictv.stream/chunks.m3u8
@@ -198,4 +198,3 @@ http://vdn.jgo.tv:1932/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWx
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 http://stream.amrbd.com:8082/Local-Sports/index.m3u8?
 http://stream.amrbd.com:8082/T-Sports/index.m3u8?
-
