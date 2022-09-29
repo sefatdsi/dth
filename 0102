@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
@@ -7,7 +6,8 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
-http://list.iptvcat.com/my_list/s/c2e596d7edb27a7d7e9bb7a7f3424821.m3u8
+https://list.iptvcat.com/my_list/s/c416d9d3438fd1673427412633784701.m3u8
+https://list.iptvcat.com/my_list/s///c2e596d7edb27a7d7e9bb7a7f3424821.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
 tempskyview.jagobd.com:441//c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
@@ -24,7 +24,7 @@ https://cdn.appv.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="http://tv.bdtype.com/uploads/tv_image/asian-tv.jpg",asian-tv
-
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
@@ -112,6 +112,7 @@ http://familyplus.me:8080/live/younes123/123456/216747.ts
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
+https://list.iptvcat.com/my_list/s///4e37aa8a7db6f0b859cc53a58c5c3697.m3u8
 list.iptvcat.com/my_list/s/c949359c2c84f076c17e77ab849664f7.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://i.imgur.com/cChZ0ai.png",Disney Channel- Hindi 
@@ -163,6 +164,7 @@ http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Tarbu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
+https://list.iptvcat.com/my_list/s///008859f950e1d9ab68cdcdc4f12f3c7c.m3u8
 https://list.iptvcat.com/my_list/s//166cb858e54b2ade05d8953737af76d4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science English
