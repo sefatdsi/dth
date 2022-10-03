@@ -1,13 +1,11 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
 tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI//atnislamictv.stream/chunks.m3u8
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
-https://list.iptvcat.com/my_list/s/c416d9d3438fd1673427412633784701.m3u8
-https://list.iptvcat.com/my_list/s///c2e596d7edb27a7d7e9bb7a7f3424821.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
 tempskyview.jagobd.com:441//c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
@@ -38,6 +36,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8?
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=1223304571
+http://templv3.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",channel 24
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
@@ -46,16 +45,13 @@ https://channel24.jaagobd.com:444/channel24/channel24-sg-e8e.stream/live-orgin/c
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8?
-http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
-http://172.16.50.2:8082/Atn-News/tracks-v1a1/mono.m3u8
-http://stream.amrbd.com:8082/Atn-News/index.m3u8
-http://stream.amrbd.com:8082/Atn-News/index.m3u8?
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee ২৪ ঘন্টা" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee ২৪ ঘন্টা
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
 
@@ -81,10 +77,6 @@ http://15.1.5.14:8082/depto-bangla/index.m3u8
 http://15.1.5.10:8082/depto-bangla/index.m3u8?
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg",Gazi tv
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-http://172.16.128.2:8081/live/sky1010/playlist.m3u8
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8?nimblesessionid=19068810
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
 
@@ -103,20 +95,17 @@ http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8?
 http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6W5CteSxlY1BnPyLmKWkZKwSpmBICR8tg&usqp=CAU",Sony Aath 
-http://stream.amrbd.com:8082/Sonyaath/index.m3u8
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+http://familyplus.me:8080/live/younes123/123456/216747.ts
 http://15.1.5.14:8082/Sonyaath/index.m3u8
-http://familyplus.me:8080/live/younes123/123456/216747.ts                  
+                
 
                   Kids
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
-https://list.iptvcat.com/my_list/s///4e37aa8a7db6f0b859cc53a58c5c3697.m3u8
-list.iptvcat.com/my_list/s/c949359c2c84f076c17e77ab849664f7.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://i.imgur.com/cChZ0ai.png",Disney Channel- Hindi 
-http://103.179.246.243:8000/play/a01y
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
 
@@ -125,13 +114,11 @@ http://103.179.246.243:8000/play/a01y
 https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin//master/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6EaVbnwfa9LMxGcdC8dI-3_qQ3l-Je-l-A&usqp=CAU" , Hungama
-http://103.162.136.235:4500/play//a01h/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
-http://103.179.246.243:8000/play/a01c 
-http://103.162.136.235:4500/play///a01f/index.m3u8
-list.iptvcat.com/my_list/s///eaf1c8ae1affc0a4190a65614b38760f.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
@@ -141,10 +128,10 @@ http://103.179.246.243:8000/play/a01w
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
-http://103.162.136.235:4500/play/a01i/index.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
-http://list.iptvcat.com/my_list/s///a99b4c44e44c660e227afcb480b874a5.m3u8
+
 
                                                       Infotainment
 
@@ -157,19 +144,12 @@ http://stream.amrbd.com:8082/Animal_Planet/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
-list.iptvcat.com/my_list/s///51c48b4e41b3b540548c0d57e04f9556.m3u8
-list.iptvcat.com/my_list/s///8f50f0e848dd7bb87b3b1c424c88dd4f.m3u8
-list.iptvcat.com/my_list/s///8eefe35c6330d96a40297de79d86d705.m3u8
-http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
-http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Tarbu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
-https://list.iptvcat.com/my_list/s///008859f950e1d9ab68cdcdc4f12f3c7c.m3u8
-https://list.iptvcat.com/my_list/s//166cb858e54b2ade05d8953737af76d4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science English
-list.iptvcat.com/my_list/s///f22543e29ee93844bd49edc8928462a8.m3u8
-http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThp-XJUkVxt2H9R7Z1EPWQLcwxCASfCwG_gw&usqp=CAU",History Channel http://list.iptvcat.com/my_list/s///64646d009b46eebc420f307b7731bff4.m3u8
 
@@ -182,17 +162,16 @@ admdn2.cdn.mangomolo.com/nagtv//smil:nagtv.stream.smil/playlist.m3u8
 http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-ten.png",Sony Ten
-http://103.102.27.172:6464/Channel-3//tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten1.png",Sony Ten 1 HD (BDIX16)
 http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Ten1/index.m3u8?
 
 #EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Ten Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports (BDIX8)
-http://172.16.50.2:8082/Ten-Sports/index.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-six.png",Sony Six
-http://stream.amrbd.com:8082/SonySix/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/sony-six-hd/index.m3u8
 http://103.16.24.54:8080/channel7/index.m3u8
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
