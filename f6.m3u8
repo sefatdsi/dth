@@ -16,23 +16,23 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/playlist.m3u8
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8?
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
+#EXTINF:-5 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 https://cdn.appv.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="http://tv.bdtype.com/uploads/tv_image/asian-tv.jpg",asian-tv
+#EXTINF:-6 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="http://tv.bdtype.com/uploads/tv_image/asian-tv.jpg",asian-tv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 http://15.1.5.14:8082/AsianTV/tracks-v1a1/mono.m3u8
 http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
+#EXTINF:-7 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
 http://15.1.5.14:8082/Ekattor-tv/index.m3u8
 http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8?
 http://103.121.14.18/hls/nexus.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
+#EXTINF:-8 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8?
@@ -41,13 +41,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://templv3.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",channel 24
+#EXTINF:-9 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",channel 24
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 https://channel24.jaagobd.com:444/channel24/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8?
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
+#EXTINF:-10 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
 http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/613.stream/index.m3u8
 
@@ -75,6 +75,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all//playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
+https://tvs1.aynaott.com/btvhd/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
@@ -160,12 +161,19 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
+#EXTINF:-18 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10",Jamuna Tv
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-dCnJ86VWXRuri7yny0ostFKdiSXZiNktw&usqp=CAU", Channel 9  
+https://tvs1.aynaott.com/channel9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFuxaA4QizoZAHTzEMhXTQKFA664U0C5i-g&usqp=CAU", DESH TV  
+https://tvs1.aynaott.com/deshtv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEHmComXF6RXv68uDKYkYvNtHrE42F1F5EE6D4QfoxBqkyyxyuPq7&s=10",jonakk TV
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
@@ -307,7 +315,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml//index.m3u8
 https://idvd.multitvsolution.com/idvo/kappatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR041t2Nk0g0f-qO8SY71VcLRJ5Fbjx7DZPCw&usqp=CAU",Sun Music
-http://103.147.87.13:8000/play/a080/index.m3u8
+
 
 
         Kids
@@ -332,9 +340,11 @@ http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1//mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
-http://103.162.136.235:4500/play/a01f//index.m3u8
-http://103.121.14.18/hls/nick.m3u8
 http://103.99.249.107:81/play/a03g
+http://103.121.14.18/hls/nick.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20cf1ca4-4ac5-4d2d-8d6b-e48d29b50354/dfa5mtm-2910c669-a413-446b-958b-9193a7f4aeec.png/v1/fill/w_563,h_350,strp/nick_on_pluto_tv_logo_by_marklu2002_dfa5mtm-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA0NCIsInBhdGgiOiJcL2ZcLzIwY2YxY2E0LTRhYzUtNGQyZC04ZDZiLWU0OGQyOWI1MDM1NFwvZGZhNW10bS0yOTEwYzY2OS1hNDEzLTQ0NmItOTU4Yi05MTkzYTdmNGFlZWMucG5nIiwid2lkdGgiOiI8PTE2NzgifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.e7aYc6uRovy9D-y0pEO2GwBamHohe0z1WxAlRiyamNU", Nick Pluto tv  
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f//index_4.m3u8
@@ -384,11 +394,11 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
-admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
 http://bdiptv.net:8282/ngohd/tracks-v1a1/mono.m3u8
 http://103.166.102.58:8000/play/a00i
-
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-ten.png",Sony Ten
 
