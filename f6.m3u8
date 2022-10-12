@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
-ipm.oncast.me:1932/iplived/app-atnislamictv.stream/playlist.m3u8
+http://ipm.oncast.me:1932/iplived/app-atnislamictv.stream/playlist.m3u8
 
 #EXTINF:-2 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
 http://82.114.67.178:8081/hls//PeaceTV.m3u8
@@ -150,6 +150,7 @@ https://m3u-editor.com/serve/bd6a00d0-5ef7-11ec-8ab3-a1b25143252d/451941033
 
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x15351",ATN Bangla
+http://ipm.oncast.me:1932/iplived/app-atnbangla.stream/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -291,6 +292,7 @@ https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGgIs7Ca3vltgEaPaCeIphRP9DRjsCnpf1PGFfwG5KozA09AlVCnmAKkX&s=10",ATN Music
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
+http://ipm.oncast.me:1932/iplived/app-atnmusic.stream/chunks.m3u8?nimblesessionid=18916778
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-rOQXzAJlUrLQYlX_NK5Dn216_1n8VdawzvVJ775&s",kadak-hits
@@ -409,7 +411,7 @@ http://103.166.102.58:8000/play/a00e
 http://103.166.102.58:8000/play/a01a
 
 #EXTINF:-1 tvg-id="(no tvg-id)"tvg-name="Ten Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports 
-
+http://95.154.217.106:8030/Crlug4/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-six.png",Sony Six
 http://15.1.5.14:8082/sony-six-hd/index.m3u8
