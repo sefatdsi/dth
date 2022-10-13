@@ -3,4 +3,5 @@ import m3u8
 playlist m3u8.load('http://82.114.67.178:8081/hls//PeaceTV.m3u8')
 print(playlist.segments)
 print (playlist.target_duration)
-playlist = m3u8.loads('#EXTINF:-2 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv')
+playlist = m3u8.loads('#EXTINF:-2 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv
+http://82.114.67.178:8081/hls//PeaceTV.m3u8')
