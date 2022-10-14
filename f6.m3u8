@@ -183,18 +183,18 @@ http://103.121.14.18/hls/colorsbangla.m3u8
 http://103.147.87.13:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD
+http://15.1.5.10:8082/jalsha/index.m3u8?
 http://103.16.24.54:8080/channel5/index.m3u8
 http://stream.amrbd.com:8082/Star-Jalsha/index.m3u8?
-http://15.1.5.10:8082/jalsha/index.m3u8?
 http://103.121.14.18/hls/starjalsha.m3u8
 http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
 http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
 http://103.99.249.107:81/play/a00l
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU",Zee Bangla HD
+http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8?
 http://103.16.24.54:8080/channel4/index.m3u8
 http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8?      
-http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8?
 http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8
 http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8
 http://103.121.14.18/hls/zeebanglahd.m3u8
@@ -259,7 +259,7 @@ http://103.99.249.107:81/play//a016
 http://103.166.102.58:8000/play/a012
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjJW-9CQNAt0PJpouO8YzJcINbdYd6Ln5TAlKVdE_7kYgkVF5hOaQeE4&s=10",Sony MAX
-http://103.147.87.13:8000/play/a06q/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwngiuZkaRtKSnuHkkHn6NfaudzymFBbeVc7G9TjzhiWy6nZo7aii-uE&s=10",Zee Bangla Cinama
 http://208.86.19.13:81/708.stream/index.m3u8
@@ -449,4 +449,5 @@ http://103.166.102.58:8000/play/a026
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://103.99.249.107:81/play/a02l
+
 
