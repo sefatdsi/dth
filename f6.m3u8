@@ -207,7 +207,7 @@ http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8
 http://103.121.14.18/hls/zeebanglahd.m3u8
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="BDIPTV",Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
 http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
 
 
@@ -289,7 +289,7 @@ http://103.166.102.58:8000/play/a00z
 https://tv.googledrivelinks.com/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
 https://tv.googledrivelinks.com/live.php?c=Zee_Cinema&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="BD2",Khushboo Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 
