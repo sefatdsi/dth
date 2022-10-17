@@ -78,8 +78,6 @@ https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all//playlist.
 https://tv.googledrivelinks.com/live.php?c=Calcutta_News&q=1200&e=junk.m3u8
 
 #EXTINF:-17 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
-https://tvs1.aynaott.com/btvhd/index.m3u8
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-18 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
@@ -157,10 +155,10 @@ https://m3u-editor.com/serve/bd6a00d0-5ef7-11ec-8ab3-a1b25143252d/451941033
 
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x15351",ATN Bangla
-http://ipm.oncast.me:1932/iplived/app-atnbangla.stream/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+http://ipm.oncast.me:1932/iplived/app-atnbangla.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMygyEkgkFFHABemi77_qncDi0FqXcmsEndg&usqp=CAU",Boishakhi TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
@@ -168,8 +166,8 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-18 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
-http://89.187.185.89:3232/ban-duronto/index.m3u8
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0MFeVReUu9G38M_HyX5rxnK_FEmHEaWgDQ&usqp=CAU", Amar Bangla 
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
@@ -179,10 +177,10 @@ http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-dCnJ86VWXRuri7yny0ostFKdiSXZiNktw&usqp=CAU", Channel 9  
-https://tvs1.aynaott.com/channel9/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFuxaA4QizoZAHTzEMhXTQKFA664U0C5i-g&usqp=CAU", DESH TV  
-https://tvs1.aynaott.com/deshtv/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEHmComXF6RXv68uDKYkYvNtHrE42F1F5EE6D4QfoxBqkyyxyuPq7&s=10",jonakk TV
@@ -217,7 +215,7 @@ https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=1200&e=junk.m3u8
 http://15.1.5.14:8082/zee-bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
-http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6W5CteSxlY1BnPyLmKWkZKwSpmBICR8tg&usqp=CAU",Sony Aath 
@@ -241,8 +239,8 @@ http://stream.amrbd.com:8082/colorsindia/index.m3u8
 http://15.1.5.10:8082/colorsindia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFH7PR4otwE3F70UnM9xVLTIhBdaaQZo7s7g4jpPPsfNyXFgUQY6RICoRv&s=10",Sony pix 
-http://iptvtree.net:8080/live/Jonsno/jv5DR53f7EG3Ajvx65/49539.ts
 https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+http://iptvtree.net:8080/live/Jonsno/jv5DR53f7EG3Ajvx65/49539.ts
 http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/49539#09865
 http://103.16.24.54:8080/channel2/index.m3u8
 http://103.166.102.58:8000/play/a016
@@ -403,7 +401,7 @@ https://catchup.yuppcdn.net/amazonv2/37/preview/zoom/master//chunklist.m3u8
 http://stream.amrbd.com:8082/Mtv/index.m3u8
 
 #EXTINF:0 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC0WG26YJlNP030KVn_ZdrmrgHrMISV-DcXw&usqp=CAU”,B4U Music
-http://15.1.5.10:8082/b4u/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png",9xM 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml//index.m3u8
@@ -413,7 +411,7 @@ https://tv.googledrivelinks.com/live.php?c=9XM&q=1200&e=junk.m3u8
 https://idvd.multitvsolution.com/idvo/kappatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR041t2Nk0g0f-qO8SY71VcLRJ5Fbjx7DZPCw&usqp=CAU",Sun Music
-http://103.147.87.13:8000/play/a080/index.m3u8
+
 
 
 
@@ -421,7 +419,7 @@ http://103.147.87.13:8000/play/a080/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
-http://103.99.249.107:81/play/a02c
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel- Hindi 
 http://103.166.102.58:8000/play/a01y
@@ -440,9 +438,7 @@ http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1//mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
-https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Nick_Telugu&q=800&e=.m3u8
-http://103.121.14.18/hls/nick.m3u8
-https://tv.googledrivelinks.com/live.php?c=Nick_Kannada&q=1200&e=junk.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
 http://15.1.5.14:8082/nick-jr/index.m3u8
