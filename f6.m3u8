@@ -132,6 +132,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 http://208.86.19.13:81/651.stream/index.m3u8
 
 #EXTINF:-27 tvg-logo="http://dugdugilive.com/img/channels/mohonatv.png",MOHONA TV 
+http://bdiptv.net:8282/MohonaTV/tracks-v1a1/mono.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-28 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png",NTV 
@@ -190,13 +191,14 @@ http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8?autonomics.js
 
 #EXTINF:-39 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUxFrgBnfxjWw_9miC7agwtwkFwvg1jW2pw&usqp=CAU",Colors Bangla
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master//chunklist.m3u8
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/247530
 http://208.86.19.13:81/904.stream/index.m3u8
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master//chunklist.m3u8
 http://208.86.19.13:81/904.stream/index.m3u8
 http://103.121.14.18/hls/colorsbangla.m3u8
 http://103.147.87.13:8000/play/a06x/index.m3u8
 https://tv.googledrivelinks.com/live.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
+http://watchindia.net:8880/live/vvv/vvv/2284.ts
 
 #EXTINF:-40 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD
 http://15.1.5.10:8082/jalsha/index.m3u8?
@@ -298,11 +300,12 @@ http://208.86.19.13:81/907.stream/index.m3u8
 http://208.86.19.13:81/907.stream/index.m3u8
 
 #EXTINF:-55 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamnHC44YehgELnfsZhXLgDVIPNxC9Y6dI0w&usqp=CAU",& pictures
-https://z5ak-live.zee5.com/out/v1/71a0b0bf0807495c82f6d462e1e1a39c/index.m3u8?hdnts=st=1666276824~exp=1666279824~acl=/out/v1/71a0b0bf0807495c82f6d462e1e1a39c/index.m3u8*~hmac=e106c6bf280f778c8770b49059a2202ac543bc396bd32dc1b2724467d0b6f64e
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-tvpictureshd
 https://tv.googledrivelinks.com/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
 http://103.16.24.54:8080/channel6/index.m3u8
 http://103.166.102.58:8000/play/a017
 http://103.162.136.235:4500/play/a00n/index.m3u8
+
 
 #EXTINF:-56 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpGKOrjC_G_u-aPXXJABUm6UlHZaFAYKsDA&usqp=CAU", Jalsha Movies HD
 http://15.1.5.14:8082/jalsha-movies/index.m3u8
@@ -592,7 +595,5 @@ http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
-
-
 
 
