@@ -353,7 +353,8 @@ http://103.162.136.235:4500/play/a00c/index.m3u8
 https://z5ak-live.zee5.com/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8?hdnts=st=1666276562~exp=1666279562~acl=/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8*~hmac=00e4f5b78366c52a7edaee9dff97be7cc96c7909654798763b9789bd7f1db5b1
 
 #EXTINF:-64 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwvDehoN47Dz9RR3t71NgbmOAheN-zxQERQ&usqp=CAU",HBO
-
+http://175.107.244.52:4457/play/a07o/index.m3u8
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #EXTINF:-65 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAIdMysBtAZf5rsvsHQyId8QiLn1Vn6mr_w&usqp=CAU", HBO Comedy  
@@ -453,6 +454,7 @@ https://rcsfacility.com/jiotv/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
 #EXTINF:-87 tvg-id="(no tvg-id)" tvg-name="Wow Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4PLdt_i-luncy01BbM1UnsUPVskXPKaD1WKIWi4Z7OxnayPc7RE4QMV&s=10",Wow Kids
 https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin//master/chunklist.m3u8
 
+
 #EXTINF:-88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6EaVbnwfa9LMxGcdC8dI-3_qQ3l-Je-l-A&usqp=CAU" , Hungama
 http://103.166.102.58:8000/play/a01x
 http://103.162.136.235:4500/play/a01h///index.m3u8
@@ -470,6 +472,8 @@ http://15.1.5.14:8082/nick-jr/index.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
 #EXTINF:-92 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
+http://iptv.prosto.tv:7000/ch207/video.m3u8
+http://31.172.87.52:2200/R-EX/KIDS_Cartoon_Network-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 https://tv.googledrivelinks.com/live.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
 http://50.7.237.4:8080/CARTOONNETWORK/index.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f//index_4.m3u8
@@ -483,7 +487,7 @@ http://50.7.237.4:8080/SONYYAY/index.m3u8
 https://tv.googledrivelinks.com/live.php?c=Sony_Yay_Tamil&q=1200&e=junk.m3u8
 https://jio.dooflix.in/live.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
 https://rcsfacility.com/jiotv/live.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
-
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6627/index.m3u8
 
 #EXTINF:-94 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
 https://tv.googledrivelinks.com/live.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
@@ -580,6 +584,11 @@ http://iptv.hplink.com.bd:8080/hls/sports.m3u8
 http://103.16.24.54:8080/channel1/index.m3u8
 http://103.166.102.58:8000/play/a00c
 http://103.166.102.58:8000/play/a026
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png", ESPN   
+http://watchindia.net:8880/live/vvv/vvv/2161.m3u8
+http://198.16.64.10:8278/btespn/playlist.m3u8?tid=MA7A3153817131538171&ct=19225&tsum=9452e06c1cdd6935e85cb94a95212a9a
+http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
