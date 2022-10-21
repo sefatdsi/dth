@@ -406,6 +406,7 @@ http://ipm.oncast.me:1932/iplived/app-atnmusic.stream/l_914530_444577_74.ts?nimb
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Gaan Bangla
+http://bdiptv.net:8282/GaanBangla/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/612.stream//index.m3u8
 http://103.121.14.18/hls/gb.m3u8
@@ -425,9 +426,11 @@ https://catchup.yuppcdn.net/amazonv2/37/preview/zoom/master//chunklist.m3u8
 https://rcsfacility.com/jiotv/live.php?c=MTV&q=1200&e=junk.m3u8
 
 #EXTINF:80 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC0WG26YJlNP030KVn_ZdrmrgHrMISV-DcXw&usqp=CAU”,B4U Music
+http://bdiptv.net:8282/b4u/tracks-v1a1/mono.m3u8
 https://rcsfacility.com/jiotv/live.php?c=B4U_Music&q=1200&e=junk.m3u8
 
 #EXTINF:-81 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png",9xM 
+http://bdiptv.net:8282/9XM/tracks-v1a1/mono.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml//index.m3u8
 https://tv.googledrivelinks.com/live.php?c=9XM&q=1200&e=junk.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
@@ -450,9 +453,10 @@ https://rcsfacility.com/jiotv/live.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
 
 
 #EXTINF:-86 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
+https://rcsfacility.com/jiotv/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
 https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
 http://103.166.102.58:8000/play/a021
-https://rcsfacility.com/jiotv/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
+
 
 #EXTINF:-87 tvg-id="(no tvg-id)" tvg-name="Wow Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4PLdt_i-luncy01BbM1UnsUPVskXPKaD1WKIWi4Z7OxnayPc7RE4QMV&s=10",Wow Kids
 https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin//master/chunklist.m3u8
@@ -506,14 +510,16 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?cc
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-97 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET [Hindi]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
+https://rcsfacility.com/jiotv/live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
 https://tv.googledrivelinks.com/live.php?c=Animal_Planet_English&q=1200&e=junk.m3u8
 https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/45.m3u8
 http://stream.amrbd.com:8082/Animal_Planet/index.m3u8
 http://15.1.5.10:8082/animalplanent/index.m3u8
-https://rcsfacility.com/jiotv/live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
+
 
 #EXTINF:-98 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131646
 https://rcsfacility.com/jiotv/live.php?c=Discovery_Channel_Hindi&q=1200&e=junk.m3u8
 http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
 http://103.166.102.58:8000/play/a00y
@@ -595,5 +601,6 @@ http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
+
 
 
