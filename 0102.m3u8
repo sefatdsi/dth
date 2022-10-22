@@ -8,8 +8,10 @@ http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv  
-http://humiptv.live:8080 a href="/live/\500757885/3356646354"
- href="/98843.ts"
+http://humiptv.live:8080 a href="/live\500757885/3356646354"
+ href="/98843.ts"php
+http://15.1.5.14:8082 a href="/Discovery-Science/tracks-v1a1"
+ href="/mono.m3u8"php
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8\/index.m3u8
