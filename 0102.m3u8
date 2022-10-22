@@ -5,11 +5,11 @@ T+T+T+T
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
 http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
-https://abplivetv.akamaized.net
+https://abplivetv.akamaized.net/hls
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv  
-https://abplivetv.akamaized.net a href="/hls/live/2043012/ananda//master.m3u8"
- href="/hls/live/2043012/ananda//master.m3u8"
+https://abplivetv.akamaized.net/hls a href="/live/2043012/ananda/master.m3u8"
+ href="/live/2043012/ananda/master.m3u8"
 
 
 
