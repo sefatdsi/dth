@@ -1,14 +1,14 @@
 T+T+T+T
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
-https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/\/master/chunklist.m3u8
+https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/\master/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
-https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master\/chunklist.m3u8
+https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin\master/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
-https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8\/chunklist.m3u8
+https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8?master\chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
