@@ -8,8 +8,8 @@ http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
 http://humiptv.live:8080
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv  
-http://humiptv.live:8080 a href="/live/500757885/3356646354"
- href="/98843.ts"
+http://humiptv.live:8080 a href="/live/500757885/3356646354/98843.ts"
+ href="/live/500757885/3356646354/98843.ts"
 
 
 
