@@ -2,13 +2,12 @@ T+T+T+T
 #EXTM3U
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
-http://175.107.244.52:4457
-<a href="/play/a07o/index.m3u8">
+http://xtream.efiberbd.net:8080
+<a href="/live/mkaua/stream/42.m3u8">
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
-http://bamus-eng-roku.amagi.tv/\/playlist1080p.m3u8
-
+http://xtream.efiberbd.net:8080 <a href="/live/mkaua/stream/42.m3u8">
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8\/index.m3u8
