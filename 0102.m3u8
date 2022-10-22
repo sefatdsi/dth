@@ -2,7 +2,7 @@ T+T+T+T
 #EXTM3U
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic
-http://bamus-eng-roku.amagi.tv/\playlist1080p.m3u8
+http://meumd.com:80/\Denise01/\denise001/\109544
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
 http://bamus-eng-roku.amagi.tv/\/playlist1080p.m3u8
