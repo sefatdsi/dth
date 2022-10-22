@@ -87,8 +87,6 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda//master.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/abpananda_nim_https/050522/abpananda/playlist.m3u8
 
 #EXTINF:-16 tvg-id="(no tvg-id)" tvg-name="Akd CN News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFggoX7QmRC7nMuP79QrbCxuiRA0aJpYtOQ&usqp=CAU",Akd CN News
-https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all//playlist.m3u8
-https://tv.googledrivelinks.com/live.php?c=Calcutta_News&q=1200&e=junk.m3u8
 
 #EXTINF:-17 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
@@ -219,8 +217,9 @@ https://tempx.jagobd.com:441/live-orgin/deshebideshe.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ALPONA TV" tvg-logo="https://imgur.com/eBKwjJ6.png",ALPONA TV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/52.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/52.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JTub.png",DOYEL TV
 https://tempx.jagobd.com:441/live-orgin/doyeltv.stream/chunks.m3u8
@@ -292,7 +291,7 @@ http://stream.amrbd.com:8082/colorsindia/index.m3u8
 http://15.1.5.10:8082/colorsindia/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HUM HD" tvg-logo="https://imgur.com/EXGKPmc.png",HUM HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
+
 
 #EXTINF:-48 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFH7PR4otwE3F70UnM9xVLTIhBdaaQZo7s7g4jpPPsfNyXFgUQY6RICoRv&s=10",Sony pix 
 http://bdiptv.net:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
@@ -420,7 +419,7 @@ http://175.107.244.52:4457/play/a07o/index.m3u8
 
 
 #EXTINF:-65 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAIdMysBtAZf5rsvsHQyId8QiLn1Vn6mr_w&usqp=CAU", HBO Comedy  
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2335
+
 
 #EXTINF:-66 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yJ6An0GrmyKPiaFMcNNHo2yL06RdgzUQ0g&usqp=CAU", HBO+  
 http://meumd.com:80/Denise01/denise001/109544
@@ -438,11 +437,9 @@ http://humiptv.live:8080//live/500757885/3356646354/98843.ts
 
 
 #EXTINF:-69 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLKUQ7ecuFJQU_l6fpL4K7yAQjC6XGh29-UQ&usqp=CAU", The Movie HUB  
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+
 
 #EXTINF:-70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgU0NXo0pr-Gl46Iz8dmFJ8AQ9RROXhLvvnA&usqp=CAU",Tamil-vision tv
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 
 #EXTINF:-71 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIile6h7_E952CLWwA4jonDyqW_J9R-tcgEO0IDrisXyVoiwNc8UbIjk&s=10",Zee Bioskop 
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
@@ -464,7 +461,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://ipm.oncast.me:1932/iplived/app-atnmusic.stream/l_914530_444577_74.ts?nimblesessionid=19003488
 
 #EXTINF:-75 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-rOQXzAJlUrLQYlX_NK5Dn216_1n8VdawzvVJ775&s",kadak-hits
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+
 
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Gaan Bangla
 http://bdiptv.net:8282/GaanBangla/tracks-v1a1/mono.m3u8
@@ -491,8 +488,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/43.m3u8
 https://rcsfacility.com/jiotv/live.php?c=Zoom&q=1200&e=junk.m3u8
 https://catchup.yuppcdn.net/amazonv2/37/preview/zoom/master//chunklist.m3u8
 
-#EXTINF:79 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_ZxnAp236s88P6V19pPipv2UDvg4m5xpQA&usqp=CAU”,MTV
-https://rcsfacility.com/jiotv/live.php?c=MTV&q=1200&e=junk.m3u8
+#EXTINF:79 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_ZxnAp236s88P6V19pPipv2UDvg4m5xpQA&usqp=CAU”,MTV Music
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://imgur.com/wg3N1VT.png",MUSIC INDIA
 http://xtream.efiberbd.net:8080/live/mkaua/stream/44.m3u8
@@ -525,7 +522,7 @@ http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6694/index.m3u8
 #EXTINF:-84 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
 https://rcsfacility.com/jiotv/live.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
 
-#EXTINF:-85 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel- Hindi 
+#EXTINF:-85 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel 
 
 
 #EXTINF:-86 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
@@ -539,9 +536,6 @@ https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin//master/chunklist.m3u
 
 
 #EXTINF:-88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6EaVbnwfa9LMxGcdC8dI-3_qQ3l-Je-l-A&usqp=CAU" , Hungama
-http://103.166.102.58:8000/play/a01x
-http://103.162.136.235:4500/play/a01h///index.m3u8
-http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1//mono.m3u8?token=test
 
 
 #EXTINF:-89 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
@@ -551,10 +545,9 @@ https://rcsfacility.com/jiotv/live.php?c=Nick_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-90 tvg-id="(no tvg-id)" tvg-name="Nick jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
 http://15.1.5.14:8082/nick-jr/index.m3u8
 
-#EXTINF:-91 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20cf1ca4-4ac5-4d2d-8d6b-e48d29b50354/dfa5mtm-2910c669-a413-446b-958b-9193a7f4aeec.png/v1/fill/w_563,h_350,strp/nick_on_pluto_tv_logo_by_marklu2002_dfa5mtm-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA0NCIsInBhdGgiOiJcL2ZcLzIwY2YxY2E0LTRhYzUtNGQyZC04ZDZiLWU0OGQyOWI1MDM1NFwvZGZhNW10bS0yOTEwYzY2OS1hNDEzLTQ0NmItOTU4Yi05MTkzYTdmNGFlZWMucG5nIiwid2lkdGgiOiI8PTE2NzgifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.e7aYc6uRovy9D-y0pEO2GwBamHohe0z1WxAlRiyamNU", Nick Pluto tv  
-https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
 #EXTINF:-92 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
+https://rcsfacility.com/jiotv/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
 http://iptv.prosto.tv:7000/ch207/video.m3u8
 http://31.172.87.52:2200/R-EX/KIDS_Cartoon_Network-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 https://tv.googledrivelinks.com/live.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
@@ -562,11 +555,11 @@ http://50.7.237.4:8080/CARTOONNETWORK/index.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f//index_4.m3u8
 http://103.179.246.243:8000/play/a01w
 http://103.121.14.18/hls/cn.m3u8
-https://rcsfacility.com/jiotv/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
+
 
 #EXTINF:-93 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay    
-http://watchindia.net:8880/live/vvv/vvv/2104.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/13.m3u8
+http://watchindia.net:8880/live/vvv/vvv/2104.m3u8
 http://50.7.237.4:8080/SONYYAY/index.m3u8
 https://tv.googledrivelinks.com/live.php?c=Sony_Yay_Tamil&q=1200&e=junk.m3u8
 https://jio.dooflix.in/live.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
@@ -574,7 +567,7 @@ https://rcsfacility.com/jiotv/live.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6627/index.m3u8
 
 #EXTINF:-94 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
-https://tv.googledrivelinks.com/live.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
+
 
 #EXTINF:-95 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
 
@@ -605,7 +598,7 @@ https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m
 https://tv.googledrivelinks.com/live.php?c=Discovery&q=1200&e=junk.m3u8
 
 #EXTINF:-99 tvg-id="(no tvg-id)" tvg-name="Discovery Tarbu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
-https://tv.googledrivelinks.com/live.php?c=Discovery_Turbo&q=1200&e=junk.m3u8?
+
 
 #EXTINF:-100 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
 http://15.1.5.14:8082/Discovery-Science/index.m3u8
@@ -616,9 +609,7 @@ http://103.166.102.58:8000/play/a01k
 https://tv.googledrivelinks.com/live.php?c=Discovery_Science&q=1200&e=junk.m3u8
 
 #EXTINF:-101 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
-https://tv.googledrivelinks.com/live.php?c=History_HD&q=1200&e=junk.m3u8
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
-https://akiliv.herokuapp.com/app/master.php?id=48156&e=.m3u8
+
 
 #EXTINF:-102 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -695,6 +686,7 @@ http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
+
 
 
 
