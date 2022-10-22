@@ -2,7 +2,7 @@ T+T+T+T
 #EXTM3U
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
-href="/live/500757885/3356646354/98843.ts"
+a href="/live/500757885/3356646354/98843.ts" 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8\/index.m3u8
