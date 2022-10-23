@@ -8,9 +8,9 @@ http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
 http://82.114.67.178:8081
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv  
-http://82.114.67.178:8081 href="/PeaceTV.m3u8"
+http://82.114.67.178:8081 href="/hls/PeaceTV.m3u8"
 
-href="/PeaceTV.m3u8"
+href="/hls/PeaceTV.m3u8"
 
 
 
