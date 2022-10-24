@@ -84,7 +84,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-26 tvg-logo="http://dugdugilive.com/img/channels/mytv.png",MY TV 
-http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/47.m3u8
 
 #EXTINF:-27 tvg-logo="http://dugdugilive.com/img/channels/mohonatv.png",MOHONA TV 
 http://bdiptv.net:8282/MohonaTV/tracks-v1a1/mono.m3u8
@@ -120,7 +120,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/17.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/50.m3u8
 
 #EXTINF:-37 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFuxaA4QizoZAHTzEMhXTQKFA664U0C5i-g&usqp=CAU", DESH TV  
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131641
+https://tvs1.aynaott.com/deshtv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JKfM.jpg",DESHI BiDESHI 
@@ -407,5 +407,8 @@ http://watchindia.net:8880/live/vvv/vvv/2161.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
+
+
+
 
 
