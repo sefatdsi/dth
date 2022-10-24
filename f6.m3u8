@@ -15,7 +15,7 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://15.1.5.14:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-4 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
-http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+http://cdn01.palki.tv/live/News24-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-5 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
 http://cdn01.palki.tv/live/Independent-M/tracks-v1/index.fmp4.m3u8
@@ -90,7 +90,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/47.m3u8
 http://cdn01.palki.tv/live/MohonaTV-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-28 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png",NTV 
-https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/48.m3u8
 
 #EXTINF:-29 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenBJ35xD5rzK3vIkzuSXCZqyDRWywIqxhNQ&usqp=CAU",RTV 
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
@@ -99,7 +99,7 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 http://15.1.5.14:8082/Channel-i/tracks-v1a1/mono.m3u8
 
 #EXTINF:-31 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x15351",ATN Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
 
 #EXTINF:-32 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMygyEkgkFFHABemi77_qncDi0FqXcmsEndg&usqp=CAU",Boishakhi TV
 http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
@@ -171,7 +171,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/35.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/23.m3u8
 
 #EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj1-EduM1OydXK6qnMzupeMXd9TG28cP69g&usqp=CAU",Sony HD
-http://bdiptv.net:8282/SonyTVHD/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/SonyTVHD/index.m3u8
 
 #EXTINF:-51 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p9yJUKDreKMSMcAfsblLBVxtZCVt-sYaSQ&usqp=CAU",Zee TV
 http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
@@ -251,7 +251,7 @@ https://idvd.multitvsolution.com/idvo/bixflixmovies.m3u8
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-72 tvg-logo="https://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 
 
      Music
@@ -409,6 +409,5 @@ http://watchindia.net:8880/live/vvv/vvv/2161.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
-
 
 
