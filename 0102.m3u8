@@ -55,8 +55,8 @@ https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/in
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Ananda" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwYT9bs65T6eT4R4vbnJpmSWe1AZhboh0U9lSrf70iliIhatzJa9EBoK3&s=10",ABP Ananda
-https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/abpananda_nim_https/050522/abpananda/playlist.m3u8
+https://abplivetv.akamaizednet/hls/live/2043012/ananda/master.m3u8
+https://yuppmedtaorire.akamaied.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/abpananda_nim_https/050522/abpananda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akd CN News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFggoX7QmRC7nMuP79QrbCxuiRA0aJpYtOQ&usqp=CAU",Akd CN News
 https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all/playlist.m3u8
@@ -64,12 +64,14 @@ https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all/playlist.m
 #orgin/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
-https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-https://niptv.kitv.live/MAASRANGA-TV/index.m3u8
+https://niptv.kitv.live/MAASRANG
+
+A-TV/tracks-v1a1/mono.m3u8
+https://niptv.kitv.live/MAASRANG-TV/index.m3u8
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 
 #EXTINF:-1 tvg-id="(notvg-id)" tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto Tv-1  
-http://15.1.5.14:8082/depto-bngla/index.m3u8
+http://15.1.5.14:8082/depto-bngla/inex.m3u8
 http://15.1.5.10:8082/depo-bangla/index.m3u8?
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png",Bangla Vision  
