@@ -108,7 +108,7 @@ http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
 http://cdn01.palki.tv/live/Duronto-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-34 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0MFeVReUu9G38M_HyX5rxnK_FEmHEaWgDQ&usqp=CAU", Amar Bangla 
-http://xtream.efiberbd.net:8080/live/mkaua/stream/56.m3u8
+
 
 #EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10",Jamuna Tv
 http://cdn01.palki.tv/live/JamunaTV-M/tracks-v1/index.fmp4.m3u8
@@ -127,7 +127,6 @@ https://tvs1.aynaott.com/deshtv/index.m3u8
 https://tempx.jagobd.com:441/live-orgin/deshebideshe.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ALPONA TV" tvg-logo="https://imgur.com/eBKwjJ6.png",ALPONA TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JTub.png",DOYEL TV
@@ -140,13 +139,13 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 http://15.1.5.10:8082/jalsha/index.m3u8?
 
 #EXTINF:-41 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQ7mOxrhyi33NJA6ik6KIt9lCQG_AmQ_9dA&usqp=CAU",Star Jalsha SD
-http://45.125.220.129:81/play/a05f
+
 
 #EXTINF:-42 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU",Zee Bangla HD
 http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-43 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
-http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-44 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6W5CteSxlY1BnPyLmKWkZKwSpmBICR8tg&usqp=CAU",Sony Aath 
@@ -156,7 +155,7 @@ http://15.1.5.14:8082/Sonyaath/index.m3u8
 http://208.86.19.13:81/902.stream/index.m3u8
 
 #EXTINF:-46 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__5-T6-CNE8kPRxLfMOtwQQT6LiAyzzTiRArP4-KnNZGHglv5SGqb4T3E&s=10",Star Plus
-http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+
 
 #EXTINF:-47 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIXHGi2nByvZoSumBmyzxhoBzMqkXBOYPEw&usqp=CAU",Colors HD 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/24.m3u8
@@ -179,18 +178,14 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
 #EXTINF:-52 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgJT_R72WibPdGtEtogxo0rpybLya6UTOQMQ&usqp=CAU",Star Utsav 
 
 
-#EXTINF:-1 tvg-id="StarPlusHD" status="blocked" user-agent="stream",Star Plus HD 
-#EXTVLCOPT:http-user-agent=stream
-http://15.1.5.14:8082/star-plus/index.m3u8
-
 #EXTINF:-53 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6Y6LKMSvVRHv8QaU4nomfHMXjtl4nm6pxig9K83B&s",wow-tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",MOVIE BANGLA 
 https://tempx.jagobd.com:441/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:-54 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SrUUMS_09uBcY8TbpEddSago20m5RKQsUw&usqp=CAU",Colors Bangla Sinema
-http://xtream.efiberbd.net:8080/live/mkaua/stream/9.m3u8
+#EXTINF:-54 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SrUUMS_09uBcY8TbpEddSago20m5RKQsUw&usqp=CAU",Colors Bangla Cinema
+
 
 #EXTINF:-55 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamnHC44YehgELnfsZhXLgDVIPNxC9Y6dI0w&usqp=CAU",& pictures
 http://xtream.efiberbd.net:8080/live/mkaua/stream/28.m3u8
@@ -199,7 +194,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/28.m3u8
 http://15.1.5.14:8082/jalsha-movies/index.m3u8
 
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsYuVKKBWmCdz3QNReeQyQnQUHS4rGPRVfw&usqp=CAU",Star Gold
-http://15.1.5.14:8082/star-gold/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://medianet.mv/media/channel/160x0-icon.png",COLORS CINEPLEX HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
@@ -208,13 +203,13 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
 http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
 
 #EXTINF:-59 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwngiuZkaRtKSnuHkkHn6NfaudzymFBbeVc7G9TjzhiWy6nZo7aii-uE&s=10",Zee Bangla Cinama
-http://xtream.efiberbd.net:8080/live/mkaua/stream/10.m3u8
+
 
 #EXTINF:-60 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU",Zee Cinema
 http://15.1.5.14:8082/ZeeCinemaHD/index.m3u8
 
 #EXTINF:-61 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeRotRlbDc3-AYZgBd1kW10AXcCGrA0_AUQ&usqp=CAU",Zee Action
-http://15.1.5.14:8082/zeeaction/index.m3u8
+
 
 #EXTINF:-62 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
@@ -223,21 +218,20 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-63 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUwJHb-yGTn-KK-H4-AR-Iis33gReG3_vqA&usqp=CAU",& Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-64 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwvDehoN47Dz9RR3t71NgbmOAheN-zxQERQ&usqp=CAU",HBO
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-64 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwvDehoN47Dz9RR3t71NgbmOAheN-zxQERQ&usqp=CAU",HBO  http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #EXTINF:-65 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAIdMysBtAZf5rsvsHQyId8QiLn1Vn6mr_w&usqp=CAU", HBO Comedy  
 
 
 #EXTINF:-66 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yJ6An0GrmyKPiaFMcNNHo2yL06RdgzUQ0g&usqp=CAU", HBO+  
-http://meumd.com:80/\Denise01/\denise001/\/109544
+http://meumd.com:80/Denise01/denise001/\/109544
 
 #EXTINF:-67 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqSjIRc89DS7ON3n7UuPAHggQQO7dS4fd4A&usqp=CAU",Star Movies 
 http://15.1.5.14:8082/star-movies-hd/index.m3u8
 
 #EXTINF:-68 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cSuDKPYIYbzPLYhylVi86VyAj0Y9aPYSS15zaJmOPhS75GhALL0WRXw&s=10", Star Movies Select 
-http://humiptv.live:8080//live/500757885/3356646354/98843.ts
+
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/Bflix-Movies-Logo.png", Bflix movie   
 https://idvd.multitvsolution.com/idvo/bixflixmovies.m3u8
@@ -260,7 +254,6 @@ http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 
 #EXTINF:-74 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGgIs7Ca3vltgEaPaCeIphRP9DRjsCnpf1PGFfwG5KozA09AlVCnmAKkX&s=10",ATN Music
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
 
 #EXTINF:-75 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-rOQXzAJlUrLQYlX_NK5Dn216_1n8VdawzvVJ775&s",kadak-hits
@@ -331,7 +324,7 @@ https://rcsfacility.com/jiotv/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
 http://iptv.prosto.tv:7000/ch207/video.m3u8
 
 #EXTINF:-93 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay    
-http://xtream.efiberbd.net:8080/live/mkaua/stream/13.m3u8/13.m3u8
+
 
 #EXTINF:-94 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
 
@@ -349,14 +342,14 @@ https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 https://rcsfacility.com/jiotv/live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
 
 #EXTINF:-98 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
-http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
+
 
 
 #EXTINF:-99 tvg-id="(no tvg-id)" tvg-name="Discovery Tarbu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/\@/2.m3u8
 
 #EXTINF:-100 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
-http://15.1.5.14:8082/Discovery-Science/index.m3u8
+
 
 
 #EXTINF:-101 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
@@ -369,7 +362,7 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-103 tvg-id="(no tvg-id)" tvg-name="National Geographic HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
-http://45.125.220.129:81/play/a03o
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",TravelXP 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8?iptv
@@ -398,7 +391,7 @@ http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT//master_1660.m3u8
 
 #EXTINF:-110 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
-http://15.1.5.14:8082/STAR-SPORTS-1/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png",STAR SPORTS 2 HD
