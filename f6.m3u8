@@ -145,7 +145,7 @@ http://15.1.5.10:8082/jalsha/index.m3u8?
 http://45.125.220.129:81/play/a05f
 
 #EXTINF:-42 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU",Zee Bangla HD
-http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8?
+https://tvs1.aynaott.com/ZeeBangla/index.m3u8
 
 #EXTINF:-43 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
 
@@ -164,7 +164,7 @@ http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/\/mono.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/24.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HUM HD" tvg-logo="https://imgur.com/EXGKPmc.png",HUM HD
-
+http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
 
 #EXTINF:-48 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFH7PR4otwE3F70UnM9xVLTIhBdaaQZo7s7g4jpPPsfNyXFgUQY6RICoRv&s=10",Sony pix 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/35.m3u8
@@ -173,7 +173,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/35.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/23.m3u8
 
 #EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj1-EduM1OydXK6qnMzupeMXd9TG28cP69g&usqp=CAU",Sony HD
-http://15.1.5.14:8082/SonyTVHD/index.m3u8
+http://tvs2.aynaott.com/SonyHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-51 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p9yJUKDreKMSMcAfsblLBVxtZCVt-sYaSQ&usqp=CAU",Zee TV
 http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
@@ -188,7 +188,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://tempx.jagobd.com:441/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-54 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SrUUMS_09uBcY8TbpEddSago20m5RKQsUw&usqp=CAU",Colors Bangla Cinema
-http://208.86.19.13:81/907.stream/\/index.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/7.m3u8
 
 #EXTINF:-55 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamnHC44YehgELnfsZhXLgDVIPNxC9Y6dI0w&usqp=CAU",& pictures
 http://xtream.efiberbd.net:8080/live/mkaua/stream/28.m3u8
@@ -197,7 +197,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/28.m3u8
 http://15.1.5.14:8082/jalsha-movies/index.m3u8
 
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsYuVKKBWmCdz3QNReeQyQnQUHS4rGPRVfw&usqp=CAU",Star Gold
-http://12.1.1.1:8082/StarGold/video.m3u8
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://medianet.mv/media/channel/160x0-icon.png",COLORS CINEPLEX HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
@@ -206,7 +206,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
 https://tvs1.aynaott.com/MaxHD/index.m3u8
 
 #EXTINF:-59 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwngiuZkaRtKSnuHkkHn6NfaudzymFBbeVc7G9TjzhiWy6nZo7aii-uE&s=10",Zee Bangla Cinama
-http://208.86.19.13:81/708.stream/\/index.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/10.m3u8
 
 #EXTINF:-60 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU",Zee Cinema
 http://15.1.5.14:8082/ZeeCinemaHD/index.m3u8
@@ -259,7 +259,7 @@ http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 
 #EXTINF:-74 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGgIs7Ca3vltgEaPaCeIphRP9DRjsCnpf1PGFfwG5KozA09AlVCnmAKkX&s=10",ATN Music
-
+http://xtream.efiberbd.net:8080/live/mkaua/stream/57.m3u8
 
 #EXTINF:-75 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-rOQXzAJlUrLQYlX_NK5Dn216_1n8VdawzvVJ775&s",kadak-hits
 
@@ -284,7 +284,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/44.m3u8\44.m3u8
 
 
 #EXTINF:80 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC0WG26YJlNP030KVn_ZdrmrgHrMISV-DcXw&usqp=CAU”,B4U Music
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+http://xtream.efiberbd.net:8080/live/mkaua/stream/46.m3u8t
 
 #EXTINF:-81 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png",9xM 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -401,7 +401,7 @@ http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT//master_1660.m3u8
 
 #EXTINF:-110 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
-
+http://103.143.235.50:8080/ch5/\/ch5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png",STAR SPORTS 2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
