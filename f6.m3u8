@@ -44,7 +44,7 @@ https://tempx.jagobd.com:441/live-orgin/chsukoff.stream/chunks.m3u8
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 #EXTINF:-13 tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV 
-http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 
 
 #EXTINF:-14 tvg-id="(no tvg-id)" tvg-name="Zee ২৪ ঘন্টা" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee ২৪ ঘন্টা
@@ -395,7 +395,7 @@ http://stream.amrbd.com:8082/SonySix/video.m3u8
 
 
 #EXTINF:-108 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
-http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
 #EXTINF:-109 tvg-logo="http://tvtolive.com/wp-content/uploads/Red-Bull-TV-tvtolive.com_.jpg",Red-Bull-TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT//master_1660.m3u8
@@ -411,5 +411,6 @@ http://watchindia.net:8880/live/vvv/vvv/2161.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
+
 
 
