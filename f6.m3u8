@@ -148,7 +148,7 @@ http://45.125.220.129:81/play/a05f
 https://tvs1.aynaott.com/ZeeBangla/index.m3u8
 
 #EXTINF:-43 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
-
+http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-44 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6W5CteSxlY1BnPyLmKWkZKwSpmBICR8tg&usqp=CAU",Sony Aath 
@@ -158,7 +158,8 @@ http://15.1.5.14:8082/Sonyaath/index.m3u8
 
 
 #EXTINF:-46 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__5-T6-CNE8kPRxLfMOtwQQT6LiAyzzTiRArP4-KnNZGHglv5SGqb4T3E&s=10",Star Plus
-http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/\/mono.m3u8
+http://15.1.5.14:8082/star-plus/index.m3u8
+http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-47 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIXHGi2nByvZoSumBmyzxhoBzMqkXBOYPEw&usqp=CAU",Colors HD 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/24.m3u8
@@ -197,7 +198,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/28.m3u8
 http://15.1.5.14:8082/jalsha-movies/index.m3u8
 
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsYuVKKBWmCdz3QNReeQyQnQUHS4rGPRVfw&usqp=CAU",Star Gold
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+http://15.1.5.14:8082/star-gold/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://medianet.mv/media/channel/160x0-icon.png",COLORS CINEPLEX HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
@@ -328,7 +329,7 @@ https://rcsfacility.com/jiotv/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
 http://iptv.prosto.tv:7000/ch207/video.m3u8
 
 #EXTINF:-93 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay    
-http://watchindia.net:8880/live/vvv/vvv/2104.ts
+http://15.1.5.14:8082/discovery-kid/index.m3u8
 
 
 
@@ -355,7 +356,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-sam
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/\@/2.m3u8
 
 #EXTINF:-100 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
-
+http://15.1.5.10:8082/Discovery-Science/index.m3u8
 
 
 
@@ -395,7 +396,7 @@ http://stream.amrbd.com:8082/SonySix/video.m3u8
 
 
 #EXTINF:-108 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
-http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 
 #EXTINF:-109 tvg-logo="http://tvtolive.com/wp-content/uploads/Red-Bull-TV-tvtolive.com_.jpg",Red-Bull-TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT//master_1660.m3u8
