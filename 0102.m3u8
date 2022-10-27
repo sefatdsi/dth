@@ -5,13 +5,13 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 
 #EXTINF:-41 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQ7mOxrhyi33NJA6ik6KIt9lCQG_AmQ_9dA&usqp=CAU",Star Jalsha SD
-http://atvonlinebd.xyz:8880/live  a href="/1354.ts"
+http://atvonlinebd.xyz:8880/live  a href="/live"
  href="/1354.ts"
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| KENH CO BAN" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png" catchup="append" catchup-days="2" catchup-source="",SA TV
 
 #EXTINF:-4 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
-http://atvonlinebd.xyz:8880  a href="/live/1354.ts"
+http://atvonlinebd.xyz:8880  a href="/live"
  href="/1354.ts" 
 
 
@@ -20,7 +20,7 @@ http://atvonlinebd.xyz:8880  a href="/live/1354.ts"
 #http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv  
-http://atvonlinebd.xyz:8880  a href="/live/1354.ts"
+http://atvonlinebd.xyz:8880/live  a href="/1354.ts"
  href="/live/1354.ts"
 
 
