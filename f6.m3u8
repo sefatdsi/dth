@@ -22,7 +22,7 @@ http://cdn01.palki.tv/live/News24-M/tracks-v1/index.fmp4.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-6 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="http://tv.bdtype.com/uploads/tv_image/asian-tv.jpg",asian-tv
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8#4545
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
 
 #EXTINF:-7 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
@@ -58,6 +58,10 @@ https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b//i
 https://abplivetv.akamaized.net/hls/live/2043012/ananda//master.m3u8
 
 #EXTINF:-16 tvg-id="(no tvg-id)" tvg-name="Akd CN News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFggoX7QmRC7nMuP79QrbCxuiRA0aJpYtOQ&usqp=CAU",Akd CN News
+https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgztOKN0rcpkp9mLR1TohZmXSj1vg8TB-Xog&usqp=CAU", Kolkata Tv   
+http://45.125.220.129:81/play/a05e
 
 #EXTINF:-17 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
