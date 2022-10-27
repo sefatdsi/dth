@@ -66,6 +66,7 @@ http://15.1.5.10:8082/maasranga/index.m3u8
 http://15.1.5.14:8082/depto-bangla/index.m3u8
 
 #EXTINF:-20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApHApmFQOuwbeE6DovdDXFSf9ML0cvay0Jw&usqp=CAU",Bangla Vision
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 http://stream.amrbd.com:8082/BanglaVision/index.m3u8
 
 #EXTINF:-21 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png",Ananda TV 
@@ -90,6 +91,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/47.m3u8
 http://cdn01.palki.tv/live/MohonaTV-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNa32QP7FzvFbI70CrF8slchGl8S-U0zmOeA&usqp=CAU",NAGORIK TV
+http://15.1.5.14:8082/nagorik-tv/index.m3u8
 http://stream.amrbd.com:8082/Nagorik-TV/video.m3u8
 
 #EXTINF:-28 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png",NTV 
@@ -102,7 +104,7 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 http://15.1.5.14:8082/Channel-i/tracks-v1a1/mono.m3u8
 
 #EXTINF:-31 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x15351",ATN Bangla
-http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/49.m3u8
 
 #EXTINF:-32 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMygyEkgkFFHABemi77_qncDi0FqXcmsEndg&usqp=CAU",Boishakhi TV
 http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
@@ -230,7 +232,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #EXTINF:-66 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yJ6An0GrmyKPiaFMcNNHo2yL06RdgzUQ0g&usqp=CAU", HBO+  
-http://meumd.com:80/Denise01/denise001/\/109544
+http://meumd.com:80/Denise01/denise001/109544
 
 #EXTINF:-67 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqSjIRc89DS7ON3n7UuPAHggQQO7dS4fd4A&usqp=CAU",Star Movies 
 http://15.1.5.14:8082/star-movies-hd/index.m3u8
@@ -412,6 +414,5 @@ http://watchindia.net:8880/live/vvv/vvv/2161.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
-
 
 
