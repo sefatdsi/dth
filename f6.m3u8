@@ -226,6 +226,10 @@ http://15.1.5.14:8082/ZeeCinemaHD/index.m3u8
 
 #EXTINF:-61 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeRotRlbDc3-AYZgBd1kW10AXcCGrA0_AUQ&usqp=CAU",Zee Action
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUOYr9d2hw-ZjiF44xBPewpU0x2OK9TPwww&usqp=CAU", Movies Now   
+http://xtream.efiberbd.net:8080/live/mkaua/stream/34.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGT-x9QPetG5AtPEOPVujPf3dq6jI_WGj8g&usqp=CAU", Colors Cineplex   
 http://15.1.5.14:8082/colorscineplex/index.m3u8
 
@@ -402,12 +406,16 @@ http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 
 #EXTINF:-106 tvg-id="(no tvg-id)"tvg-name="Ten Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports 
-http://103.157.249.125:201/play/a041/index.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/01.m3u8
 
 #EXTINF:-107 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-six.png",Sony Six
 http://stream.amrbd.com:8082/SonySix/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/Sony_TEN1HD_23oct_masthead_logo.png", Sony Sports 1   
+http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2C88os_DEEu3n0u1D4k2WRbQ3K0qGe2jPiQ&usqp=CAU", Sony Sports 2   
+http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 
 #EXTINF:-108 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
@@ -426,5 +434,6 @@ http://watchindia.net:8880/live/vvv/vvv/2161.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
+
 
 
