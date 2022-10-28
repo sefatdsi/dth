@@ -115,7 +115,7 @@ http://15.1.5.14:8082/Channel-i/tracks-v1a1/mono.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/49.m3u8
 
 #EXTINF:-32 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMygyEkgkFFHABemi77_qncDi0FqXcmsEndg&usqp=CAU",Boishakhi TV
-http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-33 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
 http://xtream.efiberbd.net:8080/live/mkaua/stream/12.m3u8
@@ -279,7 +279,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/57.m3u8
 
 
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Gaan Bangla
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
+http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-77 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DMbKCZ5bF0tTpG6bUs2NXWvoyQnVdsyfOQ&usqp=CAU",Sangeet Bangla  
 http://15.1.5.10:8082/sangeet-bangla/index.m3u8
@@ -359,6 +359,7 @@ http://15.1.5.14:8082/discovery-kid/index.m3u8
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-97 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET [Hindi]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
+http://stream.amrbd.com:8082/Animal_Planet/index.m3u8
 https://rcsfacility.com/jiotv/live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
 
 #EXTINF:-98 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
@@ -415,7 +416,7 @@ http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT//master_1660.m3u8
 
 #EXTINF:-110 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
-http://103.143.235.50:8080/ch5/\/ch5.m3u8
+http://15.1.5.14:8082/STAR-SPORTS-1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png",STAR SPORTS 2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
