@@ -22,7 +22,7 @@ http://cdn01.palki.tv/live/News24-M/tracks-v1/index.fmp4.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-6 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="http://tv.bdtype.com/uploads/tv_image/asian-tv.jpg",asian-tv
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+http://15.1.5.14:8082/AsianTV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-7 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
@@ -225,7 +225,8 @@ http://15.1.5.14:8082/ZeeCinemaHD/index.m3u8
 
 #EXTINF:-61 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeRotRlbDc3-AYZgBd1kW10AXcCGrA0_AUQ&usqp=CAU",Zee Action
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGT-x9QPetG5AtPEOPVujPf3dq6jI_WGj8g&usqp=CAU", Colors Cineplex   
+http://15.1.5.14:8082/colorscineplex/index.m3u8
 
 #EXTINF:-62 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
@@ -367,7 +368,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-sam
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/\@/2.m3u8
 
 #EXTINF:-100 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
-http://15.1.5.10:8082/Discovery-Science/index.m3u8
+http://15.1.5.14:8082/Discovery-Science/index.m3u8
 
 
 
@@ -382,7 +383,7 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-103 tvg-id="(no tvg-id)" tvg-name="National Geographic HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
-
+http://172.16.50.2:8082/Nat-Geo/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",TravelXP 
@@ -423,5 +424,7 @@ http://watchindia.net:8880/live/vvv/vvv/2161.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
+
+
 
 
