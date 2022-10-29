@@ -94,7 +94,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
 
 #EXTINF:-25 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVbWeV8nEbOMblqBzMK8nCis4cjPZcvoq-Q&usqp=CAU",Ekushey TV 
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-26 tvg-logo="http://dugdugilive.com/img/channels/mytv.png",MY TV 
@@ -151,6 +151,10 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JTub.png",DOYEL TV
 https://tempx.jagobd.com:441/live-orgin/doyeltv.stream/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png" ,SANGSHD TV
+https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-39 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUxFrgBnfxjWw_9miC7agwtwkFwvg1jW2pw&usqp=CAU",Colors Bangla
 https://tvs1.aynaott.com/ColorsBangla/index.m3u8
@@ -336,6 +340,7 @@ https://idvd.multitvsolution.com/idvo/kappatv.m3u8
 
 
 #EXTINF:-84 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
+https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082@rcsfacility.com/jiotv/live.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
 
 #EXTINF:-85 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel 
@@ -359,10 +364,12 @@ http://15.1.5.14:8082/nick-jr/index.m3u8
 
 
 #EXTINF:-92 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
+https://tvs2.aynaott.com/cartoonnetwork/tracks-v1a1/mono.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 http://iptv.prosto.tv:7000/ch207/video.m3u8
 
 #EXTINF:-93 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay    
+https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/discovery-kid/index.m3u8
 
 
@@ -380,9 +387,11 @@ http://15.1.5.14:8082/discovery-kid/index.m3u8
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-97 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET [Hindi]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
+https://tvs1.aynaott.com/animal_planet_hd/tracks-v1a1/mono.m3u8
 https://rcsfacility.com/jiotv/live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
 
 #EXTINF:-98 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
+https://tvs1.aynaott.com/discovery_hd/tracks-v1a1/mono.m3u8
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131646
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/3.m3u8
 
@@ -396,6 +405,7 @@ https://tvs1.aynaott.com/discovery_science/index.m3u8
 
 
 #EXTINF:-101 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
+https://tvs2.aynaott.com/historyen/tracks-v1a1/mono.m3u8?token=a927684a90148077091c4cfaa49f78c50b48ca79-DlIberJ5mAzQvORZ-
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
@@ -452,5 +462,6 @@ http://watchindia.net:8880/live/vvv/vvv/2161.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
+
 
 
