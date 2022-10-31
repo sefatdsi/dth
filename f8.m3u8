@@ -1,186 +1,267 @@
 #EXTM3U
 #EXTINF:-0 tvg-id="" tvg-name="Deen TV" tvg-logo="https://i.imgur.com/QNCosaS.png",Deen TV
 https://rebrand.ly/Deen-tv
+
 #EXTINF:-1 tvg-id="" tvg-name="SAUDIA QURAN HD" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
 https://rebrand.ly/SAUDIA-QURAN
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
 https://rebrand.ly/Iqra-Bangla
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic 
 https://rebrand.ly/ATN-Islamic
+
 #EXTINF:-2 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
 https://rebrand.ly/Peace-Tv
+
 #EXTINF:-3 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
 https://rebrand.ly/DBC-NEWS-065
+
 #EXTINF:-4 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
 https://rebrand.ly/NEWS24-454
+
 #EXTINF:-5 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
 https://rebrand.ly/INDEPENDENT-657
+
 #EXTINF:-6 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="http://tv.bdtype.com/uploads/tv_image/asian-tv.jpg",asian-tv
 https://rebrand.ly/ASIAN-TV-65
+
 #EXTINF:-7 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
 https://rebrand.ly/EKATTOR-TV-666
+
 #EXTINF:-8 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
 https://rebrand.ly/Somoy-tv-54
+
 #EXTINF:-9 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",channel 24
 https://rebrand.ly/Channel24-543
+
 #EXTINF:-10 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
 https://rebrand.ly/Satv-87
+
 #EXTINF:-11 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
 https://rebrand.ly/ATN-News-34
+
 #EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5wuD4hM6A3DSmyRGT3VOhzCB1ilgHj5mGQ&usqp=CAU",Channel-S
 https://rebrand.ly/Channels-342
+
 #EXTINF:-13 tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV 
 https://rebrand.ly/Gazi-tv-32
+
 #EXTINF:-14 tvg-id="(no tvg-id)" tvg-name="Zee ২৪ ঘন্টা" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee ২৪ ঘন্টা
 https://rebrand.ly/Zee24-Gonta
+
 #EXTINF:-15 tvg-id="(no tvg-id)" tvg-name="ABP Ananda" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwYT9bs65T6eT4R4vbnJpmSWe1AZhboh0U9lSrf70iliIhatzJa9EBoK3&s=10",ABP Ananda
 https://rebrand.ly/ABP-Ananda-454
+
 #EXTINF:-16 tvg-id="(no tvg-id)" tvg-name="Akd CN News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFggoX7QmRC7nMuP79QrbCxuiRA0aJpYtOQ&usqp=CAU",Akd CN News
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgztOKN0rcpkp9mLR1TohZmXSj1vg8TB-Xog&usqp=CAU", Kolkata Tv   
 
 #EXTINF:-17 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
 https://rebrand.ly/BTV-33
+
 #EXTINF:-18 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
 https://rebrand.ly/Maasranga-tv-121
+
 #EXTINF:-19 tvg-id="(notvg-id)" tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto TV  
 https://rebrand.ly/Deepto-tv-322
+
 #EXTINF:-20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApHApmFQOuwbeE6DovdDXFSf9ML0cvay0Jw&usqp=CAU",Bangla Vision
 https://rebrand.ly/Banglavision-09
+
 #EXTINF:-21 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png",Ananda TV 
 https://rebrand.ly/Ananda-tv-43
+
 #EXTINF:-22 tvg-logo="http://103.136.200.246/assets/images/banglatv.jpg",Bangla TV 
 https://rebrand.ly/banglatv-hd-4
+
 #EXTINF:-23 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6paW5JP_tJSBLm3lbwU6eu7fn5PrfwbTlA&usqp=CAU",Boishakhi TV 
 https://rebrand.ly/boishakhi-tv-21
+
 #EXTINF:-24 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg",Boishakhi TV Plus
 https://rebrand.ly/boishakhi-plus-12
+
 #EXTINF:-25 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVbWeV8nEbOMblqBzMK8nCis4cjPZcvoq-Q&usqp=CAU",Ekushey TV 
 https://rebrand.ly/Ekushey-tv-326
+
 #EXTINF:-26 tvg-logo="http://dugdugilive.com/img/channels/mytv.png",MY TV 
 https://rebrand.ly/My-tv-654
+
 #EXTINF:-27 tvg-logo="http://dugdugilive.com/img/channels/mohonatv.png",MOHONA TV 
 https://rebrand.ly/Mohona-tv-22
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNa32QP7FzvFbI70CrF8slchGl8S-U0zmOeA&usqp=CAU",NAGORIK TV
 https://rebrand.ly/Nagorik-tv-222
+
 #EXTINF:-28 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png",NTV 
 https://rebrand.ly/NTV-1211
+
 #EXTINF:-29 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenBJ35xD5rzK3vIkzuSXCZqyDRWywIqxhNQ&usqp=CAU",RTV 
 https://rebrand.ly/Rtv-321
+
 #EXTINF:-31 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x15351",ATN Bangla
 https://rebrand.ly/ATN-Bangla-534
+
 #EXTINF:-33 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
 https://rebrand.ly/duronto-tv-32
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJNZIdmTvSOnDJoA4if3JLiMrbrUOsJM0UQ&usqp=CAU", Bijoy Tv   
 https://rebrand.ly/Bijoy-tv-34
+
 #EXTINF:-34 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0MFeVReUu9G38M_HyX5rxnK_FEmHEaWgDQ&usqp=CAU", Amar Bangla 
 https://rebrand.ly/Amar-Bangla-89
+
 #EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10",Jamuna Tv
 https://rebrand.ly/Jamuna-tv-12
+
 #EXTINF:-36 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-dCnJ86VWXRuri7yny0ostFKdiSXZiNktw&usqp=CAU", Channel 9  
 https://rebrand.ly/Channel-9-abc
+
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://imgur.com/RtTjtxS.png",CHANNEL I
 https://rebrand.ly/Channel-i-505
+
 #EXTINF:-37 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFuxaA4QizoZAHTzEMhXTQKFA664U0C5i-g&usqp=CAU", DESH TV  
 https://rebrand.ly/Desh-tv-43
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JKfM.jpg",DESHI BiDESHI 
 https://rebrand.ly/Deshe-Bideshe-32
+
 #EXTINF:-1 tvg-id="" tvg-name="ALPONA TV" tvg-logo="https://imgur.com/eBKwjJ6.png",ALPONA TV
 https://rebrand.ly/Alpona-tv-5
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JTub.png",DOYEL TV
 https://rebrand.ly/Doyel-tv
+
 #EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png" ,SANGSHD TV
 https://rebrand.ly/Sangshad-tv-65
+
 #EXTINF:-39 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUxFrgBnfxjWw_9miC7agwtwkFwvg1jW2pw&usqp=CAU",Colors Bangla
 https://rebrand.ly/Colors-Bangla-31
+
 #EXTINF:-40 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD
 https://rebrand.ly/StarJalsha-Hd-78
+
 #EXTINF:-41 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQ7mOxrhyi33NJA6ik6KIt9lCQG_AmQ_9dA&usqp=CAU",Star Jalsha SD
 https://rebrand.ly/StarJalsha-SD-44
+
 #EXTINF:-42 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU",Zee Bangla HD
 https://rebrand.ly/ZeeBangla-HD-76
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9bqiKDOyqawfAuy2jMUJT4hNvdC_QnNbyJA&usqp=CAU",ZEE BANGLA SD
 https://rebrand.ly/ZeeBangla-SD-43
+
 #EXTINF:-43 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
 https://rebrand.ly/Enter-10-Bangla-0
+
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sun-bangla.png",SUN BANGLA
 
 #EXTINF:-44 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6W5CteSxlY1BnPyLmKWkZKwSpmBICR8tg&usqp=CAU",Sony Aath 
 https://rebrand.ly/SonyAath-54
+
 #EXTINF:-45 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKURTsVqVjFHOJNWtnEYCpuBBrF55kd2x11tbBDaoyyRSCoiDvKnz_AF4b&s=10",Akash Aath
 
 #EXTINF:-46 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__5-T6-CNE8kPRxLfMOtwQQT6LiAyzzTiRArP4-KnNZGHglv5SGqb4T3E&s=10",Star Plus
 https://rebrand.ly/StarPlus-35
+
 #EXTINF:-47 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIXHGi2nByvZoSumBmyzxhoBzMqkXBOYPEw&usqp=CAU",Colors HD 
 https://rebrand.ly/Colors-HD-33
+
 #EXTINF:-1 tvg-id="" tvg-name="HUM HD" tvg-logo="https://imgur.com/EXGKPmc.png",HUM HD
 https://rebrand.ly/HUM-HD-43
+
 #EXTINF:-48 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFH7PR4otwE3F70UnM9xVLTIhBdaaQZo7s7g4jpPPsfNyXFgUQY6RICoRv&s=10",Sony pix 
 https://rebrand.ly/SonyPix-21
+
 #EXTINF:-49 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SABTVHD1_Masthead_logo.png",Sony Sab
 https://rebrand.ly/SonySab-22
+
 #EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj1-EduM1OydXK6qnMzupeMXd9TG28cP69g&usqp=CAU",Sony HD
 https://rebrand.ly/Sony-HD-54
+
 #EXTINF:-51 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p9yJUKDreKMSMcAfsblLBVxtZCVt-sYaSQ&usqp=CAU",Zee TV
 https://rebrand.ly/ZeeTv-211
+
 #EXTINF:-52 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgJT_R72WibPdGtEtogxo0rpybLya6UTOQMQ&usqp=CAU",Star Utsav 
 
 #EXTINF:-53 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6Y6LKMSvVRHv8QaU4nomfHMXjtl4nm6pxig9K83B&s",wow-tv
 https://rebrand.ly/WowTv-43
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",MOVIE BANGLA 
 https://rebrand.ly/Movie-Banglalink-43
+
 #EXTINF:-54 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SrUUMS_09uBcY8TbpEddSago20m5RKQsUw&usqp=CAU",Colors Bangla Cinema
 https://rebrand.ly/ColorsBanglaCinema-45
+
 #EXTINF:-62 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png",Khushboo Bangla
 https://rebrand.ly/Khushboo-Bangla-44
+
 #EXTINF:-56 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpGKOrjC_G_u-aPXXJABUm6UlHZaFAYKsDA&usqp=CAU", Jalsha Movies HD
 https://rebrand.ly/JhalsaMovies-43
+
 #EXTINF:-59 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwngiuZkaRtKSnuHkkHn6NfaudzymFBbeVc7G9TjzhiWy6nZo7aii-uE&s=10",Zee Bangla Cinama
 https://rebrand.ly/ZeeBangleCinema-87
+
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsYuVKKBWmCdz3QNReeQyQnQUHS4rGPRVfw&usqp=CAU",Star Gold
 https://rebrand.ly/StarGold-54
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1174px-Star_Gold_2.svg.png", Star Gold-2  
 https://rebrand.ly/StarGold-2-
+
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://medianet.mv/media/channel/160x0-icon.png",COLORS CINEPLEX HD
 https://rebrand.ly/ColorsCineplex-43
+
 #EXTINF:-58 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjJW-9CQNAt0PJpouO8YzJcINbdYd6Ln5TAlKVdE_7kYgkVF5hOaQeE4&s=10",Sony MAX
 https://rebrand.ly/SonyMax-232
+
 #EXTINF:-60 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU",Zee Cinema
 https://rebrand.ly/ZeeCinema-656
+
 #EXTINF:-61 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeRotRlbDc3-AYZgBd1kW10AXcCGrA0_AUQ&usqp=CAU",Zee Action
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png", Star Bharat  
 https://rebrand.ly/StarBharat-56
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUOYr9d2hw-ZjiF44xBPewpU0x2OK9TPwww&usqp=CAU", Movies Now   
 https://rebrand.ly/MoviesNow-32
+
 #EXTINF:-71 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIile6h7_E952CLWwA4jonDyqW_J9R-tcgEO0IDrisXyVoiwNc8UbIjk&s=10",Zee Bioskop 
 https://rebrand.ly/ZeeBioskop-33
+
 #EXTINF:-67 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqSjIRc89DS7ON3n7UuPAHggQQO7dS4fd4A&usqp=CAU",Star Movies 
 https://rebrand.ly/StarMovies-43
+
 #EXTINF:-68 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cSuDKPYIYbzPLYhylVi86VyAj0Y9aPYSS15zaJmOPhS75GhALL0WRXw&s=10", Star Movies Select 
 
 #EXTINF:-63 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUwJHb-yGTn-KK-H4-AR-Iis33gReG3_vqA&usqp=CAU",& Flix
 https://rebrand.ly/AndFlix-432
+
 #EXTINF:-55 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamnHC44YehgELnfsZhXLgDVIPNxC9Y6dI0w&usqp=CAU",& pictures
 https://rebrand.ly/AndPicture-21
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLwe-0zUsX7nJ3evybpxDtykELLJjgUsXKg&usqp=CAU", Zing   
 https://rebrand.ly/Zing-432
+
 #EXTINF:-64 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwvDehoN47Dz9RR3t71NgbmOAheN-zxQERQ&usqp=CAU",HBO
 https://rebrand.ly/HBO-2422
+
 #EXTINF:-65 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAIdMysBtAZf5rsvsHQyId8QiLn1Vn6mr_w&usqp=CAU", HBO Comedy  
 
 #EXTINF:-66 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yJ6An0GrmyKPiaFMcNNHo2yL06RdgzUQ0g&usqp=CAU", HBO+  
 https://rebrand.ly/HboPlus-54
+
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/Bflix-Movies-Logo.png", Bflix movie   
 https://rebrand.ly/BflixMovie-65
+
 #EXTINF:-69 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLKUQ7ecuFJQU_l6fpL4K7yAQjC6XGh29-UQ&usqp=CAU", The Movie HUB  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUE31jmuoZWC_kUh5-OwadRgWG2St9JG2TKksaOtIqkUyxZai-3TX1agwF&s=10", &Prive   
 https://rebrand.ly/AndPrive-54
+
 #EXTINF:-70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgU0NXo0pr-Gl46Iz8dmFJ8AQ9RROXhLvvnA&usqp=CAU",Tamil-vision tv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToDd4oT0e_sgxlDDcb56o4k3NVfqHWRxxgUA&usqp=CAU",Dhinchaak   
 https://rebrand.ly/Dhinchaak-44
+
 #EXTINF:-72 tvg-logo="https://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
 https://rebrand.ly/Thrill-654
 
@@ -189,31 +270,43 @@ https://rebrand.ly/Thrill-654
 
 #EXTINF:-73 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg-cKSPFPgIy51FYyO4oYPy1-6mIuZXHavCw&usqp=CAU",Fashion TV 
 https://rebrand.ly/Fashion-433
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXM__jYtITwmIU2rUjCanPbYVRQZ2svKgmpw&usqp=CAU", PTC Music   
 https://rebrand.ly/PtcMusic-54
+
 #EXTINF:-74 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGgIs7Ca3vltgEaPaCeIphRP9DRjsCnpf1PGFfwG5KozA09AlVCnmAKkX&s=10",ATN Music
 https://rebrand.ly/AtnMusic-23
+
 #EXTINF:-75 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-rOQXzAJlUrLQYlX_NK5Dn216_1n8VdawzvVJ775&s",kadak-hits
 
 
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Gaan Bangla
 https://rebrand.ly/GaanBangla-32
+
 #EXTINF:-77 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DMbKCZ5bF0tTpG6bUs2NXWvoyQnVdsyfOQ&usqp=CAU",Sangeet Bangla  
 https://rebrand.ly/SangeetBangla-11
+
 #EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="https://imgur.com/HG69Dgb.png",Bangla Talkies
 https://rebrand.ly/BanglaTalkies-6
+
 #EXTINF:-78 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjDWhhkdofHQszVTV6F9xoyk-wg89U-gUag&usqp=CAU",ZOOM 
 https://rebrand.ly/Zoom-42
+
 #EXTINF:79 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_ZxnAp236s88P6V19pPipv2UDvg4m5xpQA&usqp=CAU”,MTV Music
 https://rebrand.ly/MtvMusic-43
+
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://imgur.com/wg3N1VT.png",MUSIC INDIA
 https://rebrand.ly/MusicIndia-53
+
 #EXTINF:80 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC0WG26YJlNP030KVn_ZdrmrgHrMISV-DcXw&usqp=CAU”,B4U Music
 https://rebrand.ly/B4uMusic-49
+
 #EXTINF:-81 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png",9xM 
 https://rebrand.ly/9xm-656
+
 #EXTINF:-82 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtcLM0lLIpQmlJTZasFHPw7Z8yacJsK2z1DhsVzr6n4dUy_qdBEjtUg&s=10",kappatv
 https://rebrand.ly/Kappatv-55
+
 #EXTINF:-83 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR041t2Nk0g0f-qO8SY71VcLRJ5Fbjx7DZPCw&usqp=CAU",Sun Music
 
 
@@ -222,25 +315,33 @@ https://rebrand.ly/Kappatv-55
 
 #EXTINF:-84 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
 https://rebrand.ly/DiscoveryKids-44
+
 #EXTINF:-85 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel 
 
 
 #EXTINF:-86 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
 https://rebrand.ly/Sonic-87
+
 #EXTINF:-87 tvg-id="(no tvg-id)" tvg-name="Wow Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4PLdt_i-luncy01BbM1UnsUPVskXPKaD1WKIWi4Z7OxnayPc7RE4QMV&s=10",Wow Kids
 https://rebrand.ly/WowKids-65
+
 #EXTINF:-88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6EaVbnwfa9LMxGcdC8dI-3_qQ3l-Je-l-A&usqp=CAU" , Hungama
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016", Rongeen tv   
 https://rebrand.ly/Rongeentv-54
+
 #EXTINF:-89 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
 https://rebrand.ly/Nick-66
+
 #EXTINF:-90 tvg-id="(no tvg-id)" tvg-name="Nick jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
 https://rebrand.ly/NickJr-32
+
 #EXTINF:-92 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
 https://rebrand.ly/CartoonNetwork-mm
+
 #EXTINF:-93 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay    
 https://rebrand.ly/SonyYay-44
+
 #EXTINF:-94 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
 
 #EXTINF:-95 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
@@ -251,50 +352,69 @@ https://rebrand.ly/SonyYay-44
 
 #EXTINF:-96 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6cIrsbeGfVkNSkrEzZKJCeKbszSfmwpJQA&usqp=CAU",Love Nature 
 https://rebrand.ly/LoveNature-cv
+
 #EXTINF:-97 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET [Hindi]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
 https://rebrand.ly/AnimalPlanet-56
+
 #EXTINF:-98 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
 https://rebrand.ly/Discovery-787
+
 #EXTINF:-99 tvg-id="(no tvg-id)" tvg-name="Discovery Tarbu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
 https://rebrand.ly/DiscoveryTurbo-77
+
 #EXTINF:-100 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
 https://rebrand.ly/DiscoveryScience-66
+
 #EXTINF:-101 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
 https://rebrand.ly/History-546
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
 https://rebrand.ly/CGTN-documentary
+
 #EXTINF:-102 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
 https://rebrand.ly/Nasa-656
+
 #EXTINF:-103 tvg-id="(no tvg-id)" tvg-name="National Geographic HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
 https://rebrand.ly/national-geography
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",TravelXP 
 https://rebrand.ly/Trabelxp-555
+
 #EXTINF:-104 tvg-id="(no tvg-id)" tvg-name="Sony Ten" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-ten.png",Sony Ten
 
 #EXTINF:-105 tvg-logo="http://dugdugilive.com/img/channels/ten1.png",Sony Ten 1 HD 
 https://rebrand.ly/Sonyten1-re
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN2 HD" tvg-logo="https://imgur.com/UChLr4t.png",SONY TEN2 HD
 https://rebrand.ly/SonyTen2-rtt
+
 #EXTINF:-106 tvg-id="(no tvg-id)"tvg-name="Ten Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports 
 https://rebrand.ly/TenSports-554
+
 #EXTINF:-107 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-six.png",Sony Six
 https://rebrand.ly/SonySix-44
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/Sony_TEN1HD_23oct_masthead_logo.png", Sony Sports 1   
 https://rebrand.ly/SonySports-1-
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2C88os_DEEu3n0u1D4k2WRbQ3K0qGe2jPiQ&usqp=CAU", Sony Sports 2   
 https://rebrand.ly/SonySports-2-
+
 #EXTINF:-108 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
 https://rebrand.ly/TSports-34
+
 #EXTINF:-109 tvg-logo="http://tvtolive.com/wp-content/uploads/Red-Bull-TV-tvtolive.com_.jpg",Red-Bull-TV 
 https://rebrand.ly/RedBull-434
+
 #EXTINF:-110 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
 https://rebrand.ly/StarSports-1-
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png",STAR SPORTS 2 HD
 https://rebrand.ly/StarSports-2-
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png", ESPN   
 https://rebrand.ly/ESPN-66
+
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 https://rebrand.ly/PtvSports-545
-
-
 
