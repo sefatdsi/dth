@@ -225,7 +225,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/20.m3u8
 https://tvs1.aynaott.com/ColorsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HUM HD" tvg-logo="https://imgur.com/EXGKPmc.png",HUM HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
 
 #EXTINF:-48 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFH7PR4otwE3F70UnM9xVLTIhBdaaQZo7s7g4jpPPsfNyXFgUQY6RICoRv&s=10",Sony pix 
 http://bdiptv.net:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
@@ -241,7 +241,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
 
 #EXTINF:-52 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgJT_R72WibPdGtEtogxo0rpybLya6UTOQMQ&usqp=CAU",Star Utsav 
 
-#EXTINF:-53 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-UDmeLbcojzJPzuwplE9Y6H3CynxgFw20Q&usqp=CAU",wow-tv
+#EXTINF:-53 
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYlJyNjyXM1eMpj7jHIDAdfC_g-gkeLXHqWw&usqp=CAU",wow-tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
@@ -334,6 +335,9 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/30.m3u8
 #EXTINF:-72 tvg-logo="https://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
+#EXTINF:79 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThnJjjrl3gWzg5Zxf-QcwpPRsj8nHtOhBavg&usqp=CAU”,MTV HD 
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAv6q0j_3GdCxHOYa3jrQYXIbxSxJ9xZ61w&usqp=CAU",Film+
 https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
 
@@ -362,9 +366,6 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/60.m3u8\60.m3u8
 
 #EXTINF:-78 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjDWhhkdofHQszVTV6F9xoyk-wg89U-gUag&usqp=CAU",ZOOM 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/43.m3u8
-
-#EXTINF:79 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdS3rIVDL7RovhL4YABkusMCBnOYq35M4RHA&usqp=CAU”,MTV Music
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://imgur.com/wg3N1VT.png",MUSIC INDIA
 http://xtream.efiberbd.net:8080/live/mkaua/stream/44.m3u8\44.m3u8
@@ -455,8 +456,4 @@ http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
-
-
-
-
 
