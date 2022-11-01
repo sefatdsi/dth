@@ -9,8 +9,8 @@ href="/live/Duronto-M/tracks-v1/index.fmp4.m3u8"
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/136619.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv  
-http://atvonlinebd.xyz:8880/live  a href="/1354.ts"
- href="/live/1354.ts"
+http://clientsportals.com:2095 a href="/live/eSN1tfXB/f6QW2ugz/136619.ts"
+ href="/136619.ts"
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
