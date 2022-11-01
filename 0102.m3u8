@@ -46,14 +46,14 @@ http://103.121.14.18/hls/nexus.m3u8
 #live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
-http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
+https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8 href="15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8"
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
+https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8 http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV 
-http://15.1.5.14:8082/GAZI-TV-D/index.m3u8
-http://103.121.14.18/hls/Gazi-TV.m3u8
+http:// href="tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8" href="15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8"
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee ২৪ ঘন্টা" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee ২৪ ঘন্টা
