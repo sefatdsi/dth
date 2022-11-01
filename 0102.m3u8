@@ -53,7 +53,7 @@ https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8 href="15.1.5.14:8082/SATV
 https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8 http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV 
-http:// href="tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8" href="15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8"
+http:// href="https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8" href="http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8"
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee ২৪ ঘন্টা" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee ২৪ ঘন্টা
