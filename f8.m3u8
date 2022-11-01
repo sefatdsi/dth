@@ -9,7 +9,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic 
-http://xtream.efiberbd.net:8080/live/mkaua/stream/14.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 
 #EXTINF:-2 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
@@ -27,7 +27,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tvs1.aynaott.com/asiantv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-7 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-8 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
 http://208.86.19.13:81/693.stream/index.m3u8
@@ -105,7 +105,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://bdiptv.net:8282/duronto-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJNZIdmTvSOnDJoA4if3JLiMrbrUOsJM0UQ&usqp=CAU", Bijoy Tv   
-https://tvs1.aynaott.com/bijoytv/index.m3u8
+http://cdn01.palki.tv/live/BijoyTV-M/index.fmp4.m3u8
 
 #EXTINF:-34 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0MFeVReUu9G38M_HyX5rxnK_FEmHEaWgDQ&usqp=CAU", Amar Bangla 
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
@@ -174,12 +174,48 @@ http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sun-bangla.png",SUN BANGLA
 
 #EXTINF:-44 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6W5CteSxlY1BnPyLmKWkZKwSpmBICR8tg&usqp=CAU",Sony Aath 
-https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
+http://bdiptv.net:8282/Sonyaath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-45 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKURTsVqVjFHOJNWtnEYCpuBBrF55kd2x11tbBDaoyyRSCoiDvKnz_AF4b&s=10",Akash Aath
 
+Kids
+
+
+#EXTINF:-84 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
+https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-85 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel 
+
+
+#EXTINF:-86 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
+https://rcsfacility.com/jiotv/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
+
+#EXTINF:-87 tvg-id="(no tvg-id)" tvg-name="Wow Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4PLdt_i-luncy01BbM1UnsUPVskXPKaD1WKIWi4Z7OxnayPc7RE4QMV&s=10",Wow Kids
+https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
+
+#EXTINF:-88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6EaVbnwfa9LMxGcdC8dI-3_qQ3l-Je-l-A&usqp=CAU" , Hungama
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016", Rongeen tv   
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
+
+#EXTINF:-89 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
+https://rcsfacility.com/jiotv/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
+
+#EXTINF:-90 tvg-id="(no tvg-id)" tvg-name="Nick jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
+http://15.1.5.14:8082/nick-jr/index.m3u8
+
+#EXTINF:-92 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+
+#EXTINF:-93 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay    
+https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-94 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
+
+#EXTINF:-95 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
+
 #EXTINF:-46 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__5-T6-CNE8kPRxLfMOtwQQT6LiAyzzTiRArP4-KnNZGHglv5SGqb4T3E&s=10",Star Plus
-http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/20.m3u8
 
 #EXTINF:-47 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIXHGi2nByvZoSumBmyzxhoBzMqkXBOYPEw&usqp=CAU",Colors HD 
 https://tvs1.aynaott.com/ColorsHD/index.m3u8
@@ -188,10 +224,10 @@ https://tvs1.aynaott.com/ColorsHD/index.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
 
 #EXTINF:-48 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFH7PR4otwE3F70UnM9xVLTIhBdaaQZo7s7g4jpPPsfNyXFgUQY6RICoRv&s=10",Sony pix 
-https://tvs1.aynaott.com/SonyPix/index.m3u8
+http://bdiptv.net:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-49 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SABTVHD1_Masthead_logo.png",Sony Sab
-https://tvs1.aynaott.com/SabHD/index.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/23.m3u8
 
 #EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj1-EduM1OydXK6qnMzupeMXd9TG28cP69g&usqp=CAU",Sony HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/22.m3u8
@@ -218,7 +254,7 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/08.m3u8
 
 #EXTINF:-59 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwngiuZkaRtKSnuHkkHn6NfaudzymFBbeVc7G9TjzhiWy6nZo7aii-uE&s=10",Zee Bangla Cinama
-https://tvs1.aynaott.com/ZeeBangla/index.m3u8
+https://tv.googledrivelinks.com/live.php?c=Zee_Bangla_Cinema&q=1200&e=junk.js
 
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsYuVKKBWmCdz3QNReeQyQnQUHS4rGPRVfw&usqp=CAU",Star Gold
 http://xtream.efiberbd.net:8080/live/mkaua/stream/27.m3u8
@@ -230,10 +266,10 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
 
 #EXTINF:-58 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjJW-9CQNAt0PJpouO8YzJcINbdYd6Ln5TAlKVdE_7kYgkVF5hOaQeE4&s=10",Sony MAX
-https://tvs1.aynaott.com/MaxHD/index.m3u8
+http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
 
 #EXTINF:-60 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU",Zee Cinema
-http://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-61 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeRotRlbDc3-AYZgBd1kW10AXcCGrA0_AUQ&usqp=CAU",Zee Action
 
@@ -255,7 +291,16 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/31.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/42.m3u8
 
 #EXTINF:-55 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamnHC44YehgELnfsZhXLgDVIPNxC9Y6dI0w&usqp=CAU",& pictures
-https://tvs1.aynaott.com/andpictureshd/tracks-v1a1/mono.m3u8?
+http://xtream.efiberbd.net:8080/live/mkaua/stream/28.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/b4u.png",Housefull Movies
+https://idvd.multitvsolution.com//idvo/housefullmovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/monoranjangrand.jpeg",Manoranjan Movie
+https://idvd.multitvsolution.com/idvo/manoranjanmovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/b4ukadak.jpeg",B4U Kadak
+https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLwe-0zUsX7nJ3evybpxDtykELLJjgUsXKg&usqp=CAU", Zing   
 https://tvs1.aynaott.com/zing/index.m3u8
@@ -292,23 +337,23 @@ https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
 #EXTINF:-73 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg-cKSPFPgIy51FYyO4oYPy1-6mIuZXHavCw&usqp=CAU",Fashion TV 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXM__jYtITwmIU2rUjCanPbYVRQZ2svKgmpw&usqp=CAU", PTC Music   
-https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-iUVkezRPEHZd8SDNOykZSagPmd6eqyNqrA&usqp=CAU", 9X Jalwa Tv
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-74 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGgIs7Ca3vltgEaPaCeIphRP9DRjsCnpf1PGFfwG5KozA09AlVCnmAKkX&s=10",ATN Music
-http://xtream.efiberbd.net:8080/live/mkaua/stream/57.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
 #EXTINF:-75 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-rOQXzAJlUrLQYlX_NK5Dn216_1n8VdawzvVJ775&s",kadak-hits
 
 
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Gaan Bangla
-https://tvs1.aynaott.com/gaanbangla/index.m3u8
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-77 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DMbKCZ5bF0tTpG6bUs2NXWvoyQnVdsyfOQ&usqp=CAU",Sangeet Bangla  
 http://xtream.efiberbd.net:8080/live/mkaua/stream/59.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="https://imgur.com/HG69Dgb.png",Bangla Talkies
-https://tvs1.aynaott.com/BanglaTalkies/tracks-v1a1/mono.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/60.m3u8\60.m3u8
 
 #EXTINF:-78 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjDWhhkdofHQszVTV6F9xoyk-wg89U-gUag&usqp=CAU",ZOOM 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/43.m3u8
@@ -320,54 +365,24 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 http://xtream.efiberbd.net:8080/live/mkaua/stream/44.m3u8\44.m3u8
 
 #EXTINF:80 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC0WG26YJlNP030KVn_ZdrmrgHrMISV-DcXw&usqp=CAU”,B4U Music
-https://tvs1.aynaott.com/b4umusic/index.m3u8
+http://bdiptv.net:8282/b4u/tracks-v1a1/mono.m3u8
 
 #EXTINF:-81 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png",9xM 
-http://xtream.efiberbd.net:8080/live/mkaua/stream/45.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-82 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtcLM0lLIpQmlJTZasFHPw7Z8yacJsK2z1DhsVzr6n4dUy_qdBEjtUg&s=10",kappatv
 https://idvd.multitvsolution.com/idvo/kappatv.m3u8
 
 #EXTINF:-83 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR041t2Nk0g0f-qO8SY71VcLRJ5Fbjx7DZPCw&usqp=CAU",Sun Music
 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTXFFZU85shuXO0TXwGkR2nFVcd-xtStbqQ&usqp=CAU", 9X Tashan
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9Xtashan/9Xtashan.isml/9Xtashan-audio_208482_und=208000-video=877600.m3u8
 
-        Kids
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec39ac09c7489ecff.png", DIL SE
+https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-
-#EXTINF:-84 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
-https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8
-
-#EXTINF:-85 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel 
-
-
-#EXTINF:-86 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
-https://rcsfacility.com/jiotv/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
-
-#EXTINF:-87 tvg-id="(no tvg-id)" tvg-name="Wow Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4PLdt_i-luncy01BbM1UnsUPVskXPKaD1WKIWi4Z7OxnayPc7RE4QMV&s=10",Wow Kids
-https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
-
-#EXTINF:-88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6EaVbnwfa9LMxGcdC8dI-3_qQ3l-Je-l-A&usqp=CAU" , Hungama
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016", Rongeen tv   
-http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
-
-#EXTINF:-89 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
-https://rcsfacility.com/jiotv/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
-
-#EXTINF:-90 tvg-id="(no tvg-id)" tvg-name="Nick jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
-http://15.1.5.14:8082/nick-jr/index.m3u8
-
-#EXTINF:-92 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-
-#EXTINF:-93 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay    
-https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-94 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
-
-#EXTINF:-95 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
-
-
+#EXTINF:-1 tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/hungama.jpeg",Bhojpuri Hungama
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
                                                       Infotainment
 
 
@@ -378,13 +393,13 @@ https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 https://tvs1.aynaott.com/animal_planet_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-98 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
-https://tvs1.aynaott.com/discovery_hd/index.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
 
 #EXTINF:-99 tvg-id="(no tvg-id)" tvg-name="Discovery Tarbu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
-https://tvs1.aynaott.com/discovery_turbo/tracks-v1a1/mono.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/\@/2.m3u8
 
 #EXTINF:-100 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
-https://tvs1.aynaott.com/discovery_science/index.m3u8
+http://bdiptv.net:8282/Discovery-Science/tracks-v1a1/mono.m3u8
 
 #EXTINF:-101 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
 https://tvs2.aynaott.com/historyen/tracks-v1a1/mono.m3u8
