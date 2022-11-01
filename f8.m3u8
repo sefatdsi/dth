@@ -69,10 +69,12 @@ http://bdiptv.net:8282/depto-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApHApmFQOuwbeE6DovdDXFSf9ML0cvay0Jw&usqp=CAU",Bangla Vision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
-#EXTINF:-21 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png",Ananda TV
+#EXTINF:-0
+tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png",Ananda TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
-#EXTINF:-22 tvg-logo="http://103.136.200.246/assets/images/banglatv.jpg",Bangla TV  
+#EXTINF:-0 
+tvg-logo="http://103.136.200.246/assets/images/banglatv.jpg",Bangla TV  
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-23 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6paW5JP_tJSBLm3lbwU6eu7fn5PrfwbTlA&usqp=CAU",Boishakhi TV 
