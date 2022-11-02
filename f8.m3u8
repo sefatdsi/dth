@@ -15,7 +15,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-4 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
 https://tvs1.aynaott.com/news24/index.m3u8
@@ -88,7 +88,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://tvs1.aynaott.com/mytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-27 tvg-logo="http://dugdugilive.com/img/channels/mohonatv.png",MOHONA TV 
-http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+https://tvs1.aynaott.com/mohonatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNa32QP7FzvFbI70CrF8slchGl8S-U0zmOeA&usqp=CAU",NAGORIK TV
 http://bdiptv.net:8282/nagorik-tv/index.m3u8
@@ -100,7 +100,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/48.m3u8
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 
 #EXTINF:-31 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUO0D_AIwvfj2g3EfeGB43ObKZ8h0CUp6ew&usqp=CAU",ATN Bangla 
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/49.m3u8
 
 #EXTINF:-33 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
 http://bdiptv.net:8282/duronto-tv/tracks-v1a1/mono.m3u8
@@ -112,7 +112,7 @@ http://cdn01.palki.tv/live/BijoyTV-M/index.fmp4.m3u8
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 
 #EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10",Jamuna Tv
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+https://tvs1.aynaott.com/jamunatv/index.m3u8
 
 #EXTINF:-36 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-dCnJ86VWXRuri7yny0ostFKdiSXZiNktw&usqp=CAU", Channel 9  
 http://xtream.efiberbd.net:8080/live/mkaua/stream/17.m3u8
@@ -280,7 +280,6 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUOYr9d2hw-ZjiF44xBPewpU0x2OK9TPwww&usqp=CAU", Movies Now   
-http://xtream.efiberbd.net:8080/live/mkaua/stream/34.m3u8
 
 #EXTINF:-71 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIile6h7_E952CLWwA4jonDyqW_J9R-tcgEO0IDrisXyVoiwNc8UbIjk&s=10",Zee Bioskop 
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
@@ -453,7 +452,6 @@ http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
-
 
 
 
