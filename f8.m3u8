@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-0 tvg-id="" tvg-name="Deen TV" tvg-logo="https://i.imgur.com/QNCosaS.png",Deen TV
-#http://xtream.efiberbd.net:8080/live/mkaua/stream/15.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/15.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SAUDIA QURAN HD" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
-#http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
@@ -36,6 +36,7 @@ https://tvs1.aynaott.com/somoytv/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-10 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
+https://tvs1.aynaott.com/satv/tracks-v1a1/mono.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-11 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
@@ -129,7 +130,7 @@ https://tvs1.aynaott.com/deshtv/index.m3u8
 https://tempx.jagobd.com:441/live-orgin/deshebideshe.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ALPONA TV" tvg-logo="https://imgur.com/eBKwjJ6.png",ALPONA TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/52.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZKIv_bEqSgH2iYuuEXWYCJgahHCEuIycZQ&usqp=CAU",Mathri Bhumi 
 http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
@@ -186,7 +187,7 @@ https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
 http://bdiptv.net:8282/Sonyaath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-45 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKURTsVqVjFHOJNWtnEYCpuBBrF55kd2x11tbBDaoyyRSCoiDvKnz_AF4b&s=10",Akash Aath
-http://0nelivezer0.rbtvnw.com:21190/vesta/aakaashbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDU6NTM6MzUgQU0maGFzaF92YWx1ZT1hcWFkL1Vwd0U1dUx5QjZQQk10UGdRPT0mdmFsaWRtaW51dGVzPTI=
+#http://0nelivezer0.rbtvnw.com:21190/vesta/aakaashbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDU6NTM6MzUgQU0maGFzaF92YWx1ZT1hcWFkL1Vwd0U1dUx5QjZQQk10UGdRPT0mdmFsaWRtaW51dGVzPTI=
 
 Kids
 
@@ -226,7 +227,7 @@ http://watchindia.net:8880/live/vvv/vvv/2104.m3u8
 #EXTINF:-94 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
 
 #EXTINF:-95 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITbitI1WSKd15RaFvtUHEJmSWENh6p0dxKw&usqp=CAU",Tom & Jerry  
-http://starshare.live:8080//live/15609478936/46982679863/121301.ts
+http://starshare.live:8080//live/15609478936/46982679863/121301.ts?index.m3u8
 
 #EXTINF:-46 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__5-T6-CNE8kPRxLfMOtwQQT6LiAyzzTiRArP4-KnNZGHglv5SGqb4T3E&s=10",Star Plus
 http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
@@ -235,7 +236,7 @@ http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/ColorsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HUM HD" tvg-logo="https://imgur.com/EXGKPmc.png",HUM HD
-#http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
 
 #EXTINF:-48 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFH7PR4otwE3F70UnM9xVLTIhBdaaQZo7s7g4jpPPsfNyXFgUQY6RICoRv&s=10",Sony pix 
 http://bdiptv.net:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
@@ -273,7 +274,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/08.m3u8
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla_Cinema&q=1200&e=junk.js
 
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsYuVKKBWmCdz3QNReeQyQnQUHS4rGPRVfw&usqp=CAU",Star Gold
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/136582.ts
+http://bdiptv.net:8282/star-gold/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1174px-Star_Gold_2.svg.png", Star Gold-2  
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
@@ -285,12 +286,12 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
 
 #EXTINF:-60 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU",Zee Cinema
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+http://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-61 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeRotRlbDc3-AYZgBd1kW10AXcCGrA0_AUQ&usqp=CAU",Zee Action
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png", Star Bharat  
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUOYr9d2hw-ZjiF44xBPewpU0x2OK9TPwww&usqp=CAU", Movies Now   
 
@@ -368,7 +369,7 @@ https://bd.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
 
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0a/%E0%A6%97%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Gaan Bangla
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
+https://tvs1.aynaott.com/gaanbangla/index.m3u8
 
 #EXTINF:-77 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DMbKCZ5bF0tTpG6bUs2NXWvoyQnVdsyfOQ&usqp=CAU",Sangeet Bangla  
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
@@ -405,12 +406,15 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9Xtashan/9Xtashan.isml/9Xtashan-audi
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-97 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET [Hindi]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
+https://tvs1.aynaott.com/animal_planet_hd/tracks-v1a1/mono.m3u8
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/136613.ts
 
 #EXTINF:-98 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
+https://tvs1.aynaott.com/discovery_hd/index.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
 
 #EXTINF:-99 tvg-id="(no tvg-id)" tvg-name="Discovery Tarbu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
+https://tvs1.aynaott.com/discovery_turbo/tracks-v1a1/mono.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/\@/2.m3u8
 
 #EXTINF:-100 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
@@ -437,9 +441,11 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN2 HD" tvg-logo="https://imgur.com/UChLr4t.png",SONY TEN2 HD
+https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 
 #EXTINF:-106 tvg-id="(no tvg-id)"tvg-name="Ten Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports 
+https://tvs1.aynaott.com/SonySix/index.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/01.m3u8
 
 #EXTINF:-107 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-six.png",Sony Six
@@ -466,11 +472,13 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/136612.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png",STAR SPORTS 2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 
+#EXTINF:0  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg",A SPORTS
+https://tvs2.aynaott.com/asports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png", ESPN   
-http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
+#http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
-
 
 
