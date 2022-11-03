@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-0 tvg-id="" tvg-name="Deen TV" tvg-logo="https://i.imgur.com/QNCosaS.png",Deen TV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/15.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/15.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SAUDIA QURAN HD" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
@@ -95,7 +95,8 @@ https://tvs1.aynaott.com/mohonatv/index.m3u8
 http://bdiptv.net:8282/nagorik-tv/index.m3u8
 
 #EXTINF:-28 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png",NTV 
-http://xtream.efiberbd.net:8080/live/mkaua/stream/48.m3u8
+http://bdiptv.net:8282/Ntv/tracks-v1a1/mono.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/48.m3u8
 
 #EXTINF:-29 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenBJ35xD5rzK3vIkzuSXCZqyDRWywIqxhNQ&usqp=CAU",RTV 
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
@@ -185,6 +186,7 @@ https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
 http://bdiptv.net:8282/Sonyaath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-45 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKURTsVqVjFHOJNWtnEYCpuBBrF55kd2x11tbBDaoyyRSCoiDvKnz_AF4b&s=10",Akash Aath
+http://0nelivezer0.rbtvnw.com:21190/vesta/aakaashbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDU6NTM6MzUgQU0maGFzaF92YWx1ZT1hcWFkL1Vwd0U1dUx5QjZQQk10UGdRPT0mdmFsaWRtaW51dGVzPTI=
 
 Kids
 
@@ -277,7 +279,7 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/136582.ts
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://medianet.mv/media/channel/160x0-icon.png",COLORS CINEPLEX HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
 
 #EXTINF:-58 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjJW-9CQNAt0PJpouO8YzJcINbdYd6Ln5TAlKVdE_7kYgkVF5hOaQeE4&s=10",Sony MAX
 http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
@@ -296,12 +298,12 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-67 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqSjIRc89DS7ON3n7UuPAHggQQO7dS4fd4A&usqp=CAU",Star Movies 
-http://xtream.efiberbd.net:8080/live/mkaua/stream/31.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/31.m3u8
 
 #EXTINF:-68 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cSuDKPYIYbzPLYhylVi86VyAj0Y9aPYSS15zaJmOPhS75GhALL0WRXw&s=10", Star Movies Select 
 
 #EXTINF:-63 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUwJHb-yGTn-KK-H4-AR-Iis33gReG3_vqA&usqp=CAU",& Flix
-http://xtream.efiberbd.net:8080/live/mkaua/stream/42.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/42.m3u8
 
 #EXTINF:-55 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamnHC44YehgELnfsZhXLgDVIPNxC9Y6dI0w&usqp=CAU",& pictures
 https://tvs1.aynaott.com/andpictureshd/tracks-v1a1/mono.m3u8
@@ -332,12 +334,12 @@ https://idvd.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-69 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLKUQ7ecuFJQU_l6fpL4K7yAQjC6XGh29-UQ&usqp=CAU", The Movie HUB  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUE31jmuoZWC_kUh5-OwadRgWG2St9JG2TKksaOtIqkUyxZai-3TX1agwF&s=10", &Prive   
-http://xtream.efiberbd.net:8080/live/mkaua/stream/41.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/41.m3u8
 
 #EXTINF:-70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgU0NXo0pr-Gl46Iz8dmFJ8AQ9RROXhLvvnA&usqp=CAU",Tamil-vision tv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToDd4oT0e_sgxlDDcb56o4k3NVfqHWRxxgUA&usqp=CAU",Dhinchaak   
-http://xtream.efiberbd.net:8080/live/mkaua/stream/30.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/30.m3u8
 
 #EXTINF:-72 tvg-logo="https://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
@@ -369,12 +371,15 @@ https://bd.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-77 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DMbKCZ5bF0tTpG6bUs2NXWvoyQnVdsyfOQ&usqp=CAU",Sangeet Bangla  
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/59.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="https://imgur.com/HG69Dgb.png",Bangla Talkies
-http://xtream.efiberbd.net:8080/live/mkaua/stream/60.m3u8\60.m3u8
+https://tvs1.aynaott.com/BanglaTalkies/tracks-v1a1/mono.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/60.m3u8\60.m3u8
 
 #EXTINF:-78 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjDWhhkdofHQszVTV6F9xoyk-wg89U-gUag&usqp=CAU",ZOOM 
+https://tvs1.aynaott.com/BanglaTalkies/tracks-v1a1/mono.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/43.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://imgur.com/wg3N1VT.png",MUSIC INDIA
