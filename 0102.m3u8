@@ -140,13 +140,13 @@ http://103.121.14.18/hls/dis-science.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThp-XJUkVxt2H9R7Z1EPWQLcwxCASfCwG_gw&usqp=CAU",History Channel http://list.iptvcat.com/my_list/s///64646d009b46eebc420f307b7731bff4.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+https://ntv1.akamaized.net/hs/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+https://ntv1.akamaized.net/hls/live2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO Wild " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO Wild
 http://103.121.14.18/hls/ngohd.m3u8
-admdn2.cdn.mangomolo.com/nagtv//smil:nagtv.stream.smil/playlist.m3u8
-http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
+admdn2.cdn.mangomolo.com/nagtv//mil:nagtv.stream.smil/playlist.m3u8
+http://stream.amrbd.com:8082Nat-Geo/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-ten.png",Sony Ten
 
