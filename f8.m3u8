@@ -45,6 +45,9 @@ https://tvs1.aynaott.com/atnnews/tracks-v1a1/mono.m3u8
 #EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5wuD4hM6A3DSmyRGT3VOhzCB1ilgHj5mGQ&usqp=CAU",Channel-S
 https://bd.jagobd.com:444/live-orgin/chsukoff.stream/chunks.m3u8
 
+#EXTINF:-13 tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV HD
+http://bdiptv.net:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-13 tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV 
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1666870200-now.m3u8
 
@@ -460,14 +463,19 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png", Sony Sports 5   
 http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
 
-#EXTINF:-108 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
+#EXTINF:-0 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF:-108 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports SD 
 http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-109 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGLQW9WuuEdBPu0Vpnvf05X00wkx83IE8fnl6qAhgJHDihDQUEYZnU9s&s=10",Red-Bull-TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT//master_1660.m3u8
 
 #EXTINF:-110 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/136612.ts
+http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png",STAR SPORTS 2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
