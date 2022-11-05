@@ -230,7 +230,7 @@ http://watchindia.net:8880/live/vvv/vvv/2104.m3u8
 #EXTINF:-94 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
 
 #EXTINF:-95 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITbitI1WSKd15RaFvtUHEJmSWENh6p0dxKw&usqp=CAU",Tom & Jerry  
-http://starshare.live:8080//live/15609478936/46982679863/121301.ts?index.m3u8
+#http://starshare.live:8080//live/15609478936/46982679863/121301.ts
 
 #EXTINF:-46 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__5-T6-CNE8kPRxLfMOtwQQT6LiAyzzTiRArP4-KnNZGHglv5SGqb4T3E&s=10",Star Plus
 http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
@@ -276,7 +276,10 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/08.m3u8
 #EXTINF:-59 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwngiuZkaRtKSnuHkkHn6NfaudzymFBbeVc7G9TjzhiWy6nZo7aii-uE&s=10",Zee Bangla Cinama
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla_Cinema&q=1200&e=junk.js
 
-#EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsYuVKKBWmCdz3QNReeQyQnQUHS4rGPRVfw&usqp=CAU",Star Gold
+#EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsYuVKKBWmCdz3QNReeQyQnQUHS4rGPRVfw&usqp=CAU",Star Gold HD
+http://xtream.efiberbd.net:8080/live/mkaua/stream/27.m3u8
+
+#EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGW1qG-NU2iZyi3OYDnKqSK3VYcEcEHRb2Fw&usqp=CAU",Star Gold
 http://bdiptv.net:8282/star-gold/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1174px-Star_Gold_2.svg.png", Star Gold-2  
@@ -284,6 +287,9 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://medianet.mv/media/channel/160x0-icon.png",COLORS CINEPLEX HD
 #http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
+
+#EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony MAX HD
+https://tvs1.aynaott.com/MaxHD/index.m3u8
 
 #EXTINF:-58 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjJW-9CQNAt0PJpouO8YzJcINbdYd6Ln5TAlKVdE_7kYgkVF5hOaQeE4&s=10",Sony MAX
 http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
@@ -294,7 +300,7 @@ http://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-61 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeRotRlbDc3-AYZgBd1kW10AXcCGrA0_AUQ&usqp=CAU",Zee Action
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png", Star Bharat  
-#http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUOYr9d2hw-ZjiF44xBPewpU0x2OK9TPwww&usqp=CAU", Movies Now   
 
@@ -302,12 +308,12 @@ http://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-67 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqSjIRc89DS7ON3n7UuPAHggQQO7dS4fd4A&usqp=CAU",Star Movies 
-#http://xtream.efiberbd.net:8080/live/mkaua/stream/31.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/31.m3u8
 
 #EXTINF:-68 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cSuDKPYIYbzPLYhylVi86VyAj0Y9aPYSS15zaJmOPhS75GhALL0WRXw&s=10", Star Movies Select 
 
 #EXTINF:-63 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUwJHb-yGTn-KK-H4-AR-Iis33gReG3_vqA&usqp=CAU",& Flix
-#http://xtream.efiberbd.net:8080/live/mkaua/stream/42.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/42.m3u8
 
 #EXTINF:-55 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamnHC44YehgELnfsZhXLgDVIPNxC9Y6dI0w&usqp=CAU",& pictures
 https://tvs1.aynaott.com/andpictureshd/tracks-v1a1/mono.m3u8
@@ -338,7 +344,7 @@ https://idvd.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-69 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLKUQ7ecuFJQU_l6fpL4K7yAQjC6XGh29-UQ&usqp=CAU", The Movie HUB  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUE31jmuoZWC_kUh5-OwadRgWG2St9JG2TKksaOtIqkUyxZai-3TX1agwF&s=10", &Prive   
-#http://xtream.efiberbd.net:8080/live/mkaua/stream/41.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/41.m3u8
 
 #EXTINF:-70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgU0NXo0pr-Gl46Iz8dmFJ8AQ9RROXhLvvnA&usqp=CAU",Tamil-vision tv
 
@@ -430,6 +436,7 @@ https://tvs2.aynaott.com/historyen/tracks-v1a1/mono.m3u8
 http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-102 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8?5474
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u
 
 #EXTINF:-103 tvg-id="(no tvg-id)" tvg-name="National Geographic HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
