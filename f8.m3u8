@@ -106,7 +106,7 @@ http://bdiptv.net:8282/Ntv/tracks-v1a1/mono.m3u8
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 
 #EXTINF:-31 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUO0D_AIwvfj2g3EfeGB43ObKZ8h0CUp6ew&usqp=CAU",ATN Bangla 
-https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
+https://tvs2.aynaott.com/atnbangla/tracks-v1a1/index.m3u8
 
 #EXTINF:-33 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
 http://bdiptv.net:8282/duronto-tv/tracks-v1a1/mono.m3u8
@@ -123,8 +123,8 @@ https://tvs1.aynaott.com/jamunatv/index.m3u8
 #EXTINF:-36 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-dCnJ86VWXRuri7yny0ostFKdiSXZiNktw&usqp=CAU", Channel 9  
 https://tvs1.aynaott.com/channel9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://imgur.com/RtTjtxS.png",CHANNEL I
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131627
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://imgur.com/RtTjtxS.png",Channel i
+https://tvs2.aynaott.com/channeli/tracks-v1a1/index.m3u8
 
 #EXTINF:-37 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFuxaA4QizoZAHTzEMhXTQKFA664U0C5i-g&usqp=CAU", DESH TV  
 https://tvs1.aynaott.com/deshtv/index.m3u8
@@ -251,6 +251,7 @@ https://tvs1.aynaott.com/SabHD/index.m3u8
 http://tvs2.aynaott.com/SonyHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-51 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p9yJUKDreKMSMcAfsblLBVxtZCVt-sYaSQ&usqp=CAU",Zee TV
+http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
 https://tvs2.aynaott.com/ZeeTvHD/tracks-v1a1/index-1666933200-now.m3u8
 
 #EXTINF:-52 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgJT_R72WibPdGtEtogxo0rpybLya6UTOQMQ&usqp=CAU",Star Utsav 
@@ -272,6 +273,9 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 #EXTINF:-56 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpGKOrjC_G_u-aPXXJABUm6UlHZaFAYKsDA&usqp=CAU", Jalsha Movies HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/08.m3u8
+
+#EXTINF:-56 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJ8MpC25cC8HWZHTs0gep0zyB6c_SANjjJw&usqp=CAU", Jalsha Movies SD
+http://str24.l9574.com/617.stream/index.m3u8
 
 #EXTINF:-59 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwngiuZkaRtKSnuHkkHn6NfaudzymFBbeVc7G9TjzhiWy6nZo7aii-uE&s=10",Zee Bangla Cinama
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla_Cinema&q=1200&e=junk.js
@@ -490,10 +494,12 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 #EXTINF:0  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg",A SPORTS
 https://tvs2.aynaott.com/asports/tracks-v1a1/mono.m3u8
 
+#EXTINF:0  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9486.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png", ESPN   
 #http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
-
 
