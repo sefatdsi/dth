@@ -70,7 +70,7 @@ http://cdn01.palki.tv/live/BTV-M/tracks-v1/index.fmp4.m3u8
 https://tvs1.aynaott.com/maasrangatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-23 tvg-id="(notvg-id)" tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto TV  
-http://bdiptv.net:8282/depto-bangla/tracks-v1a1/mono.m3u8
+http://ott.sonyplex.net:80/play/WHXaooUjKdlxymYN2-fwxtOgTj6u9QaZl9miRr2uHWs/ts
 
 #EXTINF:-24 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApHApmFQOuwbeE6DovdDXFSf9ML0cvay0Jw&usqp=CAU",Bangla Vision
 https://tvs2.aynaott.com/banglavision/index.m3u8
@@ -111,6 +111,7 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 https://tvs2.aynaott.com/atnbangla/tracks-v1a1/index.m3u8
 
 #EXTINF:-36 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/12.m3u8
 http://bdiptv.net:8282/duronto-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-37 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",Duronto-tv HD
@@ -175,6 +176,7 @@ http://208.86.19.13:81/904.stream/index.m3u8
 https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 
 #EXTINF:- 57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQ7mOxrhyi33NJA6ik6KIt9lCQG_AmQ_9dA&usqp=CAU",Star Jalsha SD
+http://ott.sonyplex.net:80/play/WHXaooUjKdlxymYN2-fwxs30vcdvKoVZUKYpZgUJgAw/ts
 http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-58 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU",Zee Bangla HD
@@ -193,6 +195,7 @@ EXTINF:-61 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/s
 https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-63 tvg-id="(no tvg-id)" tvg-name="Sony Aath SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6W5CteSxlY1BnPyLmKWkZKwSpmBICR8tg&usqp=CAU",Sony Aath SD
+http://ott.sonyplex.net:80/play/WHXaooUjKdlxymYN2-fwxraawQM-SBYw9driythhD40/ts
 http://bdiptv.net:8282/Sonyaath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-64 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKURTsVqVjFHOJNWtnEYCpuBBrF55kd2x11tbBDaoyyRSCoiDvKnz_AF4b&s=10",Akash Aath
@@ -261,7 +264,8 @@ https://tvs1.aynaott.com/ColorsHD/index.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
 
 #EXTINF:-85 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFH7PR4otwE3F70UnM9xVLTIhBdaaQZo7s7g4jpPPsfNyXFgUQY6RICoRv&s=10",Sony pix 
-http://bdiptv.net:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
+#http://bdiptv.net:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
+https://tvs1.aynaott.com/SonyPix/index.m3u8
 
 #EXTINF:-86 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SABTVHD1_Masthead_logo.png",Sony Sab
 https://tvs1.aynaott.com/SabHD/index.m3u8
@@ -321,7 +325,8 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 https://tvs1.aynaott.com/MaxHD/index.m3u8
 
 #EXTINF:-104 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjJW-9CQNAt0PJpouO8YzJcINbdYd6Ln5TAlKVdE_7kYgkVF5hOaQeE4&s=10",Sony MAX
-http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
+#http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
+http://ott.sonyplex.net:80/play/WHXaooUjKdlxymYN2-fwxu2wVGcmRa5u01fhoavvcfk/ts
 
 #EXTINF:-105 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU",Zee Cinema
 http://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
@@ -462,7 +467,8 @@ https://tvs1.aynaott.com/discovery_turbo/tracks-v1a1/mono.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/\@/2.m3u8
 
 #EXTINF:-170 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
-http://bdiptv.net:8282/Discovery-Science/tracks-v1a1/mono.m3u8
+#http://bdiptv.net:8282/Discovery-Science/tracks-v1a1/mono.m3u8
+https://tvs1.aynaott.com/discovery_science/index.m3u8
 
 #EXTINF:-171 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
 https://tvs2.aynaott.com/historyen/tracks-v1a1/mono.m3u8
@@ -510,7 +516,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index.m3u8
 
 #EXTINF:-185 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports SD 
-http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
+#http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
+http://ott.sonyplex.net:80/play/WHXaooUjKdlxymYN2-fwxk46H6cyD84Exdxg_3opGDU/ts
 
 #EXTINF:-186 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGLQW9WuuEdBPu0Vpnvf05X00wkx83IE8fnl6qAhgJHDihDQUEYZnU9s&s=10",Red-Bull-TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT//master_1660.m3u8
@@ -538,5 +545,7 @@ http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-193 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIY7gGXSO_AQFF8fE9Xsag_Fen6pWIL3r5w&usqp=CAU", Champions tv 1 
 #http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
+
 
 
