@@ -202,7 +202,10 @@ https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-86 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
-https://rcsfacility.com/jiotv/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
+#https://rcsfacility.com/jiotv/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
+
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg",PBS KIDS
+https://tvs2.aynaott.com/pbskids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-87 tvg-id="(no tvg-id)" tvg-name="Wow Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4PLdt_i-luncy01BbM1UnsUPVskXPKaD1WKIWi4Z7OxnayPc7RE4QMV&s=10",Wow Kids
 https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
@@ -216,7 +219,13 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 https://rcsfacility.com/jiotv/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
 
 #EXTINF:-90 tvg-id="(no tvg-id)" tvg-name="Nick jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
-http://15.1.5.14:8082/nick-jr/index.m3u8
+http://bdiptv.net:8282/nick-jr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTMl8y3G_QDpCEpZ3e3zSfCWuUhZOxq4jH4g&usqp=CAU", Nick Pluto
+https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/945-9457651_nickelodeon-hd-new-logo.png", Nick HD+
+http://103.151.43.102:8801/play/a03f/index.m3u8
 
 #EXTINF:-92 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
@@ -256,6 +265,9 @@ https://tvs2.aynaott.com/ZeeTvHD/tracks-v1a1/index-1666933200-now.m3u8
 
 #EXTINF:-52 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgJT_R72WibPdGtEtogxo0rpybLya6UTOQMQ&usqp=CAU",Star Utsav 
 
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/074ede35-9396-4470-a0cd-e350f5e351f3_180x180_SonyWah.jpg",SONY WAH
+https://tvs1.aynaott.com/SonyWah/tracks-v1a1/mono.m3u8
+
 #EXTINF:-53 
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYlJyNjyXM1eMpj7jHIDAdfC_g-gkeLXHqWw&usqp=CAU",wow-tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -279,6 +291,9 @@ http://str24.l9574.com/617.stream/index.m3u8
 
 #EXTINF:-59 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwngiuZkaRtKSnuHkkHn6NfaudzymFBbeVc7G9TjzhiWy6nZo7aii-uE&s=10",Zee Bangla Cinama
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla_Cinema&q=1200&e=junk.js
+
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/14cdd9d1-e5f3-4c14-80ef-320d6b21591a_180x180_ZeeCafeHD.jpg",ZEE CAFE
+https://tvs1.aynaott.com/ZeeCafeHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsYuVKKBWmCdz3QNReeQyQnQUHS4rGPRVfw&usqp=CAU",Star Gold HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/27.m3u8
@@ -418,6 +433,12 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9Xtashan/9Xtashan.isml/9Xtashan-audi
 #EXTINF:-96 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6cIrsbeGfVkNSkrEzZKJCeKbszSfmwpJQA&usqp=CAU",Love Nature 
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg",BBC EARTH
+https://tvs1.aynaott.com/BbcEarth/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3c1364d9-36a7-4664-8a3a-f13c5a7db212_180x180_TRT.jpg" tvg-logo-small=",TRT WORLD
+https://tvs1.aynaott.com/trtworld/tracks-v1a1/mono.m3u8
+
 #EXTINF:-97 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET [Hindi]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
 https://tvs1.aynaott.com/animal_planet_hd/tracks-v1a1/mono.m3u8
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/136613.ts
@@ -486,6 +507,7 @@ http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT//master_1660.m3u8
 
 #EXTINF:-110 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
+https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png",STAR SPORTS 2 HD
@@ -495,6 +517,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 https://tvs2.aynaott.com/asports/tracks-v1a1/mono.m3u8
 
 #EXTINF:0  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9494.ts
 http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9486.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png", ESPN   
@@ -502,4 +525,9 @@ http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9486.ts
 
 #EXTINF:-111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIY7gGXSO_AQFF8fE9Xsag_Fen6pWIL3r5w&usqp=CAU", Champions tv 1 
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
+
 
