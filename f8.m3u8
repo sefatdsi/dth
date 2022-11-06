@@ -49,7 +49,8 @@ https://bd.jagobd.com:444/live-orgin/chsukoff.stream/chunks.m3u8
 http://bdiptv.net:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-13 tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV 
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1666870200-now.m3u8
+#https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1666870200-now.m3u8
+http://ott.sonyplex.net:80/play/WHXaooUjKdlxymYN2-fwxqlYRoyUvaW1RFd-SplweqQ/ts
 
 #EXTINF:-14 tvg-id="(no tvg-id)" tvg-name="Zee ২৪ ঘন্টা" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee ২৪ ঘন্টা
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
@@ -62,7 +63,8 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda//master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgztOKN0rcpkp9mLR1TohZmXSj1vg8TB-Xog&usqp=CAU", Kolkata Tv   
 
 #EXTINF:-17 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
-https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
+#https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/BTV-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-18 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
 https://tvs1.aynaott.com/maasrangatv/tracks-v1a1/mono.m3u8
@@ -136,7 +138,7 @@ https://tempx.jagobd.com:441/live-orgin/deshebideshe.stream/chunks.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/52.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZKIv_bEqSgH2iYuuEXWYCJgahHCEuIycZQ&usqp=CAU",Mathri Bhumi 
-http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
+#http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JTub.png",DOYEL TV
 https://tempx.jagobd.com:441/live-orgin/doyeltv.stream/chunks.m3u8
@@ -176,7 +178,8 @@ http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9bqiKDOyqawfAuy2jMUJT4hNvdC_QnNbyJA&usqp=CAU",ZEE BANGLA SD
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131691
+#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131691
+http://ott.sonyplex.net:80/play/WHXaooUjKdlxymYN2-fwxpjSR6OhDAK4hJ2tncLMZW8/ts
 
 #EXTINF:-43 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
 http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
@@ -216,7 +219,8 @@ https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 
 #EXTINF:-89 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
-https://rcsfacility.com/jiotv/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
+#https://rcsfacility.com/jiotv/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
+http://ott.sonyplex.net:80/play/WHXaooUjKdlxymYN2-fwxmCACe3R_XQuRxUl-6_X-bA/ts
 
 #EXTINF:-90 tvg-id="(no tvg-id)" tvg-name="Nick jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
 http://bdiptv.net:8282/nick-jr/tracks-v1a1/mono.m3u8
@@ -461,6 +465,7 @@ https://tvs2.aynaott.com/historyen/tracks-v1a1/mono.m3u8
 http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-102 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8?5474
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u
 
@@ -517,6 +522,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 https://tvs2.aynaott.com/asports/tracks-v1a1/mono.m3u8
 
 #EXTINF:0  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9494.ts
 http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9486.ts
 
@@ -527,7 +533,6 @@ http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9486.ts
 http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIY7gGXSO_AQFF8fE9Xsag_Fen6pWIL3r5w&usqp=CAU", Champions tv 1 
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-
+#http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
 
