@@ -315,7 +315,8 @@ https://tvs1.aynaott.com/ZeeCafeHD/tracks-v1a1/mono.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/27.m3u8
 
 #EXTINF:-100 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGW1qG-NU2iZyi3OYDnKqSK3VYcEcEHRb2Fw&usqp=CAU",Star Gold
-http://bdiptv.net:8282/star-gold/tracks-v1a1/mono.m3u8
+#http://bdiptv.net:8282/star-gold/tracks-v1a1/mono.m3u8
+https://tv.googledrivelinks.com:443/live.php?c=Star_Gold_HD&q=800&e=.m3u8
 
 #EXTINF:-101 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1174px-Star_Gold_2.svg.png", Star Gold-2  
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
@@ -327,7 +328,8 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 https://tvs1.aynaott.com/MaxHD/index.m3u8
 
 #EXTINF:-104 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjJW-9CQNAt0PJpouO8YzJcINbdYd6Ln5TAlKVdE_7kYgkVF5hOaQeE4&s=10",Sony MAX
-http://xtream.efiberbd.net:8080/live/mkaua/stream/25.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/25.m3u8
+https://tv.googledrivelinks.com:443/live.php?c=Sony_Max_SD&q=800&e=.m3u8
 
 #EXTINF:-105 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU",Zee Cinema
 http://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
@@ -431,7 +433,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/43.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/44.m3u8\44.m3u8
 
 #EXTINF:-139 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlq7XBSJtf_7yyi2yusENct5Qz4SZb9semegbHmWxrjBHxpLi9WRwFTrM2&s=10”,B4U Music
-http://bdiptv.net:8282/b4u/tracks-v1a1/mono.m3u8
+#http://bdiptv.net:8282/b4u/tracks-v1a1/mono.m3u8
+https://tv.googledrivelinks.com:443/live.php?c=B4U_Music&q=800&e=.m3u8
 
 #EXTINF:-140 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png",9xM 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -491,7 +494,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-176 tvg-id="(no tvg-id)" tvg-name="Sony Ten" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-ten.png",Sony Ten
 
 #EXTINF:-177 tvg-logo="http://dugdugilive.com/img/channels/ten1.png",Sony Ten 1 HD 
-http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
 
 #EXTINF:-178 tvg-id="" tvg-name="SONY TEN2 HD" tvg-logo="https://imgur.com/UChLr4t.png",SONY TEN2 HD
 https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
@@ -502,22 +505,27 @@ https://tvs1.aynaott.com/SonySix/index.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/01.m3u8
 
 #EXTINF:-180 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/sony-six.png",Sony Six
-http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
+https://tvs1.aynaott.com/SonySix/index.m3u8
 
 #EXTINF:-181 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/Sony_TEN1HD_23oct_masthead_logo.png", Sony Sports 1   
-http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
+https://tv.googledrivelinks.com/live.php?c=Ten_HD&q=250&e=.m3u8
 
 #EXTINF:-182 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2C88os_DEEu3n0u1D4k2WRbQ3K0qGe2jPiQ&usqp=CAU", Sony Sports 2   
-http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
+https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
 
 #EXTINF:-183 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png", Sony Sports 5   
-http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
+https://tvs1.aynaott.com/SonySix/index.m3u8
 
 #EXTINF:-184 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index.m3u8
 
 #EXTINF:-185 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports SD 
-http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
+#http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.ts
 
 #EXTINF:-186 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGLQW9WuuEdBPu0Vpnvf05X00wkx83IE8fnl6qAhgJHDihDQUEYZnU9s&s=10",Red-Bull-TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT//master_1660.m3u8
@@ -527,7 +535,7 @@ https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 
 #EXTINF:-188 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png",STAR SPORTS 2 HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
+https://tvs1.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-189  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg",A SPORTS
 https://tvs2.aynaott.com/asports/tracks-v1a1/mono.m3u8
@@ -541,7 +549,8 @@ http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9486.ts
 #http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-192 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
-http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
 
 #EXTINF:-193 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIY7gGXSO_AQFF8fE9Xsag_Fen6pWIL3r5w&usqp=CAU", Champions tv 1 
 #http://tv.zonanime.my.id/vidio/championstv1.m3u8
