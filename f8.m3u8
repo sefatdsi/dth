@@ -181,13 +181,13 @@ http://208.86.19.13:81/904.stream/index.m3u8
 https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 
 #EXTINF:- 57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQ7mOxrhyi33NJA6ik6KIt9lCQG_AmQ_9dA&usqp=CAU",Star Jalsha SD
-https://rebrand.ly/StarJalsha-SD-44
+http://rebrand.ly/StarJalsha-SD-44
 
 #EXTINF:-58 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU",Zee Bangla HD
 https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-59 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9bqiKDOyqawfAuy2jMUJT4hNvdC_QnNbyJA&usqp=CAU",ZEE BANGLA SD
-https://rebrand.ly/ZeeBangla-SD-43
+http://rebrand.ly/ZeeBangla-SD-43
 
 #EXTINF:-60 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
 #http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
@@ -198,8 +198,7 @@ EXTINF:-61 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/s
 https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-63 tvg-id="(no tvg-id)" tvg-name="Sony Aath SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei6W5CteSxlY1BnPyLmKWkZKwSpmBICR8tg&usqp=CAU",Sony Aath SD
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131674
-http://bdiptv.net:8282/Sonyaath/tracks-v1a1/mono.m3u8
+http://rebrand.ly/SonyAath-SD
 
 #EXTINF:-64 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKURTsVqVjFHOJNWtnEYCpuBBrF55kd2x11tbBDaoyyRSCoiDvKnz_AF4b&s=10",Akash Aath
 #http://0nelivezer0.rbtvnw.com:21190/vesta/aakaashbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDU6NTM6MzUgQU0maGFzaF92YWx1ZT1hcWFkL1Vwd0U1dUx5QjZQQk10UGdRPT0mdmFsaWRtaW51dGVzPTI=
@@ -559,5 +558,6 @@ http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
 
 #EXTINF:-193 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIY7gGXSO_AQFF8fE9Xsag_Fen6pWIL3r5w&usqp=CAU", Champions tv 1 
 #http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
 
 
