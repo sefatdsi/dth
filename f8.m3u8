@@ -152,7 +152,7 @@ http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
 #EXTINF:-47 tvg-logo="https://imgpile.com/images/58JTub.png",DOYEL TV
 https://tempx.jagobd.com:441/live-orgin/doyeltv.stream/chunks.m3u8
 
-#EXTINF:-48  tvg-logo="https://imgur.com/Yz9WnlX.png",NAN TV [BD]
+#EXTINF:-48  tvg-logo="https://imgur.com/Yz9WnlX.png",NAN TV [BD] 
 https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 
 #EXTINF:-49 
@@ -163,7 +163,7 @@ https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-51 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xuBfnXkpfCIS3FPYZDWDAdvfY-GPq0aG_nlpK63iDxYLK0mSo-FM4fg&s=10", Magic Bangla TV
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/magicbanglatv.stream/playlist.m3u8
+#https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/magicbanglatv.stream/playlist.m3u8
 
 #EXTINF:- 52 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jitmj3QJMfkbGPG3MMYrWoMJ1u6Y5ODnjg&usqp=CAU",52 Tv
 https://5dd3981940faa.streamlock.net/channel52tv/channel52tv/chunklist_w2102345989.m3u8
@@ -181,15 +181,13 @@ http://208.86.19.13:81/904.stream/index.m3u8
 https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 
 #EXTINF:- 57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQ7mOxrhyi33NJA6ik6KIt9lCQG_AmQ_9dA&usqp=CAU",Star Jalsha SD
-#http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8
-http://xtream.efiberbd.net:8080/live/mkaua/stream/06.m3u8
+https://rebrand.ly/StarJalsha-SD-44
 
 #EXTINF:-58 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU",Zee Bangla HD
 https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-59 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9bqiKDOyqawfAuy2jMUJT4hNvdC_QnNbyJA&usqp=CAU",ZEE BANGLA SD
-#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131691
-http://xtream.efiberbd.net:8080/live/mkaua/stream/05.m3u8
+https://rebrand.ly/ZeeBangla-SD-43
 
 #EXTINF:-60 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
 #http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
@@ -244,7 +242,7 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99525.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 
 #EXTINF:-76 tvg-logo="https://www.nicepng.com/png/full/945-9457651_nickelodeon-hd-new-logo.png", Nick HD+
-http://103.151.43.102:8801\play/a03f/index.m3u8
+http://103.151.43.102:8801/play/a03f/index.m3u8
 
 #EXTINF:-77 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
@@ -280,7 +278,7 @@ https://tvs1.aynaott.com/SabHD/index.m3u8
 http://tvs2.aynaott.com/SonyHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p9yJUKDreKMSMcAfsblLBVxtZCVt-sYaSQ&usqp=CAU",Zee TV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
+#http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
 https://tvs2.aynaott.com/ZeeTvHD/tracks-v1a1/index-1666933200-now.m3u8
 
 #EXTINF:-89 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgJT_R72WibPdGtEtogxo0rpybLya6UTOQMQ&usqp=CAU",Star Utsav 
@@ -304,8 +302,7 @@ http://208.86.19.13:81/907.stream/index.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 #EXTINF:-95 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpGKOrjC_G_u-aPXXJABUm6UlHZaFAYKsDA&usqp=CAU", Jalsha Movies HD
-#http://xtream.efiberbd.net:8080/live/mkaua/stream/08.m3u8
-http://nayeem-ban.chadasaniya.ml/STAR_JHALSA_MOVIES_Bang/index.m3u8?token=test
+https://rebrand.ly/JhalsaMovies-43
 
 #EXTINF:-96 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJ8MpC25cC8HWZHTs0gep0zyB6c_SANjjJw&usqp=CAU", Jalsha Movies SD
 http://str24.l9574.com/617.stream/index.m3u8
@@ -342,7 +339,7 @@ http://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-106 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeRotRlbDc3-AYZgBd1kW10AXcCGrA0_AUQ&usqp=CAU",Zee Action
 
 #EXTINF:-107 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png", Star Bharat  
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+https://rebrand.ly/Star-Bharat
 
 #EXTINF:-108 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUOYr9d2hw-ZjiF44xBPewpU0x2OK9TPwww&usqp=CAU", Movies Now   
 
@@ -562,4 +559,5 @@ http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
 
 #EXTINF:-193 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIY7gGXSO_AQFF8fE9Xsag_Fen6pWIL3r5w&usqp=CAU", Champions tv 1 
 #http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
 
