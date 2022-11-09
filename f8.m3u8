@@ -230,7 +230,7 @@ https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 
 #EXTINF:-72 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
-https://rcsfacility.com/jiotv/  live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
+#https://rcsfacility.com/jiotv/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
 
 #EXTINF:-73 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick Bangla 
 https://rcsfacility.com/jiotv/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
@@ -244,7 +244,7 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/99525.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 
 #EXTINF:-76 tvg-logo="https://www.nicepng.com/png/full/945-9457651_nickelodeon-hd-new-logo.png", Nick HD+
-http://103.151.43.102:8801/ play/a03f/index.m3u8
+http://103.151.43.102:8801\play/a03f/index.m3u8
 
 #EXTINF:-77 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
@@ -258,7 +258,7 @@ http://watchindia.net:8880/live/vvv/vvv/2104.m3u8
 #EXTINF:-80 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
 
 #EXTINF:-81 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITbitI1WSKd15RaFvtUHEJmSWENh6p0dxKw&usqp=CAU",Tom & Jerry  
-http://starshare.live:8080/ /live/15609478936/46982679863/121301.ts
+http://starshare.live:8080\live/15609478936/46982679863/121301.ts
 
 #EXTINF:-82 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__5-T6-CNE8kPRxLfMOtwQQT6LiAyzzTiRArP4-KnNZGHglv5SGqb4T3E&s=10",Star Plus
 http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
@@ -321,7 +321,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/27.m3u8
 
 #EXTINF:-100 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGW1qG-NU2iZyi3OYDnKqSK3VYcEcEHRb2Fw&usqp=CAU",Star Gold
 #http://bdiptv.net:8282/star-gold/tracks-v1a1/mono.m3u8
-https://tv.googledrivelinks.com:443/live.php?c=Star_Gold_HD&q=800&e=.m3u8
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-101 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1174px-Star_Gold_2.svg.png", Star Gold-2  
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
@@ -562,4 +562,5 @@ http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
 
 #EXTINF:-193 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIY7gGXSO_AQFF8fE9Xsag_Fen6pWIL3r5w&usqp=CAU", Champions tv 1 
 #http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
 
