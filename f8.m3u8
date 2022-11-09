@@ -540,7 +540,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/3.ts
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT//master_1660.m3u8
 
 #EXTINF:-187 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
-http://live.hplink.com.bd/streams/101/index.m3u8
+https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-188 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png",STAR SPORTS 2 HD
 https://tvs1.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
@@ -562,5 +562,4 @@ http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
 
 #EXTINF:-193 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIY7gGXSO_AQFF8fE9Xsag_Fen6pWIL3r5w&usqp=CAU", Champions tv 1 
 #http://tv.zonanime.my.id/vidio/championstv1.m3u8
-
 
