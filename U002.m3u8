@@ -1,21 +1,4 @@
 
-
-novojitdas
-/
-banglaiptv
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-banglaiptv/Bangla Channel.m3u
-@novojitdas
-novojitdas Create Bangla Channel.m3u
- 1 contributor
-223 lines (223 sloc)  21.2 KB
 #EXTM3U
 #EXTINF:61, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted" - ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
