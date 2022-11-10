@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:61, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted" - ATN Bangla
-http://103.205.133.19/hls/atnbangla.m3u8
+http://103.205.133.19/hls/atnbangla.m3u8.
 #EXTINF:58, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted" - Banglavision
 http://103.205.133.19/hls/banglavision.m3u8
 #EXTINF:61, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bangla TV"  group-title="Unsorted" - Bangla TV
