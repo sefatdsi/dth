@@ -8,7 +8,7 @@ http://103.205.133.19/hls/banglatv.m3u8
 #EXTINF:60, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted" - BTV World
 http://103.205.133.19/hls/btvworld.m3u8
 #EXTINF:62, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTV"  group-title="Unsorted" - BTV
-http://103.205.133.19/hls/btv.m3u8
+http://103.205.133.19/hls/btv.m3u8?
 #EXTINF:61, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel 24"  group-title="Unsorted" - Channel 24
 http://103.205.133.19/hls/channel24.m3u8
 #EXTINF:65, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DBC News"  group-title="Unsorted" - DBC News
