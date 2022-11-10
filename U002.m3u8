@@ -14,7 +14,7 @@ http://103.205.133.19/hls/channel24.m3u8
 #EXTINF:65, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DBC News"  group-title="Unsorted" - DBC News
 http://103.205.133.19/hls/dbcnews.m3u8
 #EXTINF:63, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Deepto TV"  group-title="Unsorted" - Deepto TV
-http://103.205.133.19/hls/deeptotv.m3u8
+http://103.205.133.19/hls/deeptotv.m3u8?
 #EXTINF:66, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ekushey TV"  group-title="Unsorted" - Ekushey TV
 http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:64, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gaan Bangla"  group-title="Unsorted" - Gaan Bangla
