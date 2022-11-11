@@ -1,1 +1,69 @@
-..
+#EXTM3U
+#EXTINF:-0 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
+http://tv.pmcon.net/hls/stream31.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla HD
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10154
+#EXTINF:-0 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
+http://tv.pmcon.net/hls/stream14.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10156
+#EXTINF:-0 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema HD
+http://jupiter.bdcabletv.com/ZeeCinemaHD/video.m3u8
+
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="NEWS",ABP Ananda
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/94MWo0U.png" group-title="NEWS",Calcutta News
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/kXfuCMM.png" group-title="NEWS",News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:-0 tvg-logo="https://images.tv9bangla.com/wp-content/uploads/2020/11/Tv9Bangla-Logo-200x200-1.png" group-title="NEWS",TV9 Bangla
+https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
+#EXTINF:-0 tvg-logo="https://i.ytimg.com/vi/ZbqFXifTAUw/maxresdefault.jpg" group-title="NEWS",R. Bangla
+https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_2.m3u8
+
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="DOCUMENTARY",Animal Planet HD Hindi
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY",Discovery HD Bangla
+http://tv.pmcon.net/hls/stream9.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY",Discovery HD 
+http://tv.aliflailabd.com:8989/discovery/index.m3u8
+
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay
+http://tv.pmcon.net/hls/stream32.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="KIDS",Discovery Kids
+http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/Amjx4BZ.png" group-title="KIDS",Disney XD
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
+
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="MUSIC",Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/05tj9z40/Bangla-Talkies-Logo-cover.jpg" group-title="MUSIC",Bangla Talkies
+https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="MUSIC",B4U Music
+https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS",Sony Six HD
+http://tv.pmcon.net/hls/stream10.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS",Sony Ten 1 HD
+http://tv.pmcon.net/hls/stream40.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="SPORTS",Sony Ten 2 HD
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10170
+#EXTINF:-0 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="SPORTS",Sony Ten 3 HD
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10169
+#EXTINF:-0 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SPORTS",Star Sports 1 HD Hindi
+http://tv.pmcon.net/hls/stream15.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SPORTS",Star Sports 1 HD Bangla
+http://103.157.237.18:8000/play/601
+#EXTINF:-0 tvg-logo="https://www.nicepng.com/png/detail/269-2696415_watch-your-favorite-shows-from-following-tv-channels.png" group-title="SPORTS",Star Sports 2 HD
+http://180.210.191.2/hls/stream16.m3u8
+#EXTINF:-0 tvg-logo="https://preview.ibb.co/meAMkv/Screenshot_2017_05_28_03_07_42.png" group-title="SPORTS", Star sports select 1 HD
+http://180.210.191.2/hls/stream12.m3u8
