@@ -94,7 +94,7 @@ https://tempx.jagobd.com:441/c5VmmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="26.NTV"  group-title="Unsorted" - 26.NTV
 http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="27.RTV"  group-title="Unsorted" - 27.RTV
-http://103.205.133.21/hls/rtv.m3u8
+http://103.205.133.21/hls/rtv.m3u8?
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="28.Sangsad TV"  group-title="Unsorted" - 28.Sangsad TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="29.SATV"  group-title="Unsorted" - 29.SATV
