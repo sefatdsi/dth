@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-0 tvg-id="" tvg-name="Deen TV" tvg-logo="https://i.imgur.com/QNCosaS.png",Deen TV
-http://cuts2.com/PYzgEm
-
-#EXTINF:-1 tvg-id="" tvg-name="SAUDIA QURAN HD" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
-http://cuts2.com/vjmNV
-
-#EXTINF:-2 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
-http://cuts2.com/PSpEE
-
 #EXTINF:-3 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic 
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 
