@@ -66,4 +66,4 @@ http://103.157.237.18:8000/play/601
 #EXTINF:-0 tvg-logo="https://www.nicepng.com/png/detail/269-2696415_watch-your-favorite-shows-from-following-tv-channels.png" group-title="SPORTS",Star Sports 2 HD
 http://180.210.191.2/hls/stream16.m3u8
 #EXTINF:-0 tvg-logo="https://preview.ibb.co/meAMkv/Screenshot_2017_05_28_03_07_42.png" group-title="SPORTS", Star sports select 1 HD
-http://180.210.191.2/hls/stream12.m3u8
+http://180.210.191.2/hls/stream12.m3u8?
