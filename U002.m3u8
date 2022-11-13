@@ -98,7 +98,7 @@ http://103.205.133.21/hls/rtv.m3u8?
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="28.Sangsad TV"  group-title="Unsorted" - 28.Sangsad TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="29.SATV"  group-title="Unsorted" - 29.SATV
-http://103.205.133.21/hls/satv.m3u8
+http://103.205.133.21/hls/satv.m3u8?
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="30.Somoy TV"  group-title="Unsorted" - 30.Somoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="31.Agami TV"  group-title="Unsorted" - 31.Agami TV
