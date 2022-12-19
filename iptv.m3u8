@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:28168
 #EXT-X-TARGETDURATION:6
-#EXT-X-KEY:METHOD=AES-128,URI="https://tv.googledrivelinks.com/stream.php?key=Discovery/Discovery_1200-1671481130000.key",IV=0x0000000000000000000001852C09FC10
+#EXT-X-KEY:METHOD=AES-128,URI="https://tv.googledrivelinks.com/live.php?c=Discovery&q=1200&e=junk.m3u8",IV=0x0000000000000000000001852C09FC10
 #EXTINF:6.000,
-https://tv.googledrivelinks.com/stream.php?key=Discovery/Discovery_1200-1671481130000.key
+https://tv.googledrivelinks.com/live.php?c=Discovery&q=1200&e=junk.m3u8
 #EXTINF:6.000,
-https://tv.googledrivelinks.com/stream.php?key=Discovery/Discovery_1200-1671481130000.key
+https://tv.googledrivelinks.com/live.php?c=Discovery&q=1200&e=junk.m3u8
