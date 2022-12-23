@@ -1,8 +1,9 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=testgg
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test 
+http://103.166.102.58:8000/play/a021?token=56554
+http://103.166.102.58:8000/play/a021?token=56554
+http://103.166.102.58:8000/play/a021?token=56554
 
 
 
