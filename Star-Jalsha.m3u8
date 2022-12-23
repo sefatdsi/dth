@@ -1,7 +1,8 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://103.143.235.50/starsha/tracks-v1a1/mono.m3u8
-http://103.143.235.50/Sony_Aath/tracks-v1a1/mono.m3u8
-http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2286.ts?token=1
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2286.ts?token=2
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2286.ts?token=3
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2286.ts?token=4
 
