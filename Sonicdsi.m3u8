@@ -1,7 +1,6 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://www.bioscopelive.com/en/channel/nickelodeon
 https://edge4.bioscopelive.com/hlsnick.m3u8
 https://edge4.bioscopelive.com/hlsnick.m3u8
 
