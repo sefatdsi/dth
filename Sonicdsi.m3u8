@@ -1,12 +1,12 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=250&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=1200&e=.m3u8
 #EXTINF:6.001,
-https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=250&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=1200&e=.m3u8
 #EXTINF:6.002,
-https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=250&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=1200&e=.m3u8
 #EXTINF:6.003,
-https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=250&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=1200&e=.m3u8
 #EXTINF:6.004,
 https://tv.googledrivelinks.com/live.php?c=Sonic_Bangla&q=250&e=.m3u8
