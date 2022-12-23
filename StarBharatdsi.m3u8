@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2",AVERAGE-BANDWIDTH=2100000,BANDWIDTH=2620000
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
-tracks-v1a1/mono.m3u8?token=test
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
-tracks-v1a1/mono.m3u8?token=test
+http://144.217.70.181:9587/hin2/STARBHARATUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:6.000,
+http://144.217.70.181:9587/hin2/STARBHARATUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:6.000,
+http://144.217.70.181:9587/hin2/STARBHARATUK/tracks-v1a1/mono.m3u8?token=test
