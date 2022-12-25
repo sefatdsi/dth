@@ -3,11 +3,11 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:1671840147
 #EXTINF:10.000000,
-http://103.143.235.50/Sony_Aath/tracks-v1a1/mono.m3u8
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155990.m3u8
 #EXTINF:10.000000,
-https://tv.googledrivelinks.com/live.php?c=Sony_aath&q=250&e=.m3u8
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155990.m3u8
 #EXTINF:10.000000,
-http://15.1.5.14:8082/Sonyaath/index.m3u8
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155990.m3u8
 
 
 
