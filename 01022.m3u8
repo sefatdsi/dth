@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| KENH CO BAN" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png" catchup="append" catchup-days="2" catchup-source="",SA TV
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv  
-https://sefatdsi.github.io a href="/dth/tracks-v1a1/StarJalsha0.m3u8"
-href="/dth/tracks-v1a1/StarJalsha0.m3u8"
+https://raw.githubusercontent.com/sefatdsi/dth/main a href="/tracks-v1a1/StarJalsha0.m3u8"
+href="/tracks-v1a1/StarJalsha0.m3u8"
 
 .
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
@@ -17,14 +17,6 @@ https://tempskyview.jagobd.cm:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 http://iptvbd.jagobd.com3/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 http://15.1.5.14:8082/AsnTVracks-v1a1/mono.m3u8
 http://appcdn.jagobd.com:1932dmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
-http://15.1.5.14:8082/Ekatorv/index.m3u8
-http://stream.amrbd.cm:8082/Ekattor-tv/index.m3u8?
-http://103.121.14.18/hls/nexus.m3u8?
-
-#.com:444/sooy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
